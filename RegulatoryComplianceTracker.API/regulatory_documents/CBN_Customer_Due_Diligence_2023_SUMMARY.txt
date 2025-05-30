@@ -1,0 +1,16 @@
+**Summary of Central Bank of Nigeria (Customer Due Diligence) Regulations, 2023**
+
+The Central Bank of Nigeria (CBN) has established new Customer Due Diligence (CDD) Regulations aimed at enhancing compliance and preventing financial crimes such as money laundering and terrorism financing. The regulations require financial institutions (FIs) to implement robust CDD measures, including the prohibition of anonymous accounts, rigorous identification and verification processes, and ongoing monitoring of business relationships. Specific measures are outlined for various types of customers, including individuals, corporate entities, and non-resident accounts. Enhanced CDD is required when risks are identified, and financial institutions must maintain comprehensive records to support compliance and due diligence processes. Sanctions are specified for non-compliance with these regulations.
+
+**Key Topics:**
+- Objectives and Application
+- Customer Due Diligence Measures
+- Customer Identification and Verification
+- Risk-Based Approach to CDD
+- Enhanced Due Diligence for High-Risk Customers
+- Record-Keeping Requirements
+- Compliance Sanctions
+
+**Risk Level:** High
+
+[Read more](link-to-pdf-source)

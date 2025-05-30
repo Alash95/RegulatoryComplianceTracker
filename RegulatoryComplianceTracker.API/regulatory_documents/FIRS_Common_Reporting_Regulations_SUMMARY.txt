@@ -1,0 +1,23 @@
+### Summary of Income Tax (Common Reporting Standard) Regulations, 2019
+
+**Topics Covered:**
+1. Purpose of the Regulations
+2. Scope of Applicability
+3. Requirements of the Common Reporting Standard (CRS)
+   - Due Diligence Requirements
+   - Reporting Requirements
+   - Record-Keeping Requirements
+4. Administration and Enforcement
+   - Functions and Powers of the Federal Inland Revenue Service (FIRS)
+   - Access to Information and Assistance
+   - Confidentiality of CRS Information
+5. Non-Compliance and Penalties
+   - Administrative Penalties for Non-Compliance
+6. Supplementary and General Provisions
+
+**Risk Level: Medium**
+The regulations establish due diligence and reporting requirements that financial institutions in Nigeria must comply with concerning the Common Reporting Standard. Non-compliance can result in significant administrative penalties, indicating a medium risk to entities that fail to adhere to these regulations.
+
+[Read More](source)
+
+This summary points out the key regulations addressing the implementation of CRS in Nigeria, providing both the obligations and penalties for non-compliance, highlighting the importance of this regulatory framework.

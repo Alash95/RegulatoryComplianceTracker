@@ -1,0 +1,2804 @@
+SECURITIES AND EXCHANGE COMMISSION (CAPITAL MARKET OPERATORS ANTI-MONEY 
+LAUNDERING, COMBATING TERRORISM FINANCING AND PROLIFERATION FINANCING) 
+REGULATIONS, 2022 
+ 
+ 
+                                                           
+ 
+ 
+SECURITIES AND EXCHANGE COMMISSION (CAPITAL MARKET OPERATORS ANTI-MONEY 
+LAUNDERING AND COMBATING THE FINANCING OF TERRORISM) REGULATIONS, 2022 
+ 
+ARRANGEMENT OF REGULATIONS 
+ 
+Regulation: 
+ 
+PART I - OBJECTIVES, APPLICATION AND SCOPE 
+1. Objectives 
+2.  Application 
+ 
+PART II - AML AND CFT/CPF INSTITUTIONAL POLICY FRAMEWORK 
+3. General Guidelines on Institutional Policy. 
+4. Duties of an AML/CFT/CPF Compliance Officer. 
+5. Co-operation with relevant authorities  
+6. Identification of proceeds of crime  
+7.  Secrecy and confidentiality laws 
+8. Anonymous and numbered accounts 
+ 
+PART III - CUSTOMER DUE DILIGENCE MEASURES 
+9. Customer Due Diligence measures   
+10. Correspondent relationships with high risk foreign banks 
+11. On-going Due Diligence 
+12. Application of Enhanced Customer Due Diligence (ECDD) for Higher Risk Clients  
+13. Lower Risk Categories of Clients  
+14. Timing of Verification 
+15.         Travel Rule Requirements  
+16.         Verification of Beneficial Ownership 
+ 17. Application of CDD to existing clients 
+18. Determination of a Politically Exposed Person  
+19. Measures to prevent the misuse of new technologies and non- face-to-face transactions   
+20. Reliance on intermediaries and third parties on CDD measures 
+21.  Keeping and maintenance of records of transactions 
+22. Complex and unusual large transactions 
+ 
+PART IV - INTERNAL CONTROLS, COMPLIANCE AND AUDIT 
+23. Internal Procedures, Policies and Controls  
+ 
+PART V - MONITORING AND REPORTING OF SUSPICIOUS TRANSACTION REPORTS 
+24. Suspicious Transactions “Red Flags” 
+25. Business relationships with persons from countries which do not apply the FATF recommendations 
+1 
+  
+PART VI - EMPLOYEE EDUCATION AND TRAINING PROGRAMME 
+26.        Comprehensive employee education and training programmes 
+27.  Monitoring of employee conduct 
+28. Protection of staff who report violations 
+29. Additional Areas of AML/CFT/CPF Risks 
+30. Additional Procedures and Mitigants 
+31. Testing for the Adequacy of the AML/CFT/CPF Compliance Programme 
+32.   Board approval of the AML/CFT/CPF Compliance Manual 
+ 
+PART VII - KNOW YOUR CUSTOMER AND IDENTIFICATION PROCEDURE 
+33. Guidance on Know Your Customer 
+34. Duty to obtain identification evidence 
+35. Identification Procedure  
+36. Verification of identity 
+37. Timing of Identification Requirements 
+38. Cancellation and Cooling - Off Rights, Redemptions and Surrenders 
+39. New business transaction by an existing Client. 
+40. Certification of Identification Documents 
+41. Recording identification evidence 
+42. Concession in respect of payment made by post 
+43. Investment funds 
+ 
+PART VIII - ESTABLISHING IDENTITY 
+44.  Establishment of identity under these Regulations   
+45.  General Information  
+46.  Private Individuals resident in Nigeria 
+47.   Physical Checks on Private Individuals resident in Nigeria  
+48.         Electronic checks 
+49.    Private Individuals not resident in Nigeria 
+50. Information to establish identity 
+51.  Identification guidance for Institutions 
+52.        Other Types of Operators 
+53.        Retirement benefit programmes 
+54.        Mutual or friendly, cooperative and provident societies 
+55.        Charities, clubs and associations 
+56.        Trusts and foundations  
+57.        Professional intermediaries  
+58. False identities and impersonations  
+59. Refugee and asylum seeker  
+60. Identification procedures for opening accounts for students or young persons 
+61. Establishing the Identity of Trust, Nominees and Fiduciaries 
+62. Offshore Trusts 
+63. Conventional family and absolute Nigerian trusts 
+64. Receipt and Payment of Funds on behalf of a Trust. 
+65. Powers of Attorney and Third Party Mandates 
+66. Executorship accounts 
+67. Unincorporated Business or Partnerships 
+68. Verification of legal existence of a corporate client 
+2 
+ 69. Non Face – to - Face Business 
+70. Low Risk Corporate Business. 
+71. Private and Public unquoted Companies 
+72. Higher Risk Business Relating to Private or Public unquoted Companies 
+73. Foreign Capital Market Operator 
+74. Charities in Nigeria 
+75. Registered Charities 
+76. Clubs and Societies 
+77. Occupational Pension Schemes 
+78. Religious Organizations (ROs) 
+79. Three -Tiers of Government and Parastatals 
+80. Foreign Consulates 
+ 
+PART IX - INTERMEDIARIES OR OTHER THIRD PARTIES TO VERIFY IDENTITY OR TO INTRODUCE BUSINESS 
+81. Introductions from authorized financial intermediaries 
+82. Written applications 
+83. Non-written application 
+84. Introductions from foreign intermediaries 
+85. Corporate group introductions 
+86. Business conducted by agents 
+87. Correspondent relationship 
+88. Acquisition of a capital market business by another  
+ 
+PART X - RECEIVING CAPITAL MARKET OPERATORS AND AGENTS 
+89. Vulnerability of receiving bankers and agents to money laundering, terrorism financing and proliferation financing 
+90. Who to identify 
+91. Applications received via brokers 
+92. Multiple family applications 
+9 3. Linked transactions 
+94. Exemption from Identification Procedures 
+ 
+PART XI - MISCELLANEOUS 
+95.  Sanctions for Non- Compliance with the provisions of these Regulations 
+96. Revocation 
+97. Interpretation  
+98. Citation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+  
+ 
+SECURITIES AND EXCHANGE COMMISSION (CAPITAL MARKET OPERATORS ANTI-MONEY 
+LAUNDERING AND COMBATING THE FINANCING OF TERRORISM AND PROLIFERATION) REGULATIONS, 
+2022 
+ 
+In exercise of the powers conferred on me by Section 23 of the   Money Laundering (Prevention and Prohibition) 
+Act of 2022, and Section 39 of the Terrorism (Prevention and Prohibition Act 2022, I hereby make the following 
+Regulations:  
+ 
+[……11…day of May, 2022] 
+ 
+ 
+   [                      ]     Commencement 
+ 
+PART I 
+OBJECTIVES, APPLICATION AND SCOPE 
+1. Objectives 
+ 
+These Regulations are made to –  
+ 
+(a) Combat Money Laundering, Terrorism and Proliferation Financing activities in the capital market. 
+ 
+(b) minimize the risk faced by the capital market from the proceeds of crime; 
+ 
+(c) guide capital market operators in the implementation of Know Your Customer (KYC) and Customer Due 
+Diligence (CDD) requirements for the capital market; and 
+ 
+(d) comply with the requirements of the Money Laundering (Prevention and Prohibition) Act of 2022, 
+Terrorism (Prevention and Prohibition) Act, 2022 and Terrorism Prevention (Freezing of International 
+Terrorists Funds and other Related Measures) Regulations 2013, including other related Laws and 
+Regulations.  
+ 
+2.  Application 
+ 
+These Regulations apply to the activities of money laundering, terrorism and proliferation financing in the Nigeria 
+capital market operations and related matters. 
+ 
+PART II 
+AML/CFT/CPF INSTITUTIONAL POLICY FRAMEWORK 
+ 
+3. General Guidelines on Institutional Policy. 
+ 
+A Capital Market Operator shall –  
+            
+(a) adopt policies stating its commitment to comply with Anti - Money Laundering and Countering the Financing 
+of Terrorism and Countering the Proliferation Financing (AML/CFT/CPF) obligations under the law and 
+regulatory directives to actively prevent any transaction that facilitates criminal activities; 
+ 
+(b) formulate and implement internal controls and other procedures that will deter criminals from using its 
+4 
+ facilities for money laundering, terrorist and proliferation financing and to ensure that its obligations under 
+subsisting Laws and Regulations are met;   
+ 
+(c) designate AML/CFT/CPF Chief Compliance Officer at the management level with the relevant 
+competence, authority and independence to implement the institution’s AML/CFT/CPF compliance 
+programme; and 
+ 
+(d) to ensure a measure of authority and independence for the function, the Chief Compliance Officer shall 
+report to the board of directors and on dotted lines to the Chief Executive Officer, and the role shall be 
+distinct from the functions of financial reporting, risk management and internal audit. 
+ 
+(e) a Compliance Officer shall satisfy the fit and proper persons’ requirement as set out by the Commission.  
+ 
+(f) comply with the requirements of the Money Laundering (Prevention and Prohibition) Act of 2022 and 
+Terrorism (Prevention and Prohibition) Act, 2022. 
+ 
+(g)   shall ensure that their foreign branches and majority-owned subsidiaries implement consistent 
+AML/CFT/CPF measures and take related actions.   
+ 
+4.          Duties of an AML/CFT/CPF Compliance Officer. 
+ 
+The duties of a Compliance Officer include – 
+ 
+(a) developing an AML/CFT/CPF Compliance Programme; 
+ 
+(b) rendering weekly mandatory disclosure/cash transactions returns (CTRs); 
+ 
+(c)  rendering reports on suspicious transactions to the Nigerian Financial Intelligence Unit (NFIU); 
+ 
+(d) Rendering daily returns on Foreign Exchange Transactions to the Securities and Exchange Commission 
+(SEC) and the NFIU; 
+ 
+(e) receiving and vetting suspicious transaction reports from staff; 
+ 
+(f) ensuring that the Capital Market Operator’s compliance programme is duly implemented; 
+ 
+(g) coordinating the training of staff in AML/CFT/CPF awareness, detection methods and reporting 
+requirements;  
+ 
+(h) serving as liaison officer to both the SEC and NFIU; and 
+ 
+(i) serving as a point of contact for all employees on issues relating to money laundering, terrorist financing 
+and proliferation financing. 
+ 
+5. Co-operation with relevant authorities  
+ 
+(1) A Capital Market Operator shall comply promptly with all the requests made pursuant to subsisting 
+laws and Regulations and shall provide information to the SEC, NFIU and other relevant law 
+enforcement agencies on AML/CFT/CPF matters.  
+5 
+  
+(2) Where there is a request for information on money laundering, terrorist financing or proliferation 
+financing, a Capital Market Operator shall –  
+ 
+(a) search immediately without delay the institution’s records and electronic data-base to determine 
+whether it maintains or has maintained any account for or has engaged in any transaction any 
+individual, entity or organization named in the request; 
+ 
+(b) report promptly to the requesting authority the outcome of the search; and 
+ 
+(c) protect the security and confidentiality of such requests.  
+ 
+6. Identification of proceeds of crime  
+ 
+A Capital Market Operator shall in the course of its business identify and report to the NFIU,any suspicious 
+transactions derived from the following criminal activities–  
+(a) participation in an organized crime groups and racketeering;  
+(b) terrorism and terrorist financing; 
+(c) trafficking in human beings and migrant smuggling; 
+(d) sexual exploitation, including sexual exploitation of children; 
+(e) illicit trafficking in narcotic drugs and psychotropic substances; 
+(f) illicit arms trafficking; 
+(g) illicit trafficking in stolen and other goods;  
+(h) corruption and bribery; 
+(i)  fraud; 
+(j)  counterfeiting currency; 
+(k)   counterfeiting and piracy of products;  
+(l) environmental crime; 
+(m) murder, grievous bodily injury; 
+(n) kidnapping illegal restraint and hostage taking;  
+(o) robbery or theft; 
+(p) smuggling;  
+(q) extortion;  
+(r)  forgery; 
+(s)  piracy; 
+(t) insider trading and market manipulation; and 
+(u)  Tax evasion 
+(v)          Proliferation Financing (Weapons of Mass destruction); 
+ 
+(w)        any other criminal act specified in the Money Laundering (Prevention & Prohibition) Act, 2022, Terrorism 
+(Prevention and Prohibition) Act, 2022 or any other law. 
+ 
+7.  Secrecy and confidentiality laws 
+ 
+A Capital Market Operator secrecy and confidentiality laws shall not inhibit the implementation of the requirements of 
+these Regulations in view of the provisions in the Economic and Financial Crimes Commission Act; Money Laundering 
+( Prevention and Prohibition) Act, 2022,Terrorism (Prevention and Prohibition) Act, 2022 and other relevant 
+subsisting laws and regulations and in giving the relevant authorities, either domestically or internationally, power to 
+access information to properly perform their functions in combating money laundering, terrorism and proliferation 
+financing. 
+6 
+  
+8. Anonymous and numbered accounts 
+ 
+A Capital Market Operator shall not keep anonymous accounts or accounts in fictitious names; and where 
+nominee accounts are maintained, details of the beneficial owners shall be provided on request. 
+ 
+PART III 
+CUSTOMER DUE DILIGENCE MEASURES 
+ 
+9. Customer Due Diligence measures   
+ 
+(1) A Capital Market Operator shall undertake Customer  Due Diligence (CDD) measures when –  
+ 
+(a) business relationship is established; 
+(b) carrying out occasional transactions above the sum of $1,000,000 or its equivalent or such other 
+thresholds as may be determined by SEC from time to time subject to the Money Laundering 
+(Prevention and Prohibition) Act, 2022, Terrorism (Prevention and Prohibition) Act,2022. 
+(c) the transaction is carried out in a single operation or several operations that appear to be linked;  
+(d)  carrying out occasional transactions that are wire transfers, including those applicable to cross-
+border and domestic transfers between Capital Market Operators and when credit or debit cards 
+are used as a payment system to effect money transfer; 
+(e)         conducting a VA transfer subject to the travel rule requirements as set out in Section 15. 
+ 
+ (f)          there is a suspicion of money laundering, terrorist financing or proliferation financing regardless of 
+any exemptions or any other sum referred to in these Regulations; or 
+ 
+(g)          there are doubts about the veracity or adequacy of previously obtained clients identification data; 
+ 
+(2)   A Capital Market Operator shall not be required to repeatedly perform identification and verification exercise 
+every time a client conducts a transaction, unless the Capital Market Operator suspects that there is a change in 
+the documents earlier provided. 
+ 
+(3) A Capital Market Operator shall –  
+(a)  carry out the full range of the CDD measures in these Regulations; and 
+(b)  identify all their clients and verify their identities using reliable, independently sourced documents, 
+data or information. 
+ 
+(4) The type of clients’ information to be obtained and identification data to be used to verify the information 
+shall include the following –  
+(a) for a clients who is a legal persons, a Capital Market Operator shall –   
+(i) verify the identity of any person purporting to have been authorized to act on behalf of 
+such a client by obtaining evidence of his identity and verifying the identity of such a 
+person, and 
+ 
+(ii) verify the status of the legal person by obtaining proof of incorporation from the Corporate 
+Affairs Commission (CAC) or similar evidence of establishment or existence and any other 
+relevant information; and  
+7 
+  
+(b) for other clients; 
+(i) a Capital Market Operator shall identify a beneficial-owner and take reasonable 
+measures to verify his identity using relevant information or data obtained from a reliable 
+source to satisfy itself that it knows who the beneficial-owner is; and 
+(ii)  a Capital Market Operator shall in respect of all clients, determine whether a client is 
+acting on behalf of another person; and where the client is acting on behalf of another 
+person, a Capital Market Operator is required to take reasonable steps to obtain sufficient 
+identification-data and to verify the identity of that other person. 
+(5) A Capital Market Operator shall take reasonable measures in respect of clients that are legal persons to  
+(a) understand the ownership and control structure of such a client; and 
+(b) determine the natural persons that ultimately own or control the client.  
+  
+(6)    Where the client or owner of the controlling interest is a public company listed on a recognized securities exchange and the 
+risk assessment indicates the clients to be low risk it is not necessary to identify and verify the identity of the shareholders 
+of such a public company.  
+ 
+(7) A Capital Market Operator shall obtain information on the purpose and intended nature of the business 
+relationship of its potential client. 
+ 
+(8) A Capital Market Operator shall adopt CDD measures on a risk sensitive-basis as provided for in these 
+Regulations.  
+ 
+(9) A Capital Market Operator shall determine in each case if the risks are lower or not, depending on the 
+type of client, product, transaction or location of the client. 
+  
+10. Correspondent relationships with high risk foreign banks 
+ 
+              (1) A Capital Market Operator shall:  
+(i) comply with all the requirements of the United Nation Security Council resolutions (UNSCRs). 
+(ii) screen their records to identify assets of all clients associated with UN-sanctioned lists and reports findings to the 
+SEC and NFIU.  
+(iii) CMOs shall screen their records to identify assets of all clients proscribed for TF/PF domestically and reports 
+findings to the SEC, NFIU and other relevant competent authorities within 24 hours. 
+(3) A Capital Market Operator shall: 
+ 
+i. identify and assess the money laundering and terrorist financing risks emerging from virtual asset activities and the 
+activities or operations of VASPs; 
+ii. based on the understanding of their risk apply a risk based approach to ensure that measures to prevent or mitigate 
+ML/TF/PF are commensurate with the risks identified.  
+iii. take appropriate steps to identify, assess and understand their ML/TF/PF risks for customers, delivery channels, 
+countries or geographic areas and products and services. 
+iv. apply mitigating measures that are commensurate to their inherent ML/TF/PF risks 
+v. strengthen their ML/TF/PF risk assessment models by developing an appropriate proxy. 
+8 
+ vi. develop the appropriate risk assessment models to risk profile their customers, products and services, delivery 
+channels and geographical areas into high, medium and low-risk bucket to deepen their understanding of ML/TF/PF 
+risk and their AML/CFT/PF risk obligation and ensure ongoing monitoring of customers on a risk-sensitive basis.  
+vii. develop appropriate tools and implement rigorous oversight and controls concerning PEPs, more effective Beneficial 
+Ownerships (BOs) and maintain accurate and up-to-date records on BOs information. 
+viii. keep their risk assessments up to date; and have appropriate mechanisms to provide risk assessment reports to the 
+SEC. 
+ix. consider all the relevant risk factors before determining the level of overall risk and the appropriate level and type 
+of mitigation to be applied.  
+x. have policies, controls and procedures approved by their boards of directors to enable them to manage and mitigate 
+the risks that have been identified either by Nigeria or by the CMOs. 
+xi. consider NRA reports in applying AML/CFT/CPF mitigating measures and incorporate findings in the annual return 
+on mitigants / contingency plan filed with the Commission. 
+     (4) Shell banks are prohibited from operating in Nigeria and Capital Market Operators are not allowed to establish 
+correspondent relationships with high risk foreign banks (such as shell banks) or with correspondent banks that permit 
+their accounts to be used by such banks. 
+ 
+     (5) The type of payment referred to in regulation 9 (1) (d) of these Regulations shall not apply to –  
+(a)   any transfer flowing from a transaction carried out using a credit or debit card so long as the credit 
+or debit card number accompanying such transfers does not flow from the transactions such as 
+withdrawals from a bank account through an Automated Teller Machine (ATM), cash advances 
+from a credit card or payment for goods; and 
+(b)  any transfer and settlements between Capital Market Operators where both the originator and 
+the beneficiary are Capital Market Operators, and are acting for themselves. 
+ 
+   (6) A Capital Market Operator shall take all necessary measures to satisfy itself that a correspondent Capital Market 
+Operator in a foreign country does not permit its accounts to be used by shell banks.  
+ 
+11. On-going Due Diligence 
+ 
+(1) A Capital Market Operator shall conduct ongoing due diligence on the business relationship as stated by 
+the client. 
+ 
+(2) The ongoing due diligence measures shall include scrutinizing the transactions undertaken by the client 
+throughout the course of the Capital Market Operator and client relationship to ensure that the transactions 
+conducted are consistent with the Capital Market Operator’s knowledge of the client, its business and risk 
+profiles and the source of funds. 
+(3) A Capital Market Operator shall ensure that documents, data or information collected under the CDD 
+process are kept up-to-date by reviewing existing records, particularly the records in respect of higher-
+risk business-relationships or clients’ categories. 
+ 
+(4) For clients that may require additional caution to be exercised when transacting with them, activities in 
+such client’s accounts shall be monitored on a regular basis for suspicious transactions. 
+ 
+(5) A Capital Market Operator shall refuse to do business with the client referred to in sub-regulation (4) of 
+this regulation or automatically classify them as high risk and subject them to an enhanced customer due 
+9 
+ diligence and shall weigh all the circumstances of a particular situation and assess if there is a higher 
+than normal risk of money laundering, terrorism and proliferation financing. 
+ 
+(6) A Capital Market Operator shall consider reclassifying a client as higher risk and file a suspicious 
+transaction report to the NFIU if following its initial acceptance of the clients, the pattern of account activity 
+of the clients does not fit in with the Capital Market Operator’s knowledge of the client. 
+ 
+(7) A Capital Market Operator shall not commence business relation or perform any transaction where the 
+client fails to comply with the due diligence requirements; and shall terminate an existing business 
+relationship and report to the NFIU, where the client fails to comply with due diligence requirements.  
+ 
+12. Application of Enhanced Customer Due Diligence (ECDD) for Higher Risk Clients  
+ 
+(1) A Capital Market Operator shall adopt an enhanced CDD process for higher risk categories of clients, 
+business relationships or transactions. 
+ 
+(2) A Capital Market Operator shall exercise greater caution when approving the opening of account or 
+conducting transactions for the following categories of high risk clients –  
+(a)  non-resident clients; 
+(b) clients from locations known for its high crime rate such as drug production, trafficking or 
+smuggling; 
+(c) clients and transactions from a jurisdiction designated by the FATF as high – risk jurisdictions or 
+those known to the Capital Market Operator to have inadequate AML/CFT/CPF laws and 
+regulations; 
+(d) Politically Exposed Persons (PEPs) and persons or companies related to them; 
+(e) complex legal arrangements such as unregulated investment vehicles or special purpose vehicles 
+(SPV);  
+(f)  companies that have nominee-shareholders; 
+(g) cross – border business relationship; 
+(h) wire transfers or non – face to face transactions 
+ 
+(3) A Capital Market Operator shall apply enhanced due diligence proportionate to the risks, to the business   
+relationships and transactions with natural and legal persons (including financial institutions) from countries 
+for which this is called for by the FATF. 
+ 
+            (4)        Counter-measures for high risk countries – 
+                        (a) Pursuant to section 13 (dd) of the Investment and Securities Act 2007, the Commission shall, 
+proportionate to the risks, call for specific counter measures to be applied by the reporting entities against 
+high-risk countries, including the mandatory application of enhanced due diligence measures as provided 
+by regulation 12 of this Regulation.  
+                      (b) Countermeasures may include, inter alia:-  
+                (i). limiting business relationships or financial transactions with the high-risk countries or with persons 
+located in the country concerned;  
+10 
+               (ii). reviewing and amending or, if necessary, terminating the agreement or arrangement governing the 
+correspondent banking or business relationships with financial institutions or other counterpart 
+institutions in the country concerned;  
+              (iii). conducting enhanced external audit, by increasing the intensity and frequency, for branches and 
+subsidiaries of the reporting entity located in the country concerned; 
+              (iv). prohibiting reporting entities from relying on third parties located in the country concerned to 
+conduct elements of the due diligence process; and  
+(v). conducting any other measures as may be specified by the Commission. 
+                 (c)  For the purposes of this section, “high-risk countries” means 
+                 (i) countries which are subject to a call for application of countermeasures by the FATF.  
+                 (ii) countries identified by the Commission or other competent authorities as having strategic 
+deficiencies in their AML/CFT/CPF regimes and/or posing a risk to the AML/CFT/CPF regime of 
+Nigeria.  
+(d) (i) The Commission shall publish the list of high-risk countries on its official website. The Commission 
+shall also promptly publish any subsequent updates to the list on its official website.  
+                   (ii) The list of high-risk countries shall be promptly updated by the Commission as and when there are:  
+(a)     any amendments to the FATF’s list of countries subject to a call for counter-measures; or 
+(b)     any revisions to the list identified by the Commission as per clause (ii) of subsection 3. 
+(5) Upon classifying a client, or transactions as “high-risk”, the Capital Market Operator shall undertake enhanced 
+CDD    process on the client which shall include enquiries on the— 
+ 
+(a) purpose for opening an account or carrying out the transaction; 
+ 
+(b) level and nature of trading activities intended; 
+(c) ultimate beneficial owners; 
+(d) source of funds; and 
+ 
+(e) senior management’s approval for opening the account. 
+ 
+(6) (1) A CMO shall implement counter measures proportionate to the risks to business relationships and transactions 
+with natural or legal persons (including CMOs) from countries for which this is called for by the FATF. 
+ 
+ (2) A CMO shall implement counter-measures proportionate to the risks when called for by the Commission 
+pursuant to regulation 12 (4) (ii) of this regulation: 
+ 
+13. Lower Risk Categories of Clients  
+ 
+(1) Simplified CDD process shall be adopted for lower risk categories of clients, business relationships 
+or transactions. 
+ 
+11 
+ (2) A Capital Market Operator shall consider the following as categories of low risk clients - 
+ 
+(a) a Capital Market Operator, provided they are subject to requirements for the combat of money 
+laundering, terrorist financing and proliferation financing which are consistent with the 
+provisions of these Regulations and are supervised for compliance; 
+(b) public companies listed on securities exchange or similar situation that are subject to regulatory 
+disclosure requirements; 
+(c) Government ministries, departments, parastatals and agencies; 
+(d) insurance policies for pension schemes where there is no surrender-value clause and the policy 
+cannot be used as collateral; 
+(e) a pension, superannuation or similar scheme that provides retirement benefits to employees, 
+where contributions are made by way of deduction from wages and the scheme rules do not 
+permit the assignment of a member’s interest under the scheme. 
+(3)  The lower risks categories shall be considered in the circumstances where –   
+(a) the risk of money laundering, terrorist financing and proliferation financing is lower; 
+(b) information on the identity of the clients and the beneficial owner of a client is publicly available; 
+or  
+(c) adequate checks and control exist elsewhere in the national system. 
+  
+(4) Where there are low risks, a Capital Market Operator shall apply reduced or simplified CDD measures 
+when identifying or verifying the identity of the client and the beneficial-owners. 
+ 
+(4) A Capital Market Operator that applies simplified or reduced CDD measures to clients’ resident abroad 
+are required to limit such to clients in countries that have been certified as having implemented the FATF 
+Recommendations. 
+ 
+14. Verification of Beneficial Ownership 
+(1) A Capital Market Operator shall identify and take reasonable steps to verify the identity of a beneficial-owner, using 
+relevant information or data obtained from a reliable source to satisfy itself that it knows who the beneficial owner is through 
+methods including— 
+(a) for legal persons:  
+i. identifying and verifying the natural persons, where they exist, that have ultimate controlling ownership interest in 
+a legal person, taking into cognizance the fact that ownership interests can be so diversified that there may be no 
+natural persons (whether acting alone or with others) exercising control of the legal person or arrangement through 
+ownership;  
+ii. to the extent that there is doubt under sub-paragraph (i) of this paragraph that the persons with the controlling 
+ownership interest are the beneficial owners or where no natural person exerts control through ownership 
+interests, identify and verify the natural persons, where they exist, exercising control of the legal person or 
+arrangement through other means; and 
+iii. where a natural person is not identified under sub-paragraph (i) or (ii) of this paragraph. CMOs shall identify and 
+take reasonable measures to verify the identity of the relevant natural person who holds senior management 
+position in the legal person. 
+ 
+12 
+ (b) For Legal arrangement (trust and other types of legal arrangements), CMOs shall identify and verify the identity 
+of the settlor, the trustee. the protector where they exist, the beneficiaries or class of beneficiaries, and any other 
+natural person exercising ultimate or effective control over the trust or other legal arrangement including through 
+a chain of control or ownership; and any person in equivalent or similar positions. 
+        (2) CMOs shall in respect of all customers determine whether a customer is acting on behalf of another person or not 
+and where the customer is acting on behalf of another person take reasonable steps to obtain sufficient identification data 
+and verify the identity of the other person.  
+         (3) A CMO shall take reasonable Measures in respect of customers that are legal persons or legal arrangements 
+to— 
+(a) understand the ownership and control structure of such a customer; and  
+ (b) determine the natural persons that ultimately own or control the customer 
+     (4) In the exercise of its responsibility under this regulation, a CMO shall take into account that natural persons including 
+those persons who exercise ultimate or effective control over the legal person or arrangement and factors to be taken into 
+consideration to satisfactorily perform this function include: - 
+  (a) for companies- the natural person shall own the controlling interest and comprise the mind and management of the 
+company and  
+   (b) for trusts- the natural persons shall be the settlor. the trustee or person exercising effective control over the trust and 
+the beneficiaries. 
+     (5) Where a customer or an owner of the controlling interest is a company listed on a stock exchange and subject to 
+disclosure requirements (either by stock exchange rules or by law or other enforceable means) which impose requirements 
+to ensure adequate transparency or beneficial ownership, or is a majority owned subsidiary of such a company, it is not 
+necessary to identify and verify the identity of any shareholder or beneficial owner of the company. 
+    (6) The relevant identification data referred to in the foregoing regulation may be obtained from a public register, the 
+customer and other reliable sources, and for this purpose, ownership of 5% interest or more in a company is applicable. 
+ 
+ 
+ 
+ 
+(15)  Travel Rule Requirements 
+ (1) VASPs must comply with the requirements applicable to all CMOs under the MLPPA and these Regulations, 
+subject to the qualifications set forth in subsections (2) and (3) of this regulation 15.  
+(2) For VASPs, an occasional transaction for purposes of regulation 9(b) of these Regulations is one or more 
+occasional transactions when the total value of the transactions exceeds the equivalent of $1,000.  
+(3) All virtual asset transfers must be treated as cross-border transfers and subject to the requirements for 
+cross-border wire transfers under regulation 12 of these Regulations as follows:  
+  (a) Originating VASPs must:  
+(i) obtain and hold full originator information as specified in sub-regulation 5 below and verify that the 
+originator information is accurate;  
+13 
+ (ii) obtain and hold full beneficiary information as specified in sub-regulation 5 below;  
+(iii) submit the information obtained and held under (i) and (ii) to the beneficiary VASP or financial 
+institution (if any) immediately and securely; and  
+(iv) make the information obtained and held under (i) and (ii) available on request to appropriate 
+authorities.  
+ (b) Beneficiary VASPs must:  
+(i) obtain and hold full originator information as specified in sub-regulation 4 below;  
+(ii) obtain and hold full beneficiary information as specified in sub-regulation 6 below and verify that the 
+beneficiary information is accurate, and  
+(iii) make the information obtained and held under (i) and (ii) available on request to competent 
+authorities.  
+ (c) The same obligations as set out in this subsection (3) apply to non-VASP CMOs when sending or receiving 
+virtual asset transfers on behalf of a customer.  
+ 
+(4)     A CMO shall ensure that all cross-border transfers always include full originator information and must verify that 
+the originator information is accurate. Full originator information includes:  
+ (a) the full name of the originator;  
+ (b) the originator’s wallet address; and  
+ (c) physical address or national identity number or, where the originator is not a natural person, the 
+incorporation number or business registration number. 
+(5) A CMO shall ensure that all cross-border transfers always include full beneficiary information. Full beneficiary 
+information includes:  
+ (a) name of the beneficiary; and  
+ (b) the originator’s wallet address.  
+(6) Cross-border transfers below $1,000 are exempt from the requirements of regulation 4 and 5. For all cross-border 
+transfers below $1,000, a CMO shall:  
+ (a) ensure that all such transfers include the name of the originator, the name of the beneficiary, and the wallet 
+address for each; and  
+ (b) verify the information pertaining to its customer if there is a suspicion of money laundering or terrorist 
+financing.  
+(7) A CMO shall maintain all originator and beneficiary information collected in accordance with regulation 21 of these 
+regulations. 
+ 
+16. Timing of Verification 
+ 
+(1) A Capital Market Operator shall verify the identity of the client beneficial-owner and occasional clients 
+before or during the course of establishing a business relationship or conducting transactions for them. 
+14 
+  
+(2) A Capital Market Operator shall complete the verification of the identity of the client and beneficial owner 
+following the establishment of the business relationship where –  
+(a)  it shall take place as soon as reasonably practicable; 
+(b)  it is essential not to interrupt the normal business conduct of the client and 
+(c)   the money laundering, terrorism financing and proliferation financing risks can be effectively 
+managed. 
+ 
+(3) Normal conduct of business may not be interrupted in cases such as –  
+(i)  securities transactions where the securities industry, companies and intermediaries may be 
+required to perform transactions very rapidly, according to the market conditions at the time the 
+client is contacting them and the performance of the transaction may be required before 
+verification of identity is completed, 
+(ii)  non face-to-face business, and 
+ 
+(iii) life insurance business in relation to identification and verification of the beneficiary under the 
+policy which may take place after the business relationship with the policy holder is established. 
+(4) In all such cases listed under sub-regulation (3) of this regulation, identification and verification shall 
+occur at or before the time of payout or the time when the beneficiary intends to exercise vested rights 
+under the policy.  
+(5) Where a client is permitted to utilize the business relationship before verification, a Capital Market 
+Operator shall adopt risk management procedures concerning the conditions under which this may 
+occur and these procedures shall include a set of measures such as – 
+(a) a limitation of the number,  
+(b) types and amount of transactions that can be performed, and  
+(c) the monitoring of large or complex transactions being carried out outside the expected norms for 
+that type of relationship. 
+ 
+17. Application of CDD to existing clients 
+ 
+(1) A   Capital Market Operator shall apply CDD measures to existing clients on the basis of materiality and 
+risk, and shall continue to conduct due diligence on such existing relationships at appropriate times. 
+ 
+(2) The appropriate time to conduct CDD by a Capital Market Operator includes where –  
+(a)   a transaction of significant value takes place; 
+(b) clients documentation standards change substantially; 
+(c)  there is a material change in the way that the account is operated; and 
+(d)  the institution becomes aware that it lacks sufficient information about an existing client. 
+ 
+(3) A Capital Market Operator shall properly identify the clients in accordance with the provision of these 
+Regulations; and the clients’ identification records shall be made available to the AML/CFT/CPF 
+compliance officer, other appropriate staff and relevant authorities. 
+ 
+18. Determination of a Politically Exposed Person (PEP)  
+ 
+(1) A Capital Market Operator shall in addition to performing CDD measures, put in place appropriate risk 
+15 
+ management systems to determine whether a potential client or existing clients or the beneficial-owner is a 
+Politically Exposed Person (PEP). 
+ 
+(2) A Capital Market Operator shall obtain senior management approval before they establish business 
+relationships with PEPs and the Capital Market Operator shall ender monthly returns on its transactions 
+with PEPs to the SEC and NFIU. 
+ 
+(3) Where a client has been accepted or has an ongoing relationship with the Capital Market Operator and 
+the client or beneficial-owner is subsequently found to be or becomes a PEP, the Capital Market 
+Operator shall obtain senior management approval in order to continue the business relationship. 
+ 
+(4) A Capital Market Operator shall take reasonable measures to establish the source of wealth and the sources 
+of funds of clients and beneficial-owners identified as PEPs and report all suspicious transactions immediately 
+to the NFIU. 
+ 
+(5) A Capital Market Operator in a business relationship with PEPs shall conduct enhanced ongoing 
+monitoring of that relationship and in the event of any transaction that is abnormal; a Capital Market 
+Operators shall flag the account and report immediately to the NFIU. 
+ 
+19. Measures to prevent the misuse of new technologies and non- face-to-face transactions   
+ 
+1) A Capital Market Operator shall put in place – 
+ 
+(a) policies or take such measures as may be needed to prevent the misuse of technological 
+developments in money laundering, terrorist financing and proliferation financing schemes such as 
+internationally accepted Credit or Debit Cards; and 
+(b) policies and procedures to address any specific risks associated with non-face to face business 
+relationships or transactions.  
+ 
+(2) These policies and procedures shall be applied automatically when establishing clients’ relationships and 
+conducting ongoing due diligence; 
+ 
+(3) A Capital Market Operator shall-  
+ (i) identify and assess the ML/TF/PF risks that may arise with the development of new products and new business 
+practices, including new delivery mechanisms, and the use of new or developing technologies for both new and 
+pre-existing products in accordance with all relevant requirements. 
+ (ii) undertake the risk assessment prior to the launch or use of the new products, business practices or 
+technologies. 
+(iii) ensure appropriate measures are taken to manage and mitigate such risks on a continuous basis and these 
+are adequately documented. 
+ 
+ 
+20. Reliance on intermediaries and third parties on CDD measures 
+ 
+(1) A Capital Market Operator that relies upon a third party shall immediately obtain the necessary 
+information and elements of CDD as provided by regulation 9 and such a Capital Market Operator shall  
+16 
+ take steps to satisfy itself that copies of identification data and other relevant documentation relating to the 
+CDD requirements are made available by the third party  upon request without delay; 
+ 
+ 
+(2) Capital Market Operators that rely upon intermediaries or other third parties, which have no 
+outsourcing or agency relationships, business relationships, accounts or transactions between 
+the Capital Market Operators and their clients, to perform elements of CDD as provided in 
+regulation 9 shall remain ultimately responsible for CDD measures and the following criteria shall 
+be met— 
+ 
+(a) immediately obtain from the third party the necessary information concerning the elements of the CDD 
+process provided in regulation 9; 
+ 
+(b) take adequate steps to satisfy themselves that copies of identification data and other relevant 
+documentation relating to CDD requirements will be made available by the third party upon request 
+without delay; 
+ 
+(c) satisfy themselves that the third party is regulated in accordance with Core Principles of AML/CFT/CPF 
+and has measures in place to comply with the CDD and record-keeping requirements set out in the 
+MLPPA and these Regulations or equivalent requirements in another jurisdiction; and 
+ 
+(d) make sure that adequate KYC provisions are applied to the third party in order to get account 
+information for competent authorities. 
+ 
+(3). The ultimate responsibility for clients’ identification and verification remains with a Capital Market 
+Operator relying on the third party. 
+ 
+21.   Keeping and maintenance of records of transactions 
+ 
+(1) A Capital Market Operator shall –  
+(a)  maintain all necessary records of transactions, both domestic and international, for at least five 
+years following completion of the transaction or longer if requested by the SEC in specific cases; 
+and this requirement shall apply regardless of whether the account or business relationship is 
+ongoing or has been terminated; 
+ 
+   (b)    maintain records of the identification data, risk profile of each customer or beneficial owner, 
+account files, CDD information and business correspondence, and results of any analysis 
+undertaken, for at least five years following the termination of an account or business relationship 
+or longer if requested by the SEC in specific cases, ensure records and information are available 
+swiftly, and not later than 48 hours, to the SEC, and other competent authorities in line with the 
+MLPPA. 
+ 
+(d) keep the necessary components of transaction-records which shall include clients’ and 
+beneficiaries’ names, addresses or other identifying information normally recorded by the 
+intermediary, the nature and date of the transaction, the type and amount of currency involved, 
+the type and identifying number of any account involved in the transaction. 
+ (e)         The records in sub-section a-d above shall be sufficient to permit the reconstruction of individual 
+transactions including the amount and type of currency involved so as to provide where 
+necessary, evidence for the prosecution of criminal activity 
+ 
+17 
+  (2) Any information obtained during any meeting, discussion or other communication with the clients shall 
+be recorded and kept to ensure that current clients’ information is readily accessible to the Compliance 
+Officers or relevant regulatory bodies. 
+ 
+22. Complex and unusual large transactions 
+ 
+(1) A Capital Market Operator shall pay special attention to all complex, unusual large transactions or 
+unusual patterns of transactions that have no apparent or visible economic or lawful purpose.  
+ 
+(2) Transactions or patterns of transactions under sub-regulation (1) of this regulation shall include - 
+(a) significant transactions relative to a relationship;  
+(b)  transactions that exceed certain limits; 
+(c) very high account turnover inconsistent with the size of the account balance; or 
+(d)  transactions which fall out of the regular pattern of the account’s activity. 
+ 
+(3) Capital Market Operators shall examine as far as possible the background and purpose for such 
+transactions and set forth their findings in writing which findings shall be made available to the SEC and 
+NFIU, and kept for at least five years from the end of the business relationship. 
+ 
+PART IV  
+INTERNAL CONTROLS, COMPLIANCE AND AUDIT 
+ 
+23. Internal Procedures, Policies and Controls  
+ 
+(1) A Capital Market Operator shall establish and maintain internal procedures, policies and controls to 
+prevent money laundering, terrorism financing and proliferation financing and to communicate these to 
+their employees. 
+ 
+2) The procedures, policies and controls instituted under sub-regulation (1) of these Regulations shall cover 
+the CDD, record retention, the detection of unusual and suspicious transactions, the reporting obligation, 
+among other things. 
+  
+(3)     A Capital Market Operator shall develop programs against money laundering, terrorist financing and 
+proliferation financing which shall include - 
+(a) the development of internal policies, procedures and controls, including appropriate compliance 
+management arrangement and adequate screening procedures to ensure high standards when 
+hiring employees; 
+ 
+(b) an ongoing employee training program to ensure that employees are kept informed of new 
+developments, including information on current AML/CFT/CPF techniques, methods and trends; 
+and that there is a clear explanation of all aspects of AML/ CFT/CPF laws and obligations, and in 
+particular, requirements concerning CDD and suspicious transaction reporting; and 
+ 
+(c) adequately resourced and independent audit function to test compliance with the procedures, 
+policies and controls. 
+ 
+(d) have a written policy framework that would guide and enable its staff to monitor, recognize and 
+respond appropriately to suspicious transactions; 
+ 
+18 
+ (e) designate a management staff appropriately as the AML /CFT/CPF Chief Compliance Officer to 
+supervise the Compliance Department and the monitoring and reporting of suspicious transactions; 
+ 
+(f)       designate a compliance officer at foreign branches and subsidiaries. 
+ 
+(4) The AML/CFT/CPF Chief Compliance Officer and appropriate staff shall have timely access to clients’ 
+identification data, CDD information, transaction records and other relevant information 
+ 
+(5) A Capital Market Operator shall render quarterly returns on their level of compliance to the SEC. 
+ 
+ 
+PART V  
+MONITORING AND REPORTING OF SUSPICIOUS TRANSACTION REPORTS 
+ 
+24. Suspicious Transactions “Red Flags” 
+ 
+ (1) A Capital Market Operator shall –  
+(a) be alert to the various patterns of conduct that have been known to be suggestive of money 
+laundering, terrorist financing or proliferation financing and maintain a checklist of such 
+transactions which shall be disseminated to the relevant staff;  
+(b) when any staff of a Capital Market Operator detects any “redflag” or suspicious   ML/TF/PF activity, 
+the operator is required to promptly institute a “Review Panel” under the supervision of the 
+AML/CFT/CPF Chief Compliance Officer, who shall file a suspicious transaction report to the 
+NFIU without delay but not later than 24 hours. 
+(c)  maintain confidentiality in respect of any investigation and suspicious transaction report that may 
+be filed with the relevant authority in compliance with the provisions of the Money Laundering 
+(Prohibition) Act, 2011 (as amended) and Terrorism (Prevention) Act, 2011 (as amended). 
+ 
+(2)  A Capital Market Operator, their directors, officers and employees (permanent and temporary) are 
+prohibited from disclosing the fact that a report will be filled or has been filed with the NFIU. 
+ 
+(3) Where CMOs are unable to comply with relevant customer identification, they must not establish or 
+maintain business relationships or perform the transaction. They must consider filing a suspicious 
+transaction report to the NFIU in respect of the customer. 
+(4) Where CMOs form a suspicion of ML/TF/PF and reasonably believe that performing the CDD process will 
+tip-off the customer, the CMOs must not pursue the CDD.The CMOs shall file an STR to the NFIU without 
+delay. 
+(5) A Capital Market Operator shall put in place a structure that ensures the operational independence of the 
+Chief Compliance Officer (CCO) 
+ 
+(6)  A CMO who suspects or has reason to suspect that funds are the proceeds of a criminal activity or are 
+related to terrorist financing or proliferation financing shall report promptly its suspicions to the NFIU, 
+provided that all suspicious transactions, including attempted transactions are to be reported regardless 
+of the amount involved and whether the transactions involve tax matters or other things. 
+ 
+19 
+ (7) Potential Transactions perceived or to be identified as suspicious includes –  
+ 
+(a) transactions involving high-risk countries vulnerable to ML/TF/PF subject to this being 
+confirmed; 
+(b) transactions involving shell companies; 
+(c) transactions with correspondents that have been identified as higher risk; 
+(d)  large transaction activity involving monetary instruments such as traveler’s cheques, bank drafts, 
+money order, particularly those that are serially numbered;  
+(e) transaction activity involving amounts that are just below the stipulated reporting sum or enquiries 
+that appear to test an institution’s own internal monitoring or controls; and 
+(f) other ML/TF/PF indicators approved by the FATF, GIABA etc. 
+(8)   Terrorist Financing “Red flags” includes –  
+(a)   where persons involved in a transaction share an address or phone number; particularly when the 
+address is also a business location or does not seem to correspond to the stated occupation, 
+such as student, unemployed, or self-employed; 
+(b)   securities or virtual assets transaction (s) by a nonprofit or charitable organization, for which there 
+appears to be no logical economic purpose or for which there appears to be no link between the 
+stated activity of the organization and other parties in the transaction; 
+(c) large volume of securities or virtual assets transaction (s) through a business account, where 
+there appears to be no logical business or other economic purpose for the transfers, particularly 
+when this activity involves designated high- risk locations; 
+(d)  where the stated occupation of the clients is inconsistent with the type and level of account 
+activity;  
+(e) multiple personal and business accounts or the accounts of non-profit organizations or charities 
+that are used to collect and channel securities or virtual assets to a small number of foreign 
+beneficiaries; and  
+(f) reference to the persons or entities listed in the UN list or Nigerian list of terrorists or terrorist 
+organizations under the terrorism prevention (Freezing of International Terrorism Funds and Other 
+Related Measures), Regulations, 2013 and  
+(g)         other money laundering, financing of terrorisms and proliferation financing indicators published by 
+FATF. 
+ 
+(8)   Other unusual or suspicious activities includes when an employee –  
+(a) exhibits a lavish lifestyle that cannot be justified by his salary; 
+(b) fails to comply with approved operating guidelines; or 
+(c)  is reluctant to take a vacation. 
+ 
+25. Business relationships with persons from countries which do not apply the FATF recommendations 
+ 
+(1) A Capital Market Operator shall give special attention to business relationships and transactions with a 
+person, including a legal person and other Capital Market Operators from or in countries which do not or 
+insufficiently apply the FATF Recommendations. 
+ 
+(2)        A Capital Market Operator shall report, as stated below, transactions that have no apparent economic or visible 
+20 
+ lawful purpose.  
+ 
+(3) The background and purpose of such transactions shall, as far as possible, be examined and written findings 
+made available to SEC and NFIU. 
+ 
+(4) A Capital Market Operator who conduct business with foreign institutions which do not apply or insufficiently 
+apply the provisions of FATF recommendations shall take –  
+ 
+(a)  Enhanced due diligence and other stringent measures for identifying clients and beneficial 
+owners before business relationships are established with individuals or companies from that 
+jurisdiction; and 
+ 
+(b) enhanced relevant reporting mechanisms or systematic reporting of cross border securities or 
+virtual assets transactions on the basis that financial transactions with such countries are more 
+likely to be suspicious;  
+ 
+PART VI 
+EMPLOYEE EDUCATION AND TRAINING PROGRAMME 
+ 
+26.      Comprehensive employee education and training programmes 
+ 
+(1) A Capital Market Operator shall design a comprehensive employee education and training programs not 
+only to make employees fully aware of their obligations but also to equip them with relevant skills required 
+for the effective discharge of their AML/CFT/CPF tasks; provided that the timing, coverage and content of 
+the employee training programme shall be tailored to meet the perceived needs of the Capital Market 
+Operator.  
+ 
+(2) The employee training programs shall be developed under the guidance of the AML/CFT/CPF Chief 
+Compliance Officer in collaboration with the top Management; and the basic elements of the employee 
+training program shall include – 
+(a) AML/CFT/CPF laws, regulations and offences; 
+(b) the nature of money laundering/terrorism/proliferation financing; 
+(c) money laundering /terrorism /proliferation financing ‘redflags’ and suspicious transactions, 
+typologies, virtual assets and on other emerging trends;  
+(d) reporting requirements; 
+(e) customer due diligence; 
+(f)  risk-based approach to AML/CFT/CPF; and 
+(g) record keeping and retention policy. 
+ 
+(3)       A Capital Market Operator shall submit its Annual AML/CFT/CPF Employee training programme to SEC 
+st
+not later than the 31 of December of every financial year against the next year. 
+ 
+ 
+27.  Monitoring of employee conduct 
+ 
+(1) Capital Market Operators shall monitor their employees’ accounts for potential signs of money laundering, 
+terrorism financing and proliferation financing and shall subject employees’ accounts to the same 
+AML/CFT/CPF procedures as applicable to other clients’ accounts under the supervision of the 
+AML/CFT/CPF Compliance Officer, provided that the Compliance Officer’s account shall be reviewed by 
+the Internal Auditor or a person of adequate seniority.  
+21 
+  
+(2) Compliance reports including findings are to be rendered to the SEC. 
+ 
+ 
+28. Protection of staff who report violations 
+ 
+(1) Capital Market Operators shall direct their employees to always co-operate fully with the Regulators and 
+law enforcement agents. 
+ 
+(2) A Capital Market Operator shall create an enabling working environment that can make it possible for 
+employees to report any violations of the institution’s AML/CFT/CPF compliance program to Compliance 
+Officer or to the SEC. 
+ 
+(3) Where the violations involve the Compliance Officer, employees are required to report such to a designated 
+higher authority such as the Internal Auditor or to the SEC. 
+ 
+(4) Capital Market Operators shall inform their employees in writing to make such reports confidential and that 
+they will be protected from victimization for making them. 
+ 
+29.. Additional Areas of potential ML/TF/PF Risks 
+ 
+(1) A Capital Market Operator shall review, identify and record other areas of potential ML/TF/PF risks not 
+covered by these Regulations and report same quarterly to the SEC. 
+ 
+(2) Capital Market Operators shall review their AML/CFT/CPF frameworks from time to time with a view to 
+determining their adequacy and identifying other areas of potential risks not covered by these Regulations. 
+ 
+30. Additional Procedures and Mitigants 
+ 
+Capital Market Operators shall design additional procedures and mitigants as contingency plan in their 
+AML/CFT/CPF Operational Regulations which shall provide how such potential risks would be appropriately 
+managed if they crystallize and details of the contingency plan are to be rendered to the SEC as at 31st December 
+of every financial year. 
+ 
+31. Testing for the Adequacy of the AML/CFT/CPF Compliance 
+ 
+(1) A Capital Market Operator shall have a comprehensive AML/CFT/CPF compliance program to guide its 
+compliance efforts and to ensure diligent implementation of its program. 
+ 
+(2) A Capital Market Operator shall make a policy commitment and subject its AML/CFT/CPF compliance 
+program to independent-testing or require its internal audit function to determine its adequacy, 
+completeness and effectiveness.  
+ 
+st
+(3) Report of compliance shall be rendered to the SEC as at 31 December every financial year.  
+ 
+(4) Any identified weaknesses or inadequacies shall be promptly addressed by a Capital Market Operator. 
+ 
+32.   Board approval of the AML/CFT/CPF Compliance Manual 
+ 
+22 
+ (1) The Board of a Capital Market Operator shall ensure that a comprehensive operational AML/CFT/CPF 
+Compliance Manual is formulated by Management and presented to the Board for consideration and 
+formal approval.  
+ 
+(2) The Compliance Manual shall be forwarded to SEC within three months of its release and quarterly 
+reports on the AML/CFT/CPP compliance status of the CMO shall be presented to the Board for its 
+information and necessary action. 
+ 
+PART VII 
+KNOW YOUR CUSTOMER AND IDENTIFICATION PROCEDURE 
+ 
+33. Guidance on Know Your Customer 
+ 
+(1) A Capital Market Operator shall not establish a business relationship until all relevant parties to the 
+relationship have been identified and the nature of the business they intend to conduct ascertained; and 
+once an on-going business relationship is established, any inconsistent activity can then be examined to 
+determine whether or not there is an element of money laundering, terrorism financing or proliferation 
+financing. 
+ 
+(2) A Capital Market Operator shall take a risk-based approach to the ‘Know Your Customer’ requirements 
+and decide the number of times to verify the clients’ records during the relationship, the identification 
+evidence required and when additional checks are necessary. 
+ 
+34. Duty to obtain identification evidence 
+ 
+(1) A Capital Market Operator shall be satisfied that a prospective client is not different from who he claims 
+to be, and where the client is acting on behalf of another, the funds are supplied by someone else or the 
+investment is to be held in the name of someone else, then a Capital Market Operator shall verify the 
+identity of both the client and the agent and trustee except where the client is itself a Capital Market 
+Operator regulated by SEC. 
+ 
+(2) For personal account relationships, all joint-account holders shall to be verified.  
+ 
+(3) In respect of private company or partnership, focus shall be on the principal owners or controllers and 
+their identities shall also be verified. 
+ 
+(4) The identification evidence collected at the outset shall be viewed against the inherent risks in the 
+business or service and shall include a set of attributes such as names used, date of birth and the 
+residential address at which the clients can be located.  
+ 
+ (5)  Where an international passport or national identity card is taken as evidence of identity, the number, date 
+and place or country of issue as well as expiry date in the case of international passport are required to be 
+recorded.  
+35. Identification Procedure  
+ 
+(1) A Capital Market Operator shall obtain sufficient information on the nature of the business that its client 
+intends to undertake, including the expected or predictable pattern of transactions. 
+ 
+23 
+ (2) The information referred to in sub-regulation (1) of this regulation shall include the –  
+(a)  purpose and reason for opening the account or establishing the relationship; 
+(b) nature of the activity that is to be undertaken; 
+(c)  expected origin of the funds to be used during the relationship; and 
+(d) details of occupation, employment, business activities and sources of wealth or income. 
+(3)  A Capital Market Operator shall take steps to keep the information up-to-date as the opportunities arise, 
+such as when an existing client opens a new account.  
+ 
+(4) A Capital Market Operator shall ensure that it is dealing with a real person or organization, natural, 
+corporate or legal, by obtaining sufficient identification evidence and when reliance is being placed on a 
+third party to identify or confirm the identity of an applicant, the overall responsibility for obtaining 
+satisfactory identification evidence rests with the account holding Capital Market Operator. 
+ 
+(5) The requirement in all cases is to obtain satisfactory evidence that a person of that name lives at the 
+address given and that the applicant is that person or that the company has identifiable owners and that 
+its representatives can be located at the address provided. 
+ 
+(6) A Capital Market Operator shall ensure that the identification processes is cumulative considering that no 
+single form of identification can be fully guaranteed as genuine or representing correct identity, and the 
+procedures adopted to verify the identity of private individuals, whether identification was done face – to - 
+face or remotely, shall be fully stated in the client’s file.  
+ 
+(7) The reasonable steps taken to avoid single or multiple fictitious applications, substitution, or fraudulent 
+impersonation shall be stated by the Capital Market Operator in the client’s records and an introduction 
+from a respected client or a person personally known to a director, manager or a member of staff which 
+often provides comfort, must not replace compliance with identification evidence requirements set out under 
+these Regulations. 
+ 
+(8) Details of the person who initiated and authorized the introduction shall be kept in the client’s mandate file 
+along with other records.  
+ 
+36. Verification of identity 
+ 
+(1)  Identity shall be verified where a business relationship is to be established, on account opening or during 
+one-off transaction or when series of linked transactions take place.  
+ 
+(2) The persons whose identity are required to be verified include clients and persons acting on behalf of 
+another provided that there is no obligation to look beyond the client where –  
+(a) he is acting on its own account rather than for a specific client or group of clients; 
+ 
+(b) a client is a bank, broker, fund manager or other regulated Capital Market Operator, financial 
+institutions; and 
+  
+(c) the businesses are to be undertaken in the name of a regulated Capital Market Operator or 
+financial institution. 
+ 
+(3) In other circumstances, except the client is a regulated Capital Market Operator or financial institution 
+24 
+ acting as agent on behalf of one or more underlying clients within Nigeria and has given written assurance 
+that it has obtained the recorded-evidence of identity to the required standards, identification evidence 
+shall be verified on –  
+(a) the named account holder and person in whose name an investment is registered; 
+(b) any principal beneficial owner of funds being invested who is not the account holder or named  
+investor;  
+(c)  the principal controller(s) of an account or business relationship (such as those who regularly 
+provide instructions); and 
+(d)  any intermediate parties (such as where an account is managed or owned by an intermediary). 
+ 
+(4)  Identification evidence shall be obtained for all the joint account holders and for higher risk business 
+undertaken for private companies such as those not listed on the stock exchange, sufficient evidence 
+of identity and address shall be verified in respect of - 
+(a) the principal underlying beneficial owners of the company with 5 percent interest and above; and 
+(b) those with principal control over the company’s assets including the principal controllers or 
+directors. 
+ 
+(5) In the case of Trusts, a Capital Market Operator shall obtain and verify the identity of those providing funds 
+for the Trust including the settler and those who are authorized to invest, transfer funds or make decisions 
+on behalf of the Trust such as the principal trustees and controllers who have power to remove the 
+Trustees. 
+ 
+(6) Savings Schemes and Investments in Third Parties’ names such as when an investor sets up a savings 
+accounts or a regular savings scheme whereby the funds are supplied by one person for investment in 
+the name of another (such as a spouse or a child), the person who funds the subscription or makes 
+deposits into the savings scheme shall be regarded as the applicant for business for whom identification 
+evidence must be obtained in addition to the legal owner. 
+ 
+(7)   In the case of Personal Pension Schemes identification evidence shall be obtained at the outset for all 
+investors, except personal pensions connected to a policy of insurance taken out by virtue of a contract 
+of employment or pension scheme; and personal pension advisers are charged with the responsibility of 
+obtaining the identification evidence on behalf of the pension fund provider.  
+ 
+(8)  Once identification procedures have been satisfactorily completed and the business relationship 
+established, as long as contact or activity is maintained and records concerning that client are complete 
+and kept, no further evidence of identity is needed when another transaction or activity is subsequently 
+undertaken. 
+      
+ 
+37. Timing of Identification Requirements 
+ 
+(1)  An acceptable time-span for obtaining satisfactory evidence of identity shall be determined by the nature 
+of the business, the geographical location of the parties and whether it is possible to obtain the evidence 
+before commitments are entered into or money changes hands but any occasion when business is 
+conducted before satisfactory evidence of identity has been obtained shall be exceptional and shall only 
+be those circumstances justified with regard to the risk. 
+25 
+  
+(2) A Capital Market Operator shall –  
+(a) obtain identification evidence after it has contact with a client with a view to agreeing with the 
+client to carry out an initial transaction; or reaching an understanding, whether binding or not, with 
+the client that it may carry out future transactions; and 
+(b) Where the client does not supply the required information as stipulated in sub-regulation (2) (a) of 
+this regulation, a Capital Market Operator shall discontinue any activity it is conducting for the 
+client; and bring to an end any understanding reached with the client. 
+ 
+(3) A Capital Market Operator shall observe the provisions on the timing of verification under the subsisting 
+AML/CFT/CPF Laws and Regulations. 
+(4)  A Capital Market Operator may however start processing the transaction or application immediately, 
+provided that it –  
+(a) promptly takes appropriate steps to obtain identification evidence;  
+ 
+(b)  does not transfer or pay any money out to a third party until the identification requirements have 
+been satisfied 
+(5) The failure or refusal by an applicant to provide satisfactory identification evidence within a reasonable 
+time-frame without adequate explanation may lead to a suspicion that the applicant is engaged in money 
+laundering, terrorist financing or proliferation financing. 
+ 
+(6) A Capital Market Operator shall therefore make Suspicious Transactions Reports to NFIU based on 
+the information in its possession before the funds involved are returned to the potential client or where 
+they came from. 
+ 
+(7)  A Capital Market Operator shall put in place written and consistent policies of closing an account or 
+unwinding a transaction where satisfactory evidence of identity cannot be obtained. 
+ 
+(8) A Capital Market Operator shall respond promptly to inquiries made by third parties relating to the identity 
+of their clients. 
+ 
+38. Cancellation and Cooling - Off Rights, Redemptions and Surrenders 
+ 
+(1) Where an investor exercises cancellation rights or cooling-off rights - 
+(a)   the sum invested shall be repaid subject to appropriate approved deductions, and 
+(b) any abnormal exercise of cancellation or cooling - off rights by an investor shall be treated as 
+suspicious and reported to NFIU. 
+ 
+ (2) When an investor finally realizes his investment (wholly or partially), where the amount payable is 
+US$1,000 or above or its equivalent in other foreign currencies or N250,000 for an individual or N500,000 
+for a body corporate, or such other monetary amounts as may, from time to time, be stipulated by any 
+applicable money laundering legislation or regulation, the identity of the investor shall be verified and 
+recorded where it had not been done previously. 
+ 
+ (3) In the case of redemption or surrender of an investment, wholly or partially, a Capital Market Operator 
+shall take reasonable measures to establish the identity of the investor where payment is made to - 
+(a)  the legal owner of the investment by means of a cheque crossed “account payee”; or 
+26 
+ (b) a bank account held, solely or jointly, in the name of the legal owner of the investment by any 
+electronic means effective for transfer of funds.   
+ 
+39. New business transaction by an existing Client. 
+ 
+(1)  Where an existing client closes one account and opens another or enters into a new agreement to 
+purchase products or services, there is no need to verify the identity or address of such a client except 
+where the name or the address provided does not tally with the information in the Capital Market 
+Operator’s file.  
+ 
+(2) Procedures shall be put in place by the Capital Market Operator to guard against impersonation and fraud 
+and the opportunity of opening the new account shall also be taken to ask the client to confirm the relevant 
+details and to provide any missing KYC information especially where - 
+(a)  there was an existing business relationship with the client and identification evidence had not 
+previously been obtained; or 
+(b) there had been no recent contact or correspondence with the client within the past three months; 
+or 
+(c)  a previously dormant account is re-activated. 
+ 
+(3)  Notwithstanding the provisions of sub-regulation (1) above ,the previous account and any identification 
+evidence previously obtained or any introduction records shall be linked to the new account records and 
+retained for the prescribed period in accordance with the provisions of these Regulations. 
+ 
+40. Certification of Identification Documents 
+ 
+(1) In order to guard against the dangers of postal-interception and fraud, prospective client shall not be asked 
+to send by post originals of their valuable personal identity documents such as international passport, 
+identity card or driver’s license. 
+ 
+(2)    Where there is no face – to - face contact with the client and documentary evidence is required, copies 
+certified by a notary public or court of competent jurisdiction, senior public servant or their equivalent in 
+the private sector shall be obtained and a person undertaking the certification must be known and capable 
+of being contacted. 
+ 
+(3) In the case of foreign nationals, the copy of international passport, national identity card or documentary 
+evidence of his address shall be certified by –  
+(i) the embassy, consulate or high commission of the country of issue, 
+(ii) a senior official within the account opening institution; 
+(iii) notary Public or Court of competent jurisdiction, or 
+(iv) copies of identification evidence stamped, dated and signed “original sighted by me” by a senior 
+officer of the Capital Market Operator. 
+ 
+(4) Capital Market Operators shall always ensure that a good production of the photographic evidence of 
+identity is obtained and where this is not possible, a copy of evidence certified as providing a good 
+likeness of the applicant could only be acceptable in the interim. 
+ 
+41. Recording identification evidence 
+ 
+(1)     Records of the supporting evidence and methods used to verify identity are required to be retained for a 
+27 
+ minimum period of five years after the account is closed or the business relationship ended. 
+ 
+(2) Where the supporting evidence could not be copied at the time it was presented, the reference numbers 
+and other relevant details of the identification evidence are required to be recorded to enable the 
+documents to be obtained later.  
+ 
+(3) Confirmation shall be provided and the original documents shall be seen by certifying either on the 
+photocopies or on the record that the details were taken down as evidence. 
+ 
+(4) Where checks are made electronically, a record of the actual information obtained or of where it can 
+be re-obtained shall be retained as part of the identification evidence and such records will make the 
+reproduction of the actual information that would have been obtained before, less cumbersome. 
+ 
+42. Concession in respect of payment made by post 
+ 
+(1)  Where the money laundering, terrorism financing or proliferation financing risk is considered to be low, 
+concession may be granted for product or services in respect of long-term life insurance business or 
+purchase of personal investment products and where payment is to be made from an account held in the 
+clients’ name, or jointly with one or more other persons, at a regulated Capital Market Operator, no further 
+evidence of identity is necessary. 
+ 
+(2)       Waiver of additional verification requirements for postal or electronic transactions shall not apply to –  
+(a) products or accounts where funds can be transferred to other types of products or accounts which 
+provide cheque or money transfer facilities; 
+(b) situations where funds can be repaid or transferred to a person other than the original clients; 
+and 
+(c) investments where the characteristics of the product or account may change subsequently to 
+enable payments to be made to third parties. 
+(3)  Postal concession is not an exemption from the requirement to obtain satisfactory evidence of a client’s 
+identity.  
+ 
+(4) Payment debited from an account in the client’s name shall be capable of constituting the required 
+identification evidence in its own right. 
+ 
+(5) A Capital Market Operator shall maintain records indicating how a transaction arose, including the details 
+of its branch and account number from which the cheque or payment is drawn. 
+ 
+(6) The concession shall apply to where an application is made directly to the Capital Market Operator and 
+where a payment is passed through a regulated intermediary. 
+ 
+43. Investment funds 
+ 
+In circumstances where the balance in an investment fund account is transferred from one Fund Manager to 
+another and the value at that time is above US$1,000 or N250,000 for an individual; and N500,000 for a body 
+corporate and identification evidence has not been taken or confirmation obtained from the original Fund Manager, 
+then such evidence shall be obtained at the time of the transfer. 
+ 
+PART VIII         
+28 
+  ESTABLISHING IDENTITY 
+ 
+44. Establishment of identity under these Regulations  
+ 
+The establishment of identity under these Regulations shall be in the following broad categories -  
+(a) Private individual clients;  
+(b)  Quasi corporate clients; and  
+(c)  Pure corporate clients. 
+(d)         Other Institutions. 
+ 
+                                A.   PRIVATE INDIVIDUAL CLIENTS 
+45.  General Information  
+ 
+(1)  The following information are to be established and independently validated for all private individuals 
+whose identities need to be verified which are the - 
+(a)  true full name used; and 
+(b)  permanent home address, including landmarks and postcode. 
+ 
+(2) The information obtained shall provide satisfaction that a person of that name exists at the address given 
+and that the applicant is that person and where an applicant has recently moved from a house, the 
+previous address shall be validated. 
+(3) The date of birth shall be obtained as it is required by the law enforcement agencies.  
+ 
+(4) The information need not be verified for the residence and nationality of a client but shall be ascertained 
+to assist risk assessment procedures. 
+ 
+(5) A risk-based approach shall be adopted when obtaining satisfactory evidence of identity.  
+ 
+(6) The extent and number of checks can vary depending on the perceived risk of the service or business 
+sought and whether the application is made in person or through a remote medium such as telephone, 
+post or the internet.  
+ 
+(7) The source of funds, how the payment was made, from where, and by whom shall be recorded, to provide 
+an audit trail, and for higher risk products, accounts or clients, additional steps shall be taken to ascertain 
+the source of wealth and funds. 
+ 
+(8) For lower-risk transactions or simple investment products, there is an overriding requirement for the 
+Capital Market Operator to satisfy itself as to the identity and address of the client. 
+ 
+ 46.   Private Individuals resident in Nigeria 
+ 
+(1) For private Individuals resident in Nigeria, the confirmation of the name and address shall be established 
+by reference to a number of sources undertaken by cross-validation that the applicant exists at the stated 
+address either through the sighting of actual documentary evidence or by undertaking electronic checks 
+of suitable databases, or by a combination of the two.  
+ 
+(2) The overriding requirement to ensure that the identification evidence is satisfactory rests with the Capital 
+Market Operator. 
+29 
+  
+(3) In order to guard against forged or counterfeit documents, care shall be taken to ensure that documents 
+offered are originals and that copies that are dated and signed ‘original seen’ by a senior public servant 
+or equivalent in a reputable private organization could be accepted in the interim, pending presentation 
+of the original documents.  
+ 
+(4) Suitable documentary evidence for Nigerian resident private individuals are –  
+(a)    Personal Identity Documents –  
+(i)  current International Passport, 
+(ii) residence Permit issued by the Immigration Authorities, 
+(iii)  current Driver’s Licence issued by the Federal Road Safety Commission (FRSC), 
+(iv) Inland Revenue Tax Clearance Certificate,  
+(v)  birth Certificate or Sworn Declaration of Age, and 
+(vi)   national identity card; 
+(vii)       permanent Voters’ Card issued by the Independent National Electoral Commission 
+(INEC)” and  
+(viii)      Bank Verification Number (BVN)  
+ 
+ 
+(b) Documentary Evidence of Address –  
+(i) record of home visit in respect of non-Nigerians, 
+(ii) confirmation from the electoral register that a person of that name lives at that 
+address, 
+(iii)  recent utility bill such as PHCN and Water Board, 
+(iv) current driver’s licence issued by FRSC, 
+(v)  bank statement or passbook containing current address, 
+(vi)   letter from a solicitor confirming recent house purchase or search report from the Land 
+Registry; 
+(vii) tenancy agreement, and 
+(viii) search reports on prospective client’s place of employment and residence signed by a 
+senior officer of the Capital Market Operator. 
+ 
+47.  Physical Checks on Private Individuals resident in Nigeria 
+ 
+(1) Checking of a local or national telephone directory shall be used as additional corroborative evidence 
+but not as a primary check. 
+ 
+(2)  It shall be mandatory for a Capital Market Operator to establish the true identities and addresses of its 
+clients and for effective checks to be carried out to guard against substitution of identities by client. 
+ 
+(3) Additional confirmation of the clients’ identity that the application was made by the person identified shall 
+be obtained through one or more of the following procedures –  
+(a) a direct mailing of account opening documentation to a named individual at an independently 
+verified address; 
+30 
+ (b)  an initial deposit cheque drawn on a personal account in the clients name by another Capital 
+Market Operator in Nigeria; 
+(c)  telephone contact with the client prior to opening the account on an independently verified home 
+or business number or a “welcome call” to the clients before transactions are permitted, utilizing 
+a minimum of two pieces of personal identity information that had been previously provided during 
+the setting up of the account; 
+(d)  internet sign-on following verification procedures where the clients uses security codes, tokens 
+and other passwords which had been set up during account opening and provided by mail (or 
+secure delivery) to the named individual at an independently verified address; and 
+(e) card or account activation procedures. 
+ 
+(4) A Capital Market Operator shall ensure that additional information concerning the nature and level of the 
+business to be conducted and the origin of the funds to be used within the relationship are also obtained 
+from the clients. 
+ 
+48.           Electronic checks 
+ 
+(1)  As an alternative or supplementary to documentary evidence of identity and address, the client’s 
+identity, address and other available information may be checked electronically by accessing other 
+data-bases or sources; and each source may be used separately as an alternative to one or more 
+documentary checks. 
+ 
+(2) (a) A Capital Market Operator shall use a combination of electronic and documentary checks to 
+confirm different sources of the same information provided by the clients.  
+              (b) The capital market operator may use the Bank Verification Number (BVN) as a means of verifying 
+information provided by the clients. 
+ 
+(3) In respect of electronic checks, confidence as to the reliability of information supplied shall be 
+established by the cumulative nature of checking across a range of sources, preferably covering a 
+period of time or through qualitative checks that assess the validity of the information supplied.  
+ 
+(4)      The number or quality of checks to be undertaken may vary depending on the diversity as well as the 
+breadth and depth of information available from each source, and verification that the client is the data-
+subject shall be conducted within the checking process. 
+                  
+                  (5)       Suitable electronic sources of information shall include- 
+(i) an electronic search of the Electoral Register which shall not to be used as a sole identity and 
+address check; 
+(ii) access to internal or external account database; and 
+(iii) an electronic search of public records, where available. 
+ 
+(6)      A Capital Market Operator shall put in place internal procedures for the identification of socially or 
+financially disadvantage persons. 
+ 
+(7)     Where a Capital Market Operator has reasonable grounds to conclude that an individual client is not 
+31 
+ able to produce the detailed evidence of his identity and cannot reasonably do so, the Operator may 
+accept as identification evidence a letter or statement from a person in a position of responsibility 
+such as solicitors, doctors, ministers of religion and teachers who know the client, confirming that the 
+client is who he says he is, and his permanent address. 
+ 
+(8)  Where a Capital Market Operator has decided to treat a client as “financially excluded”, it shall record 
+the reasons for doing so along with the account opening documents and render returns to the SEC 
+quarterly. 
+ 
+(9) Where a letter and statement is accepted from a professional person, it shall include a telephone 
+number where the person can be contacted for verification and a Capital Market Operator shall verify 
+from an independent source the information provided by the professional person. 
+ 
+(10) In order to guard against “financial exclusion” and to minimize the use of the exception procedure, 
+Capital Market Operators shall include in their internal procedures the “alternative documentary 
+evidence of personal identity and address” that can be accepted. 
+ 
+(11) A Capital Market Operator shall put in place additional monitoring for accounts opened under the 
+financial exclusion exception procedures to ensure that such accounts are not misused. 
+ 
+49.     Private Individuals not resident in Nigeria 
+  
+(1)   For the prospective client not resident in Nigeria but who make face-to-face contact, international 
+passports or national identity cards shall generally be available as evidence of the name of the clients 
+and reference numbers, date and country of issue shall be obtained and the information recorded in the 
+clients’ file as part of the identification evidence. 
+ 
+(2)  A Capital Market Operator shall obtain separate evidence of the applicant’s permanent residential 
+address from the best available evidence, preferably from an official source; provided that a “P. O. Box 
+number” alone is not acceptable as evidence of address and that the applicant’s residential address shall 
+be such that it can be physically located. 
+ 
+(3) Relevant evidence shall be obtained by the Capital Market Operator directly from the clients or through a 
+reputable creditor Capital Market Operator in the applicant’s home country or country of residence but 
+particular care shall be taken when relying on identification evidence provided from other countries.  
+ 
+(4) A Capital Market Operator shall ensure that the client’s true identity and current permanent address are 
+actually confirmed and copies of relevant identity documents shall be sought and retained. 
+ 
+(5) Where a foreign national has recently arrived in Nigeria, reference might be made to his employer, 
+refutable institutions or evidence of traveling documents, to verify the applicant’s identity and residential 
+address. 
+ 
+(6) Where necessary, an additional comfort must be obtained by confirming the clients’ true name, address 
+and date of birth from a reputable institution in the clients’ home country.  
+ 
+(7) For a private individual not resident in Nigeria, who wishes to supply documentary information by post, 
+telephone or electronic means, a risk-based approach shall be taken. 
+ 
+32 
+ (8) The Capital Market Operator shall obtain one separate item of evidence of identity in respect of the name 
+of the clients and one separate item for the address. 
+ 
+(9)       Documentary evidence of name and address can be obtained through –  
+ 
+(a) original documentary evidence supplied by the clients;  
+(b) a certified copy of the client’s passport or national identity card and a separate certified document 
+verifying address such as a driver’s license, utility bill; or 
+(c)  a branch, subsidiary or head office of a correspondent bank. 
+ 
+(10) Where the client does not already have a business relationship with the foreign Capital Market Operator 
+that is supplying the information, certified copies of relevant underlying documentary evidence must be 
+sought, obtained and retained by the institutions. 
+ 
+50. Information to establish identity 
+ 
+(1) For natural persons, the following information shall be obtained where applicable –  
+(a)  legal name and any other names used such as maiden name; 
+(b)  correct permanent full address and a Post Office box number shall not be sufficient;-delete 
+(c) telephone number, fax number and e-mail address; 
+(d)  date and place of birth;  
+(e) nationality; 
+(f) occupation, public position held and name of employer; 
+(g) an official personal identification number or other unique identifier contained in an unexpired 
+official document such as passport, identification card, residence permit, social security records 
+or driver’s licence that bears a photograph of the clients; and 
+(h)  signature. 
+ 
+(2) A Capital Market Operator shall verify the information by any of the following methods –  
+(a)  confirming the date of birth from an official document such as birth certificate, passport, identity 
+card, social security records; 
+(b) confirming the permanent address such as from utility bill, tax assessment, bank statement or a 
+letter from a public authority; 
+(c) contacting the clients by telephone, letter or e-mail to confirm the information supplied after an 
+account has been opened such as disconnected phone, returned mail, or incorrect e-mail 
+address; 
+(d) confirming the validity of the official documentation provided through certification by an authorized 
+person such as embassy official or notary public; 
+(e)  other documents of an equivalent nature may be produced as satisfactory evidence of clients’ 
+identity; or 
+(f) a Capital Market Operator shall apply effective client identification procedures for non-face-to-face 
+client as for those available physically. 
+ 
+(3) From the information provided, a Capital Market Operator shall make an initial assessment of a client’s 
+risk profile especially those clients identified as having a higher risk profile and additional information 
+obtained in respect of those clients shall include –  
+33 
+ (a) evidence of an individual’s permanent address sought through a credit reference agency search, 
+or through independent verification by home visits; 
+ 
+(b) personal reference by an existing client of the same institution; 
+ 
+(c) prior client bank reference and contact with the bank regarding the client; 
+ 
+(d) source of wealth; and 
+ 
+(e) verification of employment or public position held. 
+ 
+(4) The client acceptance policy shall not be so restrictive to amount to a denial of access by the general 
+public to securities or assets transactions, especially for people who are financially or socially 
+disadvantaged. 
+ 
+51.  Identification guidance for Institutions 
+ 
+(1) Under these Regulations, the term ‘institution’ shall include any entity that is not a natural person and in 
+considering the client’s identification guidance for the different types of institutions, particular attention 
+shall be given to the different levels of risk involved. 
+(2)   For corporate entities such as corporations and partnerships, the following information shall be obtained 
+–  
+(i) name of institution, 
+(ii) principal place of institution’s business operations, 
+(iii) mailing address of institution, 
+(iv)  contact telephone and fax numbers, 
+(v)  some form of official identification number, where available such as Tax Identification 
+Number, 
+(vi) the original or certified copy of the Certificate of Incorporation and Memorandum and 
+Articles of Association, 
+(vii)  the resolution of the Board of Directors to open an account and identification of those 
+who have authority to operate the account, and 
+(viii)   nature and purpose of business and its legitimacy;  
+ 
+(3)       A Capital Market Operator shall verify the information supplied by either of the following methods –  
+(i) for established corporate entities, reviewing a copy of the latest report and accounts (audited, 
+where available),  
+ 
+(ii) conducting an enquiry by a business information service or an undertaking from a reputable and 
+known firm of lawyers or accountants confirming the documents submitted, 
+ 
+(iii) undertaking a company search or other commercial enquiries to see that the institution has not 
+been, or is not in the process of being dissolved, struck off, wound up or terminated, 
+ 
+(iv) utilizing an independent information verification process, such as accessing public and private 
+databases, 
+ 
+34 
+ (v) obtaining prior bank references,  
+ 
+(vi) visiting the corporate entity, or 
+ 
+(vii) contacting the corporate entity by telephone, mail or e-mail. 
+ 
+(4)        A Capital Market Operator shall take reasonable steps to verify the identity and reputation of any agent 
+who opens an account on behalf of a corporate client, where that agent is not an officer of the corporate 
+client. 
+ 
+(5) For corporations or partnerships, the principal guidance is to look behind the Operator to identify those 
+who have control over the business and the company’s or partnership’s assets, including those who have 
+ultimate control; 
+ 
+(6)       For corporations, particular attention shall be paid to shareholders, signatories, or others who invest a 
+significant proportion of capital or financial support or exercise control and where the owner is another 
+Capital Market Operator or trust, the objective is to undertake reasonable measures to look behind that 
+company or entity and to verify the identity of the principals; 
+ 
+(7)        For the purpose of sub-regulation (6) of this regulation, what constitutes control for this purpose depends 
+on the nature of the company, and may rest in those who manage the funds, accounts or investments 
+without requiring further authorisation, and who would be in a position to override internal procedures 
+and control mechanisms; 
+ 
+            (8)         For a partnership, each partner shall be identified including the immediate family members that have 
+ownership control; 
+ 
+            (9)     Where a company is listed on a recognized securities exchange or is a subsidiary of a publicly listed 
+company, the company may be considered to be the principal to be identified; and  
+ 
+(10) where a listed company is effectively controlled by an individual, group of individuals, another corporate 
+entity or trust, those in control of the company shall be considered to be principals, partners or controllers 
+and shall be identified accordingly. 
+ 
+52.        Other Types of Operators 
+ 
+(1) In addition to the requirement to verify the identity of the principals in respect of Retirement Benefit 
+Programmes, Mutual or Friendly Societies, Cooperatives and Provident Societies, Charities, Clubs and 
+Associations, Trusts and Foundations and Professional Intermediaries the following information shall be 
+obtained –  
+(a)  name of account, 
+(b)   mailing address, 
+(c)  contact telephone and fax numbers, 
+(d) some form of official identification number, such as tax identification number, 
+(e) description of the purpose or activities of the account holder as stated in a formal constitution, 
+and 
+(f) copy of documentation confirming the legal existence of the account holder such as register of 
+35 
+ charities; 
+ 
+(2) A Capital Market Operator shall verify the information supplied by–  
+(i) obtaining an independent undertaking from a legal practitioner or chartered Accountant 
+confirming the documents submitted, 
+(ii)  obtaining prior bank references, or 
+(iii) accessing public and private databases or official sources;  
+ 
+53.       Retirement benefit programmes 
+ 
+Where an occupational pension programme, employee benefit trust or share option plan is an applicant for an 
+account, the trustee and any other person who has control over the relationship   such as the administrator, 
+programme manager, and account signatories shall be considered as principals and the Capital Market Operator 
+shall take steps to verify their identities; 
+ 
+54.      Mutual or friendly, cooperative and provident societies 
+ 
+Where any of these entities are clients, the principals to be identified are those persons exercising control or 
+significant influence over the organization’s assets which include members of the Board, executives and account 
+signatories. 
+ 
+55.       Charities, clubs and associations 
+ 
+ Where accounts are to be opened for charities, clubs, and societies, a Capital Market Operators shall take 
+reasonable steps to identify, verify at least two signatories along with the operator itself and the principals to be 
+identified shall include members of Board or Executive Committee, the Treasurer, and all signatories. 
+ 
+56.       Trusts and foundations 
+ 
+(a)  When opening an account for a Trust, a Capital Market Operator shall take reasonable steps to verify 
+the trustees, the settler, including any persons settling assets into the trust, any protector, beneficiary 
+and signatories and the beneficiaries shall be identified when they are defined; and 
+(b)  In the case of a foundation, steps shall be taken to verify the founder, the managers, directors and 
+beneficiaries. 
+ 
+57.       Professional intermediaries  
+ 
+(1) When a professional intermediary opens a client account on behalf of a single client, that client must be 
+identified.  
+ 
+(2) Professional intermediaries will often open “pooled” accounts on behalf of a number of entities.  
+ 
+(3) Where funds held by the intermediary are not co-mingled but are “sub-accounts” which can be attributable 
+to each beneficial owner, all beneficial owners of the account held by the intermediary shall be identified.  
+36 
+  
+(4) Where the funds are co-mingled, the Capital Market Operator shall look through to the beneficial - 
+owners.  
+ 
+(5) Notwithstanding the provisions of this sub-regulation, there may be circumstances that Capital Market Operator 
+may not look beyond the intermediary where the intermediary is subject to the same due diligence 
+standards in respect of its client base as the Capital Market Operator. 
+ 
+(6) Where such circumstances envisaged under sub-regulation (5) of this regulation apply and an account 
+is opened for an open or closed ended investment company (unit trust or limited partnership) also subject 
+to the same due diligence standards in respect of its client base as the Capital Market Operator, the 
+following shall be considered as principals and shall be identified –  
+(a) the fund itself; 
+(b)   its directors or any controlling board (where it is a company) 
+(c)  its Trustee (where it is a Unit Trust); 
+(d) its managing (general) partner (where it is a limited partnership); 
+(e) account signatories; and 
+(f) any other person who has control over the relationship such as fund administrator or manager; 
+(7) Where other investment vehicles are involved, the same steps under sub – regulation (6) above this 
+regulation shall be taken where it is appropriate to do so and all reasonable steps shall be taken to verify 
+the identity of the beneficial owners of the funds and of those who have control over the funds. 
+ 
+(8) Intermediaries shall be treated as individual clients of the Capital Market Operator and the standing of 
+the intermediary shall be separately verified by obtaining the appropriate information itemized under sub 
+– regulation (6) above provided that in all cases, independent verification shall be obtained that the 
+persons involved are true representatives of the operators. 
+ 
+58. False identities and impersonations  
+ 
+(1) In view of possible false identities and impersonations that may arise with non face-to-face clients, 
+additional measures and checks shall be undertaken to supplement the documentary or electronic 
+evidence. 
+ 
+(2) The additional measures and checks referred to in sub regulation (1) above shall apply whether the 
+applicant is resident in Nigeria or elsewhere and shall be particularly robust where the applicant is 
+requiring a margin facility, other product or service that offers money transmission or third party 
+payments. 
+ 
+(3)  The procedures to identify and authenticate the client shall be put in place to ensure that there is sufficient 
+evidence either documentary or electronic to confirm his address and personal identity and to undertake 
+at least one additional check to guard against impersonation and fraud. 
+ 
+(4)  The extent of the identification evidence required will depend on the nature and characteristics of the 
+product or service and the assessed risk. 
+ 
+(5) Where reliance is being placed on intermediaries to undertake the processing of applications on the 
+client’s behalf, checks shall be undertaken to ensure that the intermediary are regulated for money 
+37 
+ laundering, terrorism financing and proliferation financing prevention and that the relevant identification 
+procedures are applied.  
+ 
+ (6) A Capital Market Operator shall conduct regular monitoring of internet-based business or clients and where 
+a significant proportion of the business is operated electronically, computerized monitoring systems or 
+solutions that are designed to recognize unusual transactions and related patterns of transactions shall 
+be put in place to recognize suspicious transactions.  
+ 
+(7) AML/CFT/CPF compliance officers are required to review the solutions stipulated in sub-regulation (6) 
+above, record exemptions and report same quarterly to the NFIU. 
+ 
+(8) In all cases, evidence as to how identity has been verified shall be obtained and retained with the account 
+opening records. 
+ 
+59. Refugee and asylum seeker  
+ 
+(1)      A refugee and asylum seeker may require a basic account without being able to provide evidence of identity 
+and in such circumstances, authentic references from the Nigeria Immigration Service (NIS) and 
+endorsement by the State Security Service (SSS) shall be used in conjunction with other readily available 
+evidence. 
+ 
+(2) Additional monitoring procedures shall however be undertaken to ensure that the use of the account is 
+consistent with the client circumstances and returns rendered quarterly to NFIU. 
+ 
+60. Identification procedures for opening accounts for students or young persons 
+ 
+(1) When opening accounts for students or other young persons, the normal identification procedures set out 
+in these Regulations shall be followed as far as possible and where such procedures may not be relevant 
+or do not provide satisfactory identification evidence, verification may be obtained in either of the following 
+ways – 
+(a)  through the home address of the parent(s);  
+(b)  obtaining confirmation of the applicant’s address from his or her institution of learning; or 
+(c) seeking evidence of a tenancy agreement or student accommodation contract. 
+ 
+(2)  An account for a minor shall be opened by a family member or guardian and where the adult opening the 
+account does not have an account with the Capital Market Operator, the identification evidence for that adult 
+or of any other person who may operate the account shall be obtained in addition to the birth certificate and 
+passport of the child.  
+ 
+(3) An account for a minor may be open to abuse hence strict monitoring shall be undertaken.  
+ 
+(4) For an account opened through a school-related scheme, the school shall be asked to provide the date of 
+birth, permanent address of the pupil and to complete the standard account opening documentation on behalf 
+of the pupil. 
+ 
+B. QUASI-CORPORATE CLIENTS 
+ 
+61. Establishing the Identity of Trust, Nominees and Fiduciaries 
+ 
+ (1) Identification and “Know Your Business” procedures shall be set and managed according to the perceived 
+38 
+ risk, in trust, nominees and fiduciaries accounts. 
+ 
+(2) The principal objective for money laundering prevention through trusts, nominees and fiduciaries is to 
+verify the identity of the provider of funds such as the settlor, those who have control over the funds 
+including the trustees and any controllers who have the power to remove the trustees.  
+ 
+(3) For discretionary or offshore Trust, the nature and purpose of the Trust and the original source of funding 
+must be ascertained. 
+ 
+(4) Whilst reliance can also be placed on other Capital Market Operators undertake checks or confirm 
+identity, the responsibility to ensure that this is undertaken rests with the Capital Market Operator.  
+ 
+(5) The underlying evidence of identity must be made available to law enforcement agencies in the event of 
+an investigation. 
+ 
+(6) Identification requirements shall be obtained from a trustee who does not have authority to operate an 
+account and cannot give relevant instructions concerning the use or transfer of funds 
+ 
+62. Offshore Trusts 
+ 
+(1) Where Trusts are set up in offshore locations with strict bank secrecy or confidentiality rule, additional 
+measures shall be required for Special Purpose Vehicles (SPVs) or International Business Companies 
+connected to Trusts. 
+ 
+(2) Where Trusts are created in jurisdictions without equivalent money laundering, terrorism financing and 
+proliferation financing procedures in place it shall warrant additional enquiries. 
+ 
+(3)  Except the client for business is itself a regulated Capital Market Operator, measures shall be taken to 
+identify the Trust company or the corporate service provider in line with the requirements for professional 
+intermediaries or companies generally. 
+ 
+(4)  Certified copies of the documentary evidence of identity for the underlying principals such as settlors, 
+controllers, on whose behalf the client for business is acting, shall be obtained. 
+ 
+(6) For overseas Trusts, nominee and fiduciary accounts, where the client is itself a Capital Market Operator 
+that is regulated for money laundering,terrorism financing and proliferation financing purposes –  
+ 
+(a) reliance can be placed on an introduction or intermediary certificate or letter stating that evidence 
+of identity exists for all underlying principals and confirming that there are no anonymous 
+principals; 
+(b)  the trustees and nominees shall be asked to state from the beginning the capacity in which they 
+are operating or making the application; and 
+(c) documentary evidence of the appointment of the current Trustees shall also be obtained. 
+ 
+(6)  Where the underlying evidence is not retained within Nigeria, enquiries shall be made to determine, as far 
+as practicable, that there are no overriding bank secrecy or confidentiality constraints that will restrict 
+access to the documentary evidence of identity, should it be needed in Nigeria. 
+ 
+(7) Any application to open an account or undertake a transaction on behalf of another without the client 
+39 
+ identifying their Trust or Nominee capacity shall be regarded as suspicious and shall lead to further 
+enquiries and rendition of reports to NFIU. 
+ 
+(8) Where a Capital Market Operator in Nigeria is itself the client to an offshore Trust on behalf of its clients, 
+if the corporate Trustees are not regulated, then the Nigerian Capital Market Operator shall undertake the 
+due diligence on the Trust itself. 
+ 
+(9) Where the funds have been drawn upon an account that is not under the control of the Trustees, the 
+identity of two of the authorized signatories and their authority to operate the account shall also be verified.  
+ 
+(10) Where identities of the beneficiaries have not been verified, verification shall be undertaken before 
+payments are made to them. 
+ 
+63. Conventional family and absolute Nigerian trusts 
+ 
+(1) In the case of conventional Nigerian Trusts, identification evidence shall be obtained for –  
+(a) those who have control over the funds, the principal trustees who may include the settlor; 
+(b)  providers of the funds which includes the settlors, except where they are deceased); and 
+(c) where a settler is deceased, written confirmation shall be obtained for the source of funds (grant 
+of probate or copy of the Will or other document creating the Trust). 
+(2)  Where a corporate Trustee such as a bank acts jointly with a co-Trustee, any non-regulated co-Trustees 
+shall be verified even if the corporate Trustee is covered by an exemption and the relevant guidance contained 
+in these Regulations for verifying the identity of persons, institutions or companies shall be followed. 
+ 
+(3) A Capital Market Operator may not review any existing Trust, confirmation of the settlor and the 
+appointment of any additional Trustees shall be obtained. 
+ 
+(4) Copies of any underlying documentary evidence shall be certified as true copies and a check shall be 
+carried out to ensure that any bank account on which the Trustees have drawn funds is in their names 
+and taking a risk based approach, consideration shall be given as to whether the identity of any additional 
+authorized signatories to the account shall also be verified. 
+ 
+(5) Where some life assurance companies are to make payments directly to beneficiaries on receiving a 
+request from the Trustees, the payment shall be made to the named beneficiaries by way of a crossed 
+cheque marked “account payee only” or a bank transfer direct to an account in the name of the 
+beneficiary. 
+ 
+64. Receipt and Payment of Funds on behalf of a Trust. 
+ 
+(1) Where money is received on behalf of a Trust, reasonable steps shall be taken to ensure that the source 
+of the funds is properly identified, nature of the transaction or instruction is understood and payments 
+properly authorized in writing by the Trustees. 
+ 
+(2)   Where a Trustee who has been verified is replaced, the identity of the new Trustee shall be verified before 
+he is allowed to exercise control over the funds. 
+ 
+(3) Where a life policy is placed in Trust, the client for the policy is also a Trustee and where the Trustees 
+have no beneficial interest in the funds, the identity of the person applying for the policy shall be verified.  
+40 
+  
+(4) The remainder of the Trustees would however need to be identified in a situation where policy proceeds 
+were being paid to a third party not identified in the trust deed. 
+ 
+65. Powers of Attorney and Third Party Mandates 
+ 
+(1) The authority to deal with assets under a Power of Attorney and Third Party Mandates constitutes a 
+business relationship.  
+ 
+(2) Consequently, at the start of the relationship, identification evidence shall be obtained from the holders of 
+powers of attorney and third party mandates in addition to the clients or subsequently on a later appointment 
+of a new attorney, if advised, particularly within one year of the start of the business relationship. New attorney 
+for corporate or Trust business shall always be verified.  
+ 
+(3) A Capital Market Operator shall ascertain the reason for the grant of the Power of Attorney. 
+ 
+(4) Records of all transactions undertaken in accordance with the Power of Attorney shall be maintained as 
+part of the client’s record. 
+ 
+66. Executorship accounts 
+ 
+(1) When an account is opened for the purpose of winding up the estate of a deceased person, the identity 
+of the executor/administrator of the estate shall be verified. 
+ 
+(2) Identification evidence may not be required for the executors and administrators when payment is being 
+made from an established bank or mortgage institution’s account in the deceased’s name, solely for the 
+purpose of winding up the estate in accordance with the Grant of Probate or Letters of Administration.  
+ 
+(3)  Where a life policy pays out on death, there shall be no need to obtain identification evidence for the 
+legal representatives. 
+ 
+(4) Payments to the underlying named beneficiaries on the instructions of the executor or administrator may 
+also be made without additional verification requirements.  
+ 
+(5) Where a beneficiary wishes to transact business in his name, identification evidence shall be required. 
+ 
+(6) A Capital Market Operator shall report to the NFIU where suspicion is aroused concerning the nature or 
+origin of assets comprising an estate that is being wound up. 
+ 
+67.   Unincorporated Business or Partnerships 
+ 
+(1)  Where the client is an un-incorporated business or a partnership whose principal partners or controllers 
+do not already have a business relationship with a Capital Market Operators, identification evidence 
+shall be obtained for the principal beneficial owners or controllers and one or more signatories in whom 
+significant control has been vested by the principal beneficial owners / or controllers. 
+ 
+(2) Evidence of the trading address of the business or partnership shall be obtained and the nature of the 
+business or partnership shall be ascertained to ensure that it has a legitimate purpose but not necessarily 
+from a partnership deed. 
+41 
+  
+(3) Where a formal partnership arrangement exists, a mandate from the partnership authorizing the 
+opening of an account or undertaking the transaction and conferring authority on those who will 
+undertake transactions shall be obtained. 
+ 
+C. CORPORATE CLIENTS 
+ 
+68. Verification of legal existence of a corporate client 
+ 
+(1) A Capital Market Operator shall take care to verify the legal existence of the client company from official 
+documents or sources and to ensure that persons purporting to act on its behalf are fully authorized. 
+ 
+(2) A Capital Market Operator shall make enquiries to confirm that the legal person is not merely a “brass-
+plate company” where the controlling principals cannot be identified.  
+ 
+(3)   The identity of a corporate company shall comprise –  
+(a) registration number; 
+(b)  registered corporate name and any trading names used; 
+(c)  registered address and any separate principal trading addresses;  
+(d)  particulars of directors; 
+(e)  owners and shareholders; and 
+(f)  the nature of the company’s business. 
+ 
+(4) The extent of identification measures required to validate the information under sub – regulation (3) 
+above or the documentary evidence to be obtained depends on the nature of the business or service that 
+the company requires from a Capital Market Operator.  
+ 
+(5) A risk-based approach shall be taken and a Capital Market Operator shall, before a business relationship 
+is established, conduct a search at the Corporate Affairs Commission (CAC) and other commercial 
+enquiries undertaken to check that the clients-company’s legal existence has not been or is not in the 
+process of being dissolved, struck off, wound up or terminated. 
+ 
+(6) In all cases, information as to the nature of the normal business activities that the company expects to 
+undertake with the Capital Market Operator shall be obtained.  
+ 
+69. Non Face -  to - Face Business 
+ 
+(1) For individuals, because of the additional risks with non-face-to-face business, additional procedures 
+shall be undertaken to ensure that the client business, company or society exists at the address provided 
+and it is for a legitimate purpose. 
+ 
+(2)  Where the characteristics of the product or service permit a Capital Market Operator shall ensure that 
+relevant evidence is obtained to confirm that any individual representing the company has the necessary 
+authority to do so. 
+ 
+(3)   Where the principal owners, controllers or signatories need to be identified within the relationship, the 
+relevant requirements for the identification of personal clients shall be followed. 
+ 
+ 
+42 
+ 70. Low Risk Corporate Business. 
+ 
+(1) In the case of Public Quoted Companies, a Capital Market Operator may not verify the identity of individual 
+shareholders of corporate clients that are listed on the securities exchange and it shall not be necessary 
+to identify the directors of a quoted company. 
+ 
+(2) A Capital Market Operator shall ensure that the individual officer or employee (past or present) is not 
+using the name of the company or its relationship with the Capital Market Operator for a criminal purpose. 
+ 
+(3) The Board Resolution or other authority for persons to represent the company in its dealings with a 
+Capital Market Operator shall be obtained to confirm that the individual has the authority to act. 
+  
+(4) Phone calls can be made to the Chief Executive Officer of such a company to intimate him of the 
+application to open the account with the Capital Market Operator; 
+(5) Further steps shall not be taken to verify identity over and above the usual commercial checks where the 
+applicant company is –  
+(i)  listed on a securities exchange; or 
+(ii) there is independent evidence to show that it is a wholly owned subsidiary or a subsidiary under 
+the control of such a company. 
+ 
+ 
+71. Private and Public Unquoted Companies 
+ 
+(1) Where the client is a private or public unquoted company and none of the principal directors or 
+shareholders already have an account with the Capital Market Operator, the following documents shall 
+be obtained from an official or recognized independent source to verify the business itself - 
+(i) a copy of the certificate of incorporation and registration, evidence of the company’s registered 
+address and the list of shareholders and directors, 
+ 
+(ii) a search at the Corporate Affairs Commission (CAC) or an enquiry and confirmation a business 
+information service to obtain the information, and 
+(iii) an undertaking from a firm of lawyers or accountants confirming the documents submitted to the 
+Capital Market Operator. 
+ 
+(2) Attention shall be paid to the place of origin of the documents and the background against which they 
+were produced and where comparable documents cannot be obtained, then verification of principal 
+beneficial owners and controllers shall be undertaken. 
+ 
+ 
+72. Higher Risk Business Relating to Private or Public Unquoted Companies 
+ 
+(1) For private and public unquoted Companies undertaking higher risk business (in addition to verifying the 
+legal existence of the business) the Capital Market Operator’s principal requirement shall be to look behind 
+the corporate entity to identify those who have ultimate control over the business and the company’s 
+assets.  
+ 
+(2) What constitutes significant shareholding or control for this purpose will depend on the nature of the 
+company and identification evidence shall be obtained from shareholders with interests of 5 percent or 
+43 
+ more. 
+ 
+(3) The principal control vests with those who are mandated to manage the funds, accounts or investments 
+without requiring authorization and who would be in a position to override internal procedures and control 
+mechanisms. 
+ 
+(4) Identification evidence shall be obtained for the principal-beneficial owner of the company and any other 
+person with principal control over the company’s assets.  
+ 
+(5) Where the principal owner is another corporate entity or Trust, the Capital market Operator’s objective is to 
+undertake measures that look behind that company or vehicle and verify the identity of the beneficial-owner 
+or settlors.  
+ 
+(6) Where a Capital Market Operator becomes aware that the principal-beneficial owners and controllers 
+have changed, they shall ensure that the identities of the new ones are verified. 
+ 
+(7) A Capital Market Operator shall identify directors who are not principal controllers and signatories to an 
+account for risk based approach purpose. 
+ 
+(8) Where there is suspicion as a result of change in the nature of the business transacted or investment 
+account, further checks shall be made to ascertain the reason for the changes. 
+ 
+(9) A capital market operator shall ensure that full identification and “Know Your Clients” requirements are 
+met where the company is an International Business Company (IBC) registered in an offshore 
+jurisdiction. 
+ 
+73. Foreign Capital Market Operator 
+ 
+(1) For foreign Capital Market Operators, the confirmation of existence and regulated status shall be checked by 
+either of the following methods –  
+(a) checking with the home country’s Securities Market Regulator and relevant supervisory body; 
+(b)  checking with another office, subsidiary or branch in the same country; 
+(c)   checking with the Nigerian regulated correspondent Capital Market Operator of the overseas 
+Operator; and 
+(d) obtaining evidence of its license or authorization to conduct Securities business from the Operator 
+itself. 
+ 
+(2)  In addition to the identity of the Principal Employer, the source of funding shall be verified and recorded 
+to ensure that a complete audit trail exists where the employer is dissolved or wound up. 
+ 
+(3) For the Trustees of Occupational Pension Schemes, satisfactory identification evidence can be based 
+on the inspection of formal documents concerning the Trust which confirm the names of the current 
+Trustees and their addresses for correspondence.  
+ 
+(4) In addition to the documents, confirming the trust identification can be based on extracts from Public 
+Registrars or references from Professional Advisers or Investment Managers. 
+ 
+(5) Any payment of benefits by or on behalf of the Trustees of an Occupational Pension Scheme shall 
+44 
+ require verification of identity of the recipient. 
+ 
+(6) Where individual members of an Occupation Pension Scheme are to be given personal investment 
+advice, their identities shall be verified. 
+ 
+(7) Where the Trustees and Principal Employer have been satisfactorily identified (and the information is still 
+current), the Employer may provide confirmation of the identity of individual employees. 
+ 
+D. OTHER INSTITUTIONS 
+74. Charities in Nigeria 
+ 
+(1) Confirmation of the authority to act in the name of the charity is mandatory. 
+ 
+(2)  The practice of opening unauthorized accounts of charitable organizations under sole control is 
+abolished.  
+ 
+(3) Accounts for charities in Nigeria are required to be operated by a minimum of two signatories duly verified 
+and documentation evidence obtained. 
+ 
+75. Registered Charities 
+ 
+(1) When dealing with an application from a registered charity, a Capital Market Operator shall obtain and 
+confirm the name and address of the charity concerned and evidence of registration for AML/CFT/CPF 
+compliance shall be confirmed through the Special Control Unit Against Money (SCUML).  
+ 
+(2) To guard against the laundering of fraudulently obtained funds (where the person making the application 
+or undertaking the transaction is not the official correspondent or the recorded alternate) a Capital Market 
+Operator is required to send a letter within 24 hours to the official correspondence, informing him of the 
+schemes application before it.   
+ 
+(3) The official correspondence shall be requested to respond within 24 hours especially where there is any 
+reason to suggest that the application has been made without authority. 
+ 
+(4) Applications on behalf of unregistered charities shall be dealt with in accordance with procedures for 
+clubs and societies set out in these Regulations and SCUML’s  
+ 
+76. Clubs and Societies 
+ 
+(1) In the case of applications made on behalf of clubs or societies, a Capital Market Operator shall take 
+reasonable steps to satisfy itself as to the legitimate purpose of the organization by sighting its constitution.  
+ 
+(2) The identity of at least two of the principal contact persons or signatories shall be verified initially in line 
+with the requirements for private individuals.  
+ 
+(3) The signing authorities shall be structured to ensure that at least two of the signatories that authorize any 
+transaction have been verified and where signatories change, a Capital Market Operator shall ensure that 
+the identities of at least two of the current signatories are verified. 
+ 
+(4)  Where the purpose of the club or society is to purchase the shares of regulated investment company 
+45 
+ (IES) or where all the members would be regarded as individual clients, all the members in such cases are 
+required to be identified in line with the requirements for personal clients. 
+ 
+(5) A Capital Market Operator shall look at each situation on a case-by-case basis. 
+ 
+77. Occupational Pension Schemes 
+ 
+In transactions undertaken on behalf of an Occupational Pension Scheme where the transaction is not in relation 
+to a long term policy of insurance, the identities of both the Principal Employer and the Trust are required to be 
+verified. 
+ 
+78. Religious Organizations (ROs) 
+ 
+(1) A religious organization shall be registered with the Corporate Affairs Commission (CAC) and shall have a 
+registered number. 
+(2)  The identity of a religious organization shall be verified by reference to the CAC and the appropriate 
+headquarters or regional area of the denomination.  
+ 
+(3) As a Registered organization, the identity of at least two signatories to its account shall be verified and 
+evidence of registration for AML/CFT/CPF compliance shall be confirmed through the SCUML. 
+ 
+79. Three -Tiers of Government and Parastatals 
+ 
+(1) Where the client for business is a Government Parastatal, a Capital Market Operator shall verify the legal 
+standing of the applicant, including its principal ownership and the address.  
+ 
+(2) A certified copy of the Resolution or other documents authorizing the opening of the account or to 
+undertake the transaction shall be obtained in addition to evidence that the official representing the body 
+has the relevant authority to act.  
+ 
+(3) Physical contacts shall also be made with the Chief Executive Officer of the organization or parastatal 
+concerned to confirm the application to open the account with the Capital Market Operator. 
+ 
+ 
+80. Foreign Consulates 
+ 
+The authenticity of clients that request to undertake transactions with a Capital Market Operator in the name of 
+Nigerian-resident foreign consulates and any documents of authorization presented in support of the application 
+shall be checked with the Ministry of Foreign Affairs or the relevant authorities in the Consulate’s home country or 
+the high commission of the country in Nigeria. 
+ 
+                                                       PART IX 
+                INTERMEDIARIES OR OTHER THIRD PARTIES TO VERIFY 
+                          IDENTITY OR TO INTRODUCE BUSINESS 
+ 
+81. Introductions from authorized financial intermediaries 
+  
+(1) Whilst the responsibility to obtain satisfactory identification evidence rests with a Capital Market Operator 
+who is entering into a relationship with a client, it is reasonable, in a number of circumstances, for reliance 
+46 
+ to be placed on another Capital Market Operator to –  
+ 
+(a) undertake the identification procedure when introducing a client and to obtain any additional KYC 
+information from the client; or 
+or 
+(b) confirm the identification details if the clients is not resident in Nigeria; 
+(c) confirm that the verification of identity has been carried out where an agent is acting for 
+underlying principals. 
+ 
+(2)  Where an intermediary introduces a client and then withdraws from the ensuing relationship, the 
+underlying clients has become the applicant for the business and shall be identified in line with the 
+requirements for personal, corporate or business clients as appropriate. 
+ 
+(3) An introduction letter shall be issued by the introducing Capital Market Operator or person in respect of 
+each applicant for business.  
+ 
+(4) To ensure that product-providers meet their obligations, that satisfactory identification evidence has been 
+obtained and will be retained for the necessary statutory period, each introduction letter shall either be 
+accompanied by certified copies of the identification evidence that has been obtained in line with the usual 
+practice of certification of identification documents or by sufficient details and reference numbers, that will 
+permit the actual evidence obtained to be re-obtained at a later stage. 
+ 
+82.. Written applications 
+ 
+For a written application (except other arrangements have been agreed that the service provider will verify the 
+identity itself) an intermediary shall provide along with each application, the client’s introduction letter together with 
+certified copies of the evidence of identity which shall be placed in the clients’ file. 
+ 
+83. Non-written application 
+ 
+(1) Unit Trust Managers and other product providers receiving non- written applications from financial 
+intermediaries (where a deal is placed over the telephone or by other electronic means) have an obligation 
+to verify the identity of clients and ensure that the intermediary provides specific confirmation that identity has 
+been verified.  
+ 
+(2) A record shall be made of the answers given by the intermediary and retained for a minimum period of 
+five years. 
+ 
+84. Introductions from foreign intermediaries 
+ 
+Where introduced business is received from a regulated financial intermediary who is outside Nigeria, the reliance 
+that can be placed on that intermediary to undertake the verification of identity-check shall be assessed by the 
+Compliance officer or some other competent persons within the Capital Market Operator on a case by case basis based 
+on the knowledge of the intermediary. 
+ 
+85.. Corporate group introductions 
+ 
+(1) Where a client is introduced by one part of a financial sector group to another, it is not necessary for 
+identity to be re-verified or for the records to be duplicated except where –  
+ 
+(a) the identity of the clients has been verified by the introducing parent company, branch, subsidiary 
+47 
+ or associate in line with the money laundering, terrorism financing and proliferation financing 
+requirements to equivalent standards and taking account of any specific requirements such as 
+separate address verification; 
+(b)  no exemptions or concessions have been applied in the original verification procedures that 
+would not be available to the new relationship; 
+(c)  a group introduction letter is obtained and placed with the clients’ account opening records; and 
+(d) in respect of group introducers from outside Nigeria, arrangements shall be put in place to ensure 
+that identity is verified in accordance with requirements and that the underlying records of 
+identity in respect of introduced clients are retained for the necessary period. 
+ 
+(2) Where a Capital Market Operator has day-to-day access to all the Group’s “Know Your Client” information 
+and records, there is no need to identify an introduced client or obtain a group introduction letter  where 
+the identity of that client has been verified previously; provided that where the identity of the clients has 
+not previously been verified, then any missing identification evidence shall be obtained and a risk-based 
+approach taken on the extent of KYC information that is available on whether or not additional information 
+shall be obtained. 
+ 
+(2) A Capital Market Operator shall ensure that there is no secrecy or data protection legislation that would 
+restrict free access to the records on request or by law enforcement agencies under court order or 
+relevant mutual assistance procedures and where it is found that such restrictions apply, copies of the 
+underlying records of identity shall be sought and retained. 
+ 
+(4) Where identification records are held outside Nigeria, it shall be the responsibility of a Capital Market 
+Operator to ensure that the records available meet the requirements in these Regulations. 
+ 
+86. Business conducted by agents 
+ 
+(1) Where an applicant is dealing in its own name as agent for its own client, a Capital Market Operator shall, 
+in addition to verifying the agent, establish the identity of the underlying client. 
+ 
+(2)  A Capital Market Operator may regard evidence as sufficient where it has established that the client –  
+(a) is bound by and has observed these Regulations and the provisions of the Money Laundering 
+(Prevention and Prohibition) Act of 2022 and the Terrorism (Prevention and Prohibition) Act of 
+2022; and 
+(b) is acting on behalf of another person and has given a written assurance that he has obtained 
+and recorded evidence of the identity of the person on whose behalf he is acting. 
+ 
+(3) Where another Capital Market Operator deals with its own client (regardless of whether or not the 
+underlying client is disclosed to the Capital Market Operator) then –  
+ 
+(a) where the agent is a Capital Market Operator, there is no requirement to establish the identity of 
+the underlying clients or to obtain any form of written confirmation from the agent concerning the 
+due diligence undertaken on its underlying clients; or 
+ 
+(b) where a regulated agent from outside Nigeria deals through a clients omnibus account or for a 
+named client through a designated account, the agent shall provide a written assurance that the 
+identity of all the underlying clients has been verified in accordance with their local requirements; 
+(c) where such an assurance cannot be obtained, then the business shall not be undertaken; and 
+48 
+  
+(d) where an agent is either unregulated or is not covered by the relevant subsisting Anti - Money 
+Laundering and Combating the Financing of Terrorism and Proliferation Financing laws and 
+Regulations, then each case shall be treated on its own merits and the knowledge of the agent 
+will inform the type of the due diligence standards to apply. 
+ 
+87. Correspondent relationship 
+ 
+(1) Transactions conducted through correspondent relationships shall be managed, taking a risk-based 
+approach.  
+ 
+   (2)      A Capital Market Operator shall: 
+       (a) gather sufficient information about a respondent Capital Market Operator to understand fully the nature 
+of the respondent’s business, and to determine from publicly available information the reputation of the 
+Capital Market Operator and the quality of supervision, including whether it has been subject to a 
+ML/TF/PF investigation or regulatory action; 
+                 (b) assess the respondent institution’s AML/CFT/CPF controls;  
+                 (c ) obtain approval from senior management before establishing new correspondent relationships; and  
+                 (d) clearly understand the respective AML/CFT/CPF responsibilities of each institution. 
+ 
+(3) “Know Your Correspondent” procedures shall be established to ascertain whether or not the correspondent 
+Capital Market Operator or the counter-party is itself regulated for money laundering, terrorism and proliferation 
+financing. The correspondent Capital Market Operator shall verify the identity of its clients in accordance with 
+the provision of this regulation. 
+ 
+(4) The volume and nature of transactions flowing through correspondent accounts with a Capital Market 
+Operator from high risk jurisdictions or those within adequacies or material deficiencies shall be monitored 
+against expected levels, destinations and any material variances shall be checked. 
+ 
+(5) A Capital Market Operator shall maintain records of having ensured that sufficient due diligence has been 
+undertaken by the remitting bank on the underlying client and the origin of the funds in respect of the 
+funds passed through their accounts. 
+ 
+(6) A Capital Market Operator shall guard against establishing correspondent relationships with high 
+risk foreign banks (such as shell banks with no physical presence in any country) or with correspondent 
+banks that permit their accounts to be used by such banks. 
+ 
+88. Acquisition of a capital market business by another  
+ 
+(1) When one Capital Market Operator acquires the business and accounts of another Capital Market 
+Operator, it is not necessary for the identity of all the existing clients to be re-identified, provided that all 
+the underlying clients’ records are acquired with the business, however it shall carry out due diligence 
+enquiries to confirm that the acquired operator had conformed with the requirements in these Regulations. 
+ 
+(2 ) Verification of identity shall be undertaken as soon as it is practicable for all the transferred clients who 
+were not verified by the transferor in line with the requirements for existing clients that open new 
+accounts, where – 
+ 
+49 
+ (a) the money laundering, terrorism financing and proliferation financing procedures previously 
+undertaken have not been in accordance with the requirements of these Regulations; 
+(b)  the procedures cannot be checked; or 
+(c) the clients-records are not available to the acquiring Capital Market Operator.  
+ 
+PART X 
+ RECEIVING CAPITAL MARKET OPERATORS AND AGENTS 
+ 
+89. Vulnerability of receiving bankers and agents to money laundering 
+ 
+(1) A receiving Capital Market Operator may be used by money launderers in respect of offers for sale 
+where new issues are over-subscribed and their allocation is scaled down.  
+ 
+(2) In addition to the provisions of sub-regulation (1) of this regulation, the money launderer is not 
+concerned if there is a cost involved in laundering criminal money; and new issues that trade at a 
+discount will prove acceptable to the money launderer.  
+ 
+(3) Criminal funds can be laundered by way of the true beneficial - owner of the funds providing the payment 
+for an application in another person’s name, specifically to avoid the verification process and to break 
+the audit trail with the underlying crime from which the funds are derived. 
+ 
+90. Who to identify 
+ 
+(1)  A receiving Capital Market Operators shall obtain satisfactory identification evidence of new applicants, 
+including such applicants in rights issue where the value of a single transaction or a series of linked 
+transactions is $1,000 or its equivalent for foreign transfers or N250,000 for individuals and N500,0000 
+for corporate body or more. 
+ 
+(2) Where funds to be invested are being supplied by or on behalf of a third party, it is important that the 
+identification evidence for both the applicant and the provider of the funds are obtained to ensure that the 
+audit trail for the funds is preserved. 
+ 
+91. Applications received via brokers 
+ 
+(1) Where the application is submitted (payment made) by a broker or an intermediary acting as agent, no steps 
+need be taken to verify the identity of the underlying applicants.  
+ 
+(2) The following standard procedures shall apply –  
+(a) the lodging agent’s stamp shall be affixed on the application form or allotment letter; and 
+(b) application and acceptance forms and cover letters submitted by lodging agents shall be identified 
+and recorded in the Capital Market Operator’s records. 
+ 
+(3)    The terms and conditions of the issue shall state that the requirements to obtain identification 
+evidence are the responsibility of the broker lodging the application and not the receiving Capital Market 
+Operator. 
+ 
+(4) Where the original application has been submitted by a regulated broker, no additional identification 
+evidence will be necessary for subsequent calls in respect of shares issued and partly paid.  
+50 
+  
+(5) Where the broker or other introducer is a regulated person or institution (including an overseas branch 
+or subsidiary) from a country with equivalent legislation and financial sector procedures, and the broker 
+or introducer is subject to anti-money laundering,terrorism financing and proliferation financing 
+regulations, then a written assurance shall be taken from the broker that he has obtained and recorded 
+evidence of identity of any principal and underlying beneficial owner that is introduced. 
+ 
+92. Multiple family applications 
+ 
+(1)  Where multiple family applications are received supported by one cheque and the aggregate subscription 
+price is $1,000 or its equivalent for foreign transfers; and N250,000 or more for an individual person, then 
+identification evidence will not be required for –  
+(a)  a spouse or any other person whose surname and address are the same as those of the applicant 
+who has signed the cheque; 
+(b) a joint account holder; or 
+(c) an application in the name of a child where the relevant company’s Articles of Association prohibit 
+the registration in the names of minors and the shares are to be registered with the name of the 
+family member of full age on whose account the cheque is drawn and who has signed the 
+application form. 
+ 
+(2) Identification evidence of the signatory of the financial instrument shall be required for any multiple family 
+application for more than $1,000 or its equivalent for foreign transfers; or more than N250,000 for an 
+individual; or more than N500,000 for a body corporate where such is supported by a cheque signed by 
+someone whose name differs from that of the applicant. Other monetary amounts or more may, from time 
+to time, be stipulated by any applicable money laundering, terrorism financing and proliferation financing 
+legislation and guidelines. 
+ 
+(3) Where an application is supported by a financial institution’s branch cheque or brokers’ draft, the applicant 
+shall state the name and account number from which the funds were drawn –  
+(a)   on the front of the cheque;  
+(b)   on the back of the cheque together with a branch stamp; or 
+(c) providing other supporting documents. 
+ 
+93. Linked transactions 
+ 
+(1) Where it appears to a person handling applications that a number of single applications under $1,000 and 
+N500, 000 in different names are linked such as payments from the same Capital Market Operator account 
+apart from the multiple family applications identification, evidence shall be obtained in respect of parties 
+involved in each single transaction. 
+ 
+(2) Installment payment issues shall be treated as linked transactions where it is known that total payments 
+will amount to $1,000oritsequivalent for foreign transfers or N250,000 for an individual; or N500,0000 for 
+body corporate or such other monetary amounts as may, from time to time, be stipulated by any applicable 
+money laundering, terrorism financing and proliferation financing legislation or guidelines.  
+ 
+(3) Identification evidence shall be obtained either at the outset or when a particular point has been reached. 
+ 
+(4) Applications that are believed to be linked and money laundering, terrorism financing and proliferation 
+financing are suspected shall be processed on a separate batch for investigation after allotment and 
+51 
+ registration has been completed, and returns with the documentary evidence are to be rendered to the 
+NFIU accordingly.  
+ 
+(5) Copies of the supporting cheques, application forms and any repayment-cheques shall be retained to 
+provide an audit trail until the receiving Capital Market Operator is informed by NFIU or the investigating 
+officer that the records are of no further interest.  
+ 
+94. Exemption from Identification Procedures 
+ 
+(1) Where a client’s identity was not properly obtained under these Regulations and Requirements for Account 
+Opening Procedure, a Capital Market Operator shall re-establish the client’s identity in line with the contents 
+of these Regulations. 
+ 
+(2) Notwithstanding the provisions of sub-regulation (1) above, identification evidence shall not be required 
+where the client for business is a Nigerian Capital Market Operator or a person covered and regulated 
+by the requirements of these Regulations. 
+ 
+(3) Notwithstanding the provisions of sub-regulation (1) above, identification evidence shall not be required 
+in the case of cash remittances and wire transfers, either inward or outward, or other monetary 
+instruments that are undertaken against payment in cash for clients who do not have an account or other 
+established relationship with the Capital Market Operator such as walk–in clients without a high risk for 
+money laundering purposes. 
+ 
+(4) In respect of transactions under sub-regulation (2) and (3) above, adequate procedures shall be 
+established to record the transaction and relevant identification evidence taken, where necessary and 
+where such transactions form a regular part of the Capital Market Operator’s business, the limits for 
+requiring identification evidence of $1,000 or its equivalent for foreign transfers; N250,000 for individual 
+and N500,000 for a corporate body shall be observed. 
+ 
+(5) Notwithstanding the provisions of sub-regulation (1)  above , identification evidence shall not be required, 
+where the proceeds of a one-off transaction can be paid to a client or be further re-invested where 
+records of his identification requirements were obtained and kept; otherwise, his identification 
+requirements shall be obtained before the proceeds are paid to him or be re-invested on his behalf in 
+accordance with the relevant provision of these Regulations. 
+ 
+        PART XI 
+MISCELLANEOUS 
+ 
+95.  Sanctions for Non- Compliance with the provisions of these Regulations 
+ 
+           A capital market operator shall: 
+ 
+ 
+(1)  Comply with the provisions of the Money Laundering (Prevention and Prohibition) Act, 2022, the Terrorism 
+(Prevention and Prohibition) Act,2022, Investment and Securities Act, SEC Rules and Regulations or any relevant 
+laws or regulations issued by the Attorney General of the Federation or any other competent authority. 
+ 
+(2)   comply with all the requirements of the Regulation for the Implementation of Targeted Financial Sanctions on 
+52 
+ Terrorism, Terrorism Financing and other Related Measures,2022 and Regulation for the Implementation of 
+Targeted Financial Sanctions on proliferation financing, 2022. 
+ 
+(2) A capital market operator who fails to comply with the provisions in 1 above shall be sanctioned in line with 
+regulation 96 of this Regulation. 
+ 
+ 
+96.      
+ 
+(1) A Capital Market Operator who fails to comply with the provisions of these Regulations or contravenes the 
+provisions of these Regulations shall be subject to administrative sanctions by the SEC and other applicable 
+sanctions by any other relevant authority in line with the provisions of the MLPPA and TPA. 
+ 
+(2) A Capital Market Operator or its officer, that contravenes the provisions of these Regulations shall be subject to 
+applicable sanctions by the SEC as follows— 
+  (a) imposition of the appropriate penalty from the first to the fifth instances on each contravention; and 
+ 
+(b) in addition, where necessary, suspension of the registration issued to the Capital Market Operator for failure 
+to comply with these Regulations. 
+ 
+(3) Any individual, being an official of a Capital Market Operator who fails to take steps to ensure compliance with the 
+provisions of these Regulations, shall be sanctioned accordingly.  
+ 
+(4) Any person being a director, senior management, manager or employee of a Capital Market Operator, either 
+acting alone or in partnership with others, who contravenes the provisions of these Regulations under any 
+circumstances shall be subject to any or all of the following sanctions—  
+ 
+(a) on the first two infractions, be warned in writing by the Capital Market Operator and reported to SEC; 
+ 
+(b) on the third infraction, the operator may consider terminating the employee’s appointment; and 
+ 
+(c) in each instance, the names of the officers penalized, the nature of the offence and the sanction imposed shall 
+be reported to the SEC. 
+ 
+(5)  For purpose of emphasis, incidence of false declaration or false disclosure by the Capital Market Operator or its 
+officers shall be subject to administrative review and appropriate sanctions meted out subject to the provisions of 
+these Regulations 
+ 
+97. Revocation  
+ 
+(1) The Securities & Exchange Commission (Capital Market Operators Anti-Money Laundering/Combating 
+Financing of Terrorism (AML/CFT) Regulations for Capital Market Operators, 2013 is hereby revoked. 
+ 
+(2) The revocation of the Regulations specified in sub-regulation (1) above shall not affect anything done 
+or purported to be done under or pursuant to that regulation. 
+98. Interpretation  
+ 
+In these Regulations – 
+ 
+“Accounts” means a facility or an arrangement by which a financial institution— 
+ 
+(a)  accepts deposits of currency; 
+ 
+(b) allows withdrawals of currency or transfers into or out of the account; 
+53 
+  
+(a) pays cheques or payment orders drawn on a financial institution or cash dealer by a person or collect cheques or 
+payment orders on behalf of a person; supplies a facility or an arrangement for a safe deposits box; 
+ 
+“Accurate” means information that has been verified for accuracy. 
+ 
+“AML/CFT/PF” means Anti-Money Laundering and Combating, Countering the Financing of Terrorism and 
+Proliferation Financing; 
+ 
+“Applicant for Business” means the person or company seeking to establish a ‘business relationship’ or an occasional 
+client undertaking a ‘one-off’ transaction whose identity must be verified; 
+ 
+“Beneficiary” means a natural or legal person or any other form of legal arrangement identified by the originator as a receiver 
+of the requested transfer. In trust, a beneficiary is the person or persons who are entitled to the benefit of any trust arrangement. 
+A beneficiary can be a natural or legal person or arrangement. All trusts (other than charitable or statutory permitted non – 
+charitable trusts) are required to have ascertainable beneficiaries. While trusts must always have some ultimately ascertainable 
+beneficiaries, trusts may have no defined existing beneficiaries but only objects of a power until some person becomes entitled 
+as beneficiary to income or capital on the expiry of a defined period, known as the accumulation period. This period is normally 
+co-extensive with the trust perpetuity period which is usually referred to in trust deed as the trust period. In the context of life 
+insurance or another investment linked insurance policy, a beneficiary is the natural or legal person, or a legal arrangement, 
+or category of persons, who will be paid the policy proceeds where an insured event occurs, which is covered by the policy; 
+ 
+“Beneficial owner” means a natural person who ultimately owns or controls a clients or a person on whose behalf a transaction 
+is being conducted and it also incorporates those persons who exercise ultimate effective control over a legal person or 
+arrangement; 
+ 
+“Banks and other Financial Institutions Act” means the Banks and other Financial Institutions Act (as amended); 
+ 
+“Business relationship” means any arrangement between a Capital Market Operator the applicant for business which purpose 
+is to facilitate the carrying out of transactions between the parties on a frequent, habitual or regular basis; 
+ 
+“Capital Market Operator” means any person (individual or corporate) duly registered by the Commission to perform specific 
+functions in the Capital Market; 
+ 
+“Cooling off rights” means the rights of an investor to return products purchased and get a refund if the individual changes his 
+mind; 
+ 
+“Cross-border transaction” means any transaction where the originator and beneficiary Operators are located in different 
+jurisdictions. This term also refers to any chain of transaction that has at least one cross-border element; 
+ 
+“Designated categories of predicate offences” includes: 
+ 
+(a) participation in an organized crime group and racketeering; 
+ (b) terrorism, including terrorist financing; 
+(c) trafficking in human beings and migrant smuggling; 
+(d) sexual exploitation, including sexual exploitation of children; 
+(e) illicit trafficking in narcotic drugs and psychotropic substances;  
+(f) illicit arms trafficking; 
+(g) illicit trafficking in stolen and other goods; 
+(h) corruption and bribery; 
+54 
+ (i) fraud; 
+(j)  counterfeiting currency; 
+(k) counterfeiting and piracy of products; (l) environmental crime; 
+(m) murder, grievous bodily injury; 
+(n) kidnapping, illegal restraint and hostage-taking;  
+(o) robbery or theft; 
+(p) smuggling; (q) extortion; (r) forgery:  
+(s) piracy; 
+(t) insider trading and market manipulation; 
+(u) Tax evasion;  
+(v) Proliferation financing (Weapons of Mass destruction); and  
+(w) any other offence as the Attorney General or appropriate regulatory authorities may from time to time   designate. 
+ 
+“Designated Non-Financial Businesses and Professions” means dealers in jewelry, cars and luxury goods, chartered 
+accountants, audit firms, tax consultants, clearing and settlement companies, legal practitioners, hotels, casinos, 
+supermarkets, or such other businesses as the appropriate regulatory authorities may from time to time designate;  
+ 
+“Domestic transfer” means any wire transfer where the originator and beneficiary institutions are both located in Nigeria. This 
+term therefore refers to any chain of wire transfers that takes place entirely within Nigeria’s borders, even though the system 
+used to effect the wire transfer may be located in another jurisdiction; 
+ 
+“FATF” means Financial Action Task Force; 
+ 
+“False disclosure” means a misrepresentation of the value of currency or bearer negotiable instruments being transported, or 
+a misrepresentation of other relevant data which is asked for in the disclosure or otherwise requested by the authorities; 
+ 
+“Funds Transfer” means any transaction carried out on behalf of an originator (both natural and legal) through a Capital Market 
+Operator by electronic means with a view to making an amount of money available to a beneficiary through another Capital 
+Market Operator.The originator and the beneficiary may be the same person; 
+ 
+“GIABA” means Inter-Governmental Action Group against Money Laundering in West Africa; 
+ 
+“ISA” means Investments and Securities Act, 2007 (as may be amended); 
+ 
+“Legal persons” means bodies corporate foundations, partnerships, or associations, or any similar bodies that can establish a 
+permanent client relationship with a Capital Market Operator or otherwise own property; 
+  
+“Legal practitioners, notary public and accountants” means sole practitioners, partners or employed professionals within 
+professional firms. It is not meant to refer to “internal” professionals that are employees of other types of businesses, nor to 
+professionals working for government agencies, who may already be subject to measures that would combat money 
+laundering; 
+ 
+“MLLPA”—refers to the Money Laundering (Prevention and Prohibition) Act,2022; 
+ 
+“Nigerian Financial Intelligence Unit (NFIU)” refers to the central unit responsible for receiving, requesting, analyzing and 
+disseminating to the competent authorities, disclosures of financial information concerning the suspected proceeds of crime 
+and potential financing of terrorism and Proliferation financing; 
+ 
+55 
+ “Non-Profit Organization/ Non-Governmental Organization” means a legal entity or organization that primarily engages in 
+raising or disbursing funds for purposes such as charitable, religious, cultural, educational, social or fraternal purposes, or for 
+the carrying out of other types of good works; 
+ 
+“One-off Transaction” means any transaction carried out other than in the course of an established business relationship. (It is 
+important to determine whether an applicant for business is undertaking a one-off transaction or whether the transaction is or 
+will be a part of a business relationship as this can affect the identification requirements); 
+ 
+“Originator” means the account holder, or where there is no account, the person (natural or legal) that places the order with 
+the Capital Market Operator to perform the capital market transaction; 
+ 
+“Payable through account” means correspondent accounts that are used directly by third parties to transact business on their 
+own behalf; 
+ 
+“Physical presence” means meaningful mind and management located within a country. The existence simply of a local agent 
+or low level staff does not constitute physical presence; 
+ 
+“Politically exposed persons” (PEPs) includes— 
+ 
+(a) Individuals who are or have been entrusted with prominent public functions by a foreign country, for example Heads of 
+State or Government, senior politicians, senior government, judicial or military officials, senior executives of State owned 
+corporations and important political party officials; 
+ 
+(b) individuals who are or have been entrusted domestically with prominent public functions, for example Heads of State or of 
+Government, senior politicians, senior government, judicial or military officials, senior executives of State owned corporations 
+and important political party officials; and 
+ 
+(c) persons who are or have been entrusted with a prominent function by an international organization and includes members 
+of senior management such as directors, deputy directors and members of the board or equivalent functions; 
+ 
+ Provided that the definitions in (a), (b) and (c) above include their family members and close associates. 
+  
+“Proceeds” means property derived from or obtained, directly or indirectly;  
+ 
+“Property” means assets of every kind, whether corporeal or incorporeal, moveable or immoveable, tangible or intangible, and 
+legal documents or instruments evidencing title to, or interest in such assets; 
+ 
+“Regulators” means competent regulatory authorities responsible for ensuring compliance of Financial Institutions and 
+Designated Non-Financial Institutions with requirements to combat money laundering and terrorist financing; 
+ 
+“Relevant authority” means any persons or organization which has mandate over the activity as an individual; 
+ 
+“Risk” All references to risk in these Regulations refer to the risk of money laundering, terrorist financing and proliferation 
+financing, 
+ 
+“Settlors” are persons or companies who transfer ownership of their assets to trustees by means of a trust deed. Where the 
+trustees have some discretion as to the investment and distribution of the trust assets, the deed may be accompanied by a 
+non-legally binding letter setting out what the settler wishes to be done with the assets; 
+ 
+56 
+ “Shell bank” means a bank that has no physical presence in the country in which it is incorporated and licensed and which is 
+unaffiliated with a regulated financial services group that is subject to effective consolidated supervision; 
+ 
+” Physical presence” in relation to shell banks, means having structure and management located within a country and not 
+merely the existence of a local agent or low level staff; 
+ 
+“Suspicious Transaction” For the purpose of these Regulations, a suspicious transaction may be defined as one which is 
+unusual because of its size, volume, type or pattern or otherwise suggestive of known money laundering or terrorist financing 
+methods. It includes such a transaction that is inconsistent with a client’s known, legitimate business or personal activities or 
+normal business for that type of account or that lacks an obvious economic rationale; 
+ 
+“Terrorist” has the same meaning as in the Terrorism (Prevention and Prohibition) Act ,2022; 
+ 
+“Terrorist act” has the same meaning as in the Terrorism (Prevention and Prohibition) Act ,2022; 
+ 
+“Terrorist financing” has the same meaning as in the Terrorism (Prevention and Prohibition) Act, 2022; 
+ 
+“Terrorist financing offence” has the same meaning as in the Terrorism (Prevention and Prohibition) Act ,2022; 
+ 
+“Terrorist organization” has the same meaning as in the Terrorism (Prevention and Prohibition) Act, 2022; 
+ 
+“TPPA” – refers to the Terrorism (Prevention and Prohibition) Act; 
+  
+“Trustees” include paid professionals or companies or unpaid persons who hold the assets in a trust fund separate from their 
+own assets. They invest and dispose of them in accordance with the settlor’s trust deed, taking account of any letter of wishes. 
+There may also be a protector who may have power to veto the trustees’ proposals or remove them, a custodian trustee, who 
+holds the assets to the order of the managing trustees; 
+ 
+“Trust and Company Service providers” refers to all persons or businesses that are not covered elsewhere under these 
+Regulations and which as a business provide any of the following services to third parties; 
+ 
+(a) acting as a formation agent of legal persons; 
+ 
+(b) acting as (or arranging for another person to act as) a director or secretary of a company, a partner of a partnership, or a 
+similar position in relation to other legal persons; 
+ 
+(c) providing a registered office; 
+ 
+(d) business address or accommodation, correspondence or administrative address for a company, a partnership or any other 
+legal person or arrangement; 
+ 
+(e) acting as (or arranging for another person to act as) a trustee of an express trust; or 
+ 
+(f) acting as (or arranging for another person to act as) a nominee shareholder for another person; 
+ 
+“The FATF Recommendations” means the Forty Recommendations on Anti-Money Laundering/Combating the Financing of 
+Terrorism and Proliferation Finanicng. 
+ 
+“Those who finance terrorism” means any person, group, undertaking or other entity that provides or collects, by any means, 
+directly or indirectly, funds or other assets that may be used, in full or in part, to facilitate the commission of terrorist acts, or to 
+57 
+ any persons or entities acting on behalf of, or at the direction of such persons, groups, undertakings or other entities. This 
+includes those who provide or collect funds or other assets with the intention that they shall be used or in the knowledge that 
+they are to be used, in full or in part, in order to carry out terrorist acts; 
+ 
+“Unique identifier” means any unique combination of letters, numbers or symbols that refer to a specific originator; 
+ 
+Virtual Asset (VA): A digital representation of value that can be digitally traded, or transferred, and can be used for payment or 
+investment purposes. Virtual assets do not include digital representations of fiat currencies, securities and other financial 
+assets that are already covered elsewhere in the FATF Recommendations. 
+ 
+Virtual Asset Service Provider (VASP): means any entity who is not covered elsewhere under the FATF Recommendations, 
+and as a business conducts one or more of the following activities or operations for or on behalf of another natural or legal 
+person: 
+i. exchange between virtual assets and fiat currencies; 
+ii. exchange between one or more forms of virtual assets; 
+iii. transfer of virtual assets;  
+iv. safekeeping and/or administration of virtual assets or instruments enabling control over virtual assets; and    
+participation in and provision of financial services related to an issuer’s offer and/or sale of a virtual asset. 
+v. VASPs are Capital Market operators within the meaning of Section 315 of ISA 2007. 
+ 
+ 
+99. Citation 
+ 
+These Regulations may be cited as Securities and Exchange Commission (Capital Market Operators Anti-Money 
+Laundering, Combating Terrorism Financing and Proliferation Financing) Regulations, 2022 
+ 
+ 
+ 
+TH
+   Made at Abuja on the …12 ……………………….… day of May …………………………………. 2022 
+ 
+ 
+ 
+ 
+………………………………………………………………. 
+ABUBAKAR MALAMI (SAN) 
+HOR. Attorney-General of the Federation & Minister of Justice  
+ 
+ 
+ 
+EXPANATORY NOTES 
+(This note does not form part of these Regulations, 
+but is intended to explain its purports.) 
+These Regulations provide protection to the capital market against fraud, reputational and other financial market risks 
+faced by the Capital Market, protects the integrity of the securities market against all forms of abuse, fraudulent and unfair 
+trade practices, money laundering, proceeds of crime, terrorism and proliferation financing , and guide the capital market 
+operators in the implementation of all preventive measures including Know Your Customer (KYC) and Customer Due 
+Diligence (CDD) requirements for the capital market.  
+58 
+ 

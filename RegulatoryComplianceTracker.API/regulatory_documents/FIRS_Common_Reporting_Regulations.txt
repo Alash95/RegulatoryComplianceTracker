@@ -1,0 +1,364 @@
+Extraordinary 
+Federal Republic of Nigeria 
+Official Gazette 
+No. 00 Lagos - OOnd February, 2019 Vol. 00 
+Government Notice No. 00 
+The following is published as supplement to this Gazette: 
+S.L No. Short Title Page 
+00 Income Tax (Common Reporting Standard) Regulations, 2019 
+B00-00 
+Printed and Published by The Federal Government Printer. Lagos. Nigeria 
+FGP 91/82019/1,000 
+Annual Subscription from 1st January. 2019 is Local. N45,000.00 Overseas : N60.500.00 [Surface Mail] 
+N75,000.00 [Second Class Air Mail]. Present issue N 1,500 per copy. Subscribers who wish to obtain Gazette after 1st 
+January should apply TO the Federal Government Printer. Lagos for amended Subscriptions. 
+B 3 
+FEDERALINLANDREVENUESERVICE(ESTABLISIIMENT) 
+ACT, 2007 
+INCOME TAX (COMMON REPORTING STANDARD) 
+REGULATIONS, 2019 
+  
+ARRANGEMENT OF REGULATIONS 
+Regulation 
+PART I—PRELIMINARY 
+1. Purpose. 
+2. Scope. 
+PART II—REQUIREMENTS OF THE COMMON REPORTING STANDARD 
+3. Status of the Guidelines. 
+4. Due Diligence Requirements. 
+5. Reporting Requirements. 
+6. Record-Keeping Requirements. 
+PART III—ADMINISTRATION 
+7. Functions and Powers of the Service 
+8. Access and Inspection of Books, etc, and Provision of Information and Assistance. 
+9. Confidentiality of CRS Information Return. 
+PART IV―NON-COMPLIANCE AND PENALTIES 
+10. Non-Compliance and Penalties. 
+11. Imposition ofPenalties. 
+PART V一SUPPLEMENTARY AND GENERAL PROVISIONS 
+12. Anti-Avoidance. 
+13. Interpretation. 
+14. Commencement. 
+15. Short Title. 
+B 5 
+ 
+S. 1. No. 28 of 2019 
+FEDERAL INLAND REVENUE SERVICE (ESTABLISHMENT) 
+ACT, 2007 
+INCOME TAX (COMMON REPORTING STANDARD) 
+REGULATIONS, 2019 
+[Is, Day of July, 2019] 
+Commence-
+ment. 
+In exercise of the powers conferred by Section 61 of the Federal Inland 
+Revenue Service (Establishment) Act, No. 13 of 2007 ("the Act”)and all other powers 
+enabling it in that behalf, the Federal Inland Revenue Service Board established 
+u
+under Section 3(1) of the Act ( the Board”)with the approval of the Minister, makes 
+the following Regulations— 
+PART I—PREMILINARY 
+Purpose. 
+1. These Regulations give effect to the provisions of— 
+(。)Multilateral Convention on Mutual Administrative Assistance in Tax Matters 
+("MAC") and the Multilateral Competent Authority Agreement (“MCAA”) on 
+Automatic Exchange of Financial Account Information, signed by Federal Republic of 
+u
+Nigeria ( Nigeria,,) on 17th August 2017 ; 
+(b) the Common Reporting Standard ("CRS”)and its Commentaries ("CRS 
+Commentaries,,) contained in Parts II.B and III.B of the Standard for Automatic 
+Exchange of Financial Account Information in Tax Matters approved by the Council 
+of the Organisation fbr Economic Cooperation and Development (OECD) on 15th July 
+2014, as set out in Parts II and III respectively, of the AEOI Implementation and 
+Compliance Guidelines ("the Guidelines,,); 
+(c) Sections 8(l)(z), 8(1)(/), 8(2), 27(1) and 29 of the Act; and 
+(d) Sections 58 and 60 of the Companies Income Tax Act, CAP C21, Laws of the 
+Federation of Nigeria, 2004. 
+2. These Regulations specify matters including, but not limited to— 
+Scope. 
+(a) matters that the Standard foresees to be specified by Nigeria with respect to 
+5
+Financial institutions implementation and compliance with "the Guidelines,,; 
+(B) requirements regarding the due diligence procedures with respect to financial accounts and 
+the reporting of financial account information to the Federal Inland Revenue Service ("the Service") 
+that Financial Institutions shall comply with when implementing and applying the Guidelines ; and 
+(c) requirements with respect to the effective implementation of the CRS and the CRS 
+Commentaries in Nigeria.   
+B 6 
+PART II—REQUIREMENTS OF THE COMMON REPORTING STANDARD 
+3. The CRS and the CRS Commentaries as contained in the Guideline as well as 
+Status of the 
+Guidelines. 
+the Guidelines issued by the Service pursuant to regulations 7 of these Regulations shall be 
+binding and Reporting Financial Institutions shall apply the CRS in accordance with the 
+Commentaries, as may from time to time be issued by the Service. 
+4. — 1) Reporting Financial Institution shall establish, maintain and document 
+the procedures required to be applied by this regulation that are designed to identify 
+Due 
+Diligence 
+Reportable Accounts maintained by the institution. 
+Requirements. 
+(2) Reporting Financial Institution shall identify Reportable Accounts maintained by 
+the institution by applying the due diligence procedures described in Sections II to VII of the 
+CRS, and the due diligence procedures shall be applied consistently with the CRS 
+Commentaries contained in part III of the Guidelines. 
+(3) An account shall be treated as a Reportable Account beginning from the date it is 
+identified as such, pursuant to the due diligence procedures in Sections II to VII of the CRS 
+and, unless otherwise provided, information with respect to a Reportable Account shall be 
+reported annually in the calendar year following the year to which the information relates. 
+(4) For the purposes of these Regulations, an account with a balance or value that is 
+negative is deemed to have a balance or value equal to nil. 
+(5) In determining the balance or value of an account denominated in a currency, other 
+than United State Dollars ("USD") for the purposes of the CRS and these Regulations, a 
+Reporting Financial Institution shall translate the relevant USD threshold amount described in 
+the CRS into the other currency by reference to the foreign exchange spot rate on the date for 
+which the institution is determining the threshold amount. 
+(6) With respect to New Entity Accounts, fbrthe purposes of determining whether a 
+Controlling Person of a Passive Non-Financial Entity ("NFE") is a Reportable Person, a 
+Reporting Financial Institution may only rely on a selfcertification from either the Account 
+Holder or the Controlling Person. 
+(7) Reporting Financial Institution may use service provider to fulfil the reporting and 
+due diligence obligations, but these obligations shall remain the responsibility of the Reporting 
+Financial Institution. 
+(8) Reporting Financial Institution may apply the due diligence procedures for New 
+Accounts, as described in Section IV or VI of the CRS, to Preexisting Accounts, and the due 
+diligence procedures for High Value Accounts, as described in paragraph C of Section III of 
+the CRS, to Lower Value Accounts.   
+B 7 
+(9) Reporting Financial Institution may apply the residence address procedures as described in 
+sub-paragraph B (1) of Section III of the CRS to a Lower Value Account. 
+(10) Reporting Financial Institutions may apply paragraphs A to C of Section V of the CRS to 
+determine whether a Pre-existing Entity Account is subject to the due diligence procedures described in 
+Section V of the CRS. 
+5. ―1) A Reporting Financial Institution shall, in respect of the calendar year 2019 and every 
+following calendar year, file with the Service an Information. Return setting out the 
+Reporting 
+information required to be reported as described in paragraphs A and B of Section I of the Requirements. 
+Guidelines, subject to paragraphs C to E of the same Section, in relation to every Financial 
+Account identified as a Reportable Account that is maintained by the institution at any 
+time during a calendar year. 
+(2) Where a Reporting Financial Institution applies the due diligence, procedures 
+described in regulation 4 of these Regulations for a calendar year and no account is 
+identified as a Reportable Account, the institution shall file with the Service an 
+Information Return which provides that the institution maintains no such Reportable 
+Accounts in respect of that year. 
+(3) An Information Return, required to be filed by this regulation, shall be filed 
+electronically using such technology as may be approved or provided by the Service, and 
+in such form as the Service may require. 
+(4) An Information Return, required to be filed by these Regulations, shall be 
+submitted on or before 31st May of the year following the calendar year to which the 
+return relates. 
+6. 一(1) Reporting Financial Institution shall keep records of the steps undertaken 
+and any evidence relied upon or any record that the institution obtains or creates for the 
+purpose of complying with these Regulations, including self-certifications and records of 
+Record- 
+Documentary Evidence. Keeping 
+Requirements. 
+(2) Reporting Financial Institution required by these Regulations to keep records 
+that does so electronically shall retain them in an electronically readable format for the 
+retention period referred to in sub-regulation (4) of this regulation. 
+(3) Reporting Financial Institution that obtains or creates records, as required under these 
+Regulations, in a language other than English shall provide an English translation to the Service. 
+(4) Reporting Financial Institution that is required to keep, obtain or create records under these 
+Regulations shall retain those records for a period of at least six years following the end of the last 
+calendar year in respect of which the record is relevant.   
+B 8 
+PART III -ADMINISTRATION 
+7. The Service shall administer and enforce compliance with these Regulations 
+Functions and 
+and issue Guidelines for such purposes. Accordingly, the Service ma\ exercise all powers 
+Powers of the 
+Service. 
+vested in it under the Act and other relevant laws to realise that purpose. 
+8. — 1) The Service may, by notice in writing, at all reasonable times, enter any 
+premises or place ofbusiness of a Financial Institution, or require a Financial Institution to 
+Access and 
+give it within such time, not less than 14 days, as may be provided by the notice, with such 
+Inspection of 
+information as the Service may reasonably require fbr any purpose relating to the 
+Books、 etc, 
+administration or enforcement of these Regulations, including— 
+and Provision 
+of Information 
+(а) determining whether information included in an Information Return is correct 
+and Assistance. 
+and complete ; 
+(б) determining whether information not included in an Information Return was 
+rightfully excluded ; and 
+(c) examining the procedures put in place by the institution fbr the purposes of ensuring 
+compliance with that institution's obligations under these Regulations. 
+(2) The Service may require a Financial Institution to produce books, records or 
+other documentation; to provide information, explanations and particulars; and to give all 
+assistance which the Service may reasonably require relating to the administration or 
+enforcement of these Regulations. 
+(3) The Service may make extracts from or copies of all or any part of the books, 
+records or other documents or other materials made available to the Service or require that 
+copies of books, records or other documents be made available to the Service fbr any purpose 
+relating to the administration or enforcement of these Regulations. 
+(4) The Service may seek the cooperation of any person or Agency of 
+Government fbr the purposes of administration and enforcement of these Regulations. 
+9. The Service shall preserve the confidentiality of an Infoimation Return at least 
+to the same extent that would apply if such information were provided to it under the 
+provisions of the domestic laws, the MAC or the MCAA. 
+PART IV—NON-COMPLIANCE AND PENALTIES 
+10. — 1) Where a person fails to comply with a duty or obligation imposed by 
+Confidentiality these Regulations, the Service shall impose an administrative penalty of N10,000,000.00 for 
+of the CRS 
+each of such failure, and Nl,000,000.00 for every month in which the failure continues.  
+Information 
+Return. 
+Non- 
+Compliance 
+and 
+Administrative 
+Penalties.  
+B 9 
+(2) Where a Reporting Financial Institution fails to file an Information Return as and when 
+required under regulation 5 of these Regulations, the Service shall impose an administrative 
+penalty of N10,000,000.00 in the first month in which the failure occurs and Nl,000,000.00 for 
+each subsequent month the failure continues. 
+(3) Where a person makes a false statement, false report or false declaration or gives any 
+false information or omission in respect of any information required to be included on an 
+Information Return under regulation 5 of these Regulations, the Service shall impose an 
+administrative penalty of N5,000,000.00 and such person may also be liable to penalties as 
+prescribed in the Act. 
+(4) Where a Financial Institution or a person fails to comply with the requirement of the 
+Service in the exercise or performance of its powers or duties under these Regulations, the Service 
+shall impose an administrative penalty of Nl,000,000.00 in the first instance and N100,000.00 for 
+each subsequent day the failure continues. 
+(5) Where a Reporting Financial Institution fails to keep records in accordance with 
+regulation 6 of these Regulations, the Service shall impose an administrative penalty of 
+N10,000,000.00 in the first month in which the failure occurs and N1,000,000.00 for each 
+subsequent month the failure continues. 
+11. —(1) Penalties shall not be imposed under regulation 10 of these Regulations where 
+the Service is satisfied that there is a reasonable excuse for such omission or failure. 
+(2) For the purposes of sub-regulation (1) of this regulation, neither of the following is a 
+reasonable excuse— 
+Exemption 
+(。)that there is an insufficiency of funds to do something ; or 
+from 
+(B) that a person relies upon another person to do something. 
+Administrative 
+(3) Where a person had a reasonable excuse fbr a failure but the excuse has 
+Penalties. 
+ceased, the person shall be treated as having continued to have the excuse, provided 
+the failure is remedied within a reasonable time after the excuse ceased. 
+PART V—SUPPLEMENTARY AND GENERAL PROVISIONS 
+12. Where a Financial Institution or any person enters into any arrangement 
+or engages in a practice, and it can reasonably be inferred that the main purpose or 
+one of the main purposes of such arrangement, is to avoid an obligation imposed 
+under these Regulations, such Financial Institution or person shall be subject to the 
+obligation imposed under these Regulations, as where the person had not entered 
+into the arrangement or engaged in the practice.
+Anti-
+Avoidance.  
+B 10 
+Interpretation. 13.―1) In these Regulations and for the purposes of applying the Guidelines, unless the 
+context otherwise requires一 
+“■ML" means Anti-Money Laundering ; 
+“CW means the Common Reporting Standard contained in Part II.B of the 
+Standard for Automatic Exchange ofFinancial Account Information in Tax Matters 
+approved by the Council of the OECD on 15th July 2014, as set out in part II of the 
+Guidelines, as may, from time to time, be issued by the Service ; 
+“CRS Commentaries" means the Commentaries on the CRS contained in Part III.B 
+of the Standard for Automatic Exchange ofFinancial Account Information in Tax 
+Matters approved by the Council of the OECD on 15th July 2014, as set out in the part 
+III of the Guidelines, as may, from time to time, be issued by the Service ; 
+“Excluded Account" means an account as defined in sub-paragraphs C(17)(a) to (f) 
+of Section VIII of the Guidelines ; 
+“The Guidelines" means the detailed plans of implementation and compliance 
+contained in and known as "Income Tax (Common Reporting Standard) 
+55
+Implementation and Compliance Guidelines comprising the CRS and the CRS 
+Commentaries or as may from time to time be issued by the Service ; 
+^Information Returrf" means a report, setting out certain information as specified 
+by these Regulations, which a Reporting Financial Institution is required to file with 
+the Service ; 
+“KYC means Know Your Customer ; 
+“Minister" means the Minister charged with the responsibility for Finance ; 
+"Nigeria Financial Institution means— 
+(a) any Financial Institution that is resident in Nigeria, but excludes any branch 
+of that Financial Institution that is located outside of Nigeria ; and 
+(Z?) any branch of a Financial Institution that is not resident in Nigeria, where 
+that branch is located in Nigeria ; 
+“NFE" means Non-Financial Entity or any entity that is not a Financial Institution; 
+^Non-Reporting Financial Institutiorf" means a Financial Institution as defined in 
+sub-paragraphs B(l)(。)，(8), (d) and (e) of Section VIII of the CRS as contained 
+in Part II of the Guidelines ; 
+Participating Jurisdictiorf" means a jurisdiction as defined in Section VIII(A)(2) 
+of the CRS as set out in Part II to the Guidelines ; 
+B 11 
+^Pre-existing Account^ means— 
+(<7)a Financial Account maintained by a Reporting Financial Institution as of 30th June 2019 
+; or 
+(方)any Financial Account of an Account Holder, regardless of the date such Financial 
+Account was opened where : 
+(/) the Account Holder also holds with the Reporting Financial Institution (or with a Related 
+Entity within the same jurisdiction as the Reporting Financial Institution) a Financial Account 
+that is a Pre-existing Account under sub-paragraph (。)above ; 
+(z7) the Reporting Financial Institution (and, as applicable, the Related Entity within the 
+same jurisdiction as the Reporting Financial Institution) treats both of the aforementioned 
+Financial Accounts, and any other Financial Accounts of the Account Holder that are treated as 
+Pre-existing Accounts under sub-paragraph (b) as a single Financial Account for purposes of 
+satisfying the standards ofknowledge requirements set forth in paragraph A of Section VII of the 
+CRS, and fbr purposes of determining the balance or value of any of the Financial Accounts 
+when applying any of the account thresholds ; 
+(zzz) with respect to a Financial Account that is subject to AML/KYC procedures, the 
+Reporting Financial Institution is permitted to satisfy such AML/KYC procedures fbr the 
+Financial Account by relying upon the AML/KYC procedures performed fbr the Pre-existing 
+Account described in sub-paragraph (&) above ; and 
+(zv) the opening of the Financial Account does not require the provision of new, additional 
+or amended customer information by the Account Holder other than fbr purposes of the CRS ; 
+"'Reportable Jurisdiction" means— 
+(。)any jurisdiction other than Nigeria or the United States of America; 
+(8) a jurisdiction with which an international agreement providing for the automatic 
+exchange of information fbr tax purposes is in effect between Nigeria and that other jurisdiction, 
+as may be contained in a list published by the Service, from time to time ; or 
+(c) a jurisdiction as defined in Section VIII(D)(4) of the Guidelines ; and 
+"Reporting Financial Institution means any Nigeria Financial Institution that is not a Non-
+Reporting Financial Institution. 
+(2) Subject to sub-regulations (1) and (3) of this regulation and fbr the purposes of applying the 
+CRS and the CRS Commentaries, any term which is defined in the CRS or in the CRS Commentaries 
+but not in these Regulations has the same meaning in these Regulations as in the CRS or in the CRS 
+Commentaries as set out in the Guidelines. 
+(3) For the purposes of applying these Regulations and the Guidelines— 
+(a) all monetary expression in USD shall be read to include its equivalent in Naira; 
+(b) “Entity" means a legal person or a legal arrangement, such as corporation, 
+partnership, trust or foundation; 
+(c) an Entity is a "Related Entity” of another Entity where— 
+(/) either Entity controls the other Entity ;  
+12 
+(if) the two Entities are under common control; or 
+(Hi) the two Entities are - Investment Entities as described in subparagraph A(6)(6) 
+of Section VIII of the CRS ; under common management; and such management fulfils 
+the due diligence obligations of such Investment Entities. 
+For this purpose, control includes direct or indirect ownership of more than 50% of the 
+vote and value in an Entity ; 
+(d) the dates specified in the CRS in Part II of the Guidelines shall be read as : 
+(0 in sub-paragraph C (6) of Section 111, 31st December 2019 ; 
+(n) in paragraph D of Section III, 31st December 2019 in respect of a High Value 
+Account and 31st December 2020 in respect of a Lower Value Account; 
+(Hi) in paragraph A of Section V 31st December 2019 ; 
+(/v) in paragraph B of Section V 31 st December 2019 in both the first and second 
+instances; 
+(v) in sub-paragraph E(l)of Section V, 31st December 2019 in the first insunce and 
+31st December 2020 in the second instance ; 
+(v/) in sub-paragraph E (2) of Section V, 30th June 2019 ; 
+(V//)in sub-paragraph B(8X，) of Section VIIL 1st July 2019; 
+(v/i/) in sub-paragraph B(9X。)of Section VIII, 1st July 2019 and in sub-para^aph 
+of Section VIII, 31st December 2019 ; 
+(ir) in sub-paragraph C (9) of Section VIII, 30th June 2019 ; 
+(x) in sub-paragraph C (10) of Section VIII. 1st July 2019 ; (X/) in sub-paragraph 
+C (14) of Section VIII, 30th June 2019 ; 
+(xiT) in sub-paragraph C (15) of Section VIII, 30th June 2019 ; and (xiti) in sub-
+paragraph C (17) of Section Vlll, 1st July 2019. 
+The above specified dates may be subject to such modifications by the Service as it 
+may deem an>ropnate. 
+14. These Regulaiions shall come into force 1st July, 2019. 
+B 13 
+15. These Regulations may be cited as the Income Tax (Common Reporting 
+Short Title. 
+Standard) Regulations, 2019. 
+MADE at Abuja this 1 st day of July, 2019. 
+TUNDE FOWLER 
+Executive Chairman 
+Federal Inland Revenue Service 

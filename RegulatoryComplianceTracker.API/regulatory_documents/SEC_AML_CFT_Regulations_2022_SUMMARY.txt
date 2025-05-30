@@ -1,0 +1,18 @@
+### Summary of SECURITIES AND EXCHANGE COMMISSION (CAPITAL MARKET OPERATORS ANTI-MONEY LAUNDERING, COMBATING TERRORISM FINANCING AND PROLIFERATION FINANCING) REGULATIONS, 2022
+
+**Topics Covered:**
+1. **Objectives, Application, and Scope** - Regulatory objectives to combat and minimize risks from money laundering and terrorism financing in capital markets.
+2. **AML and CFT/CPF Institutional Policy Framework** - Guidelines for capital market operators regarding compliance and cooperation with relevant authorities.
+3. **Customer Due Diligence Measures** - Procedures for verifying customer identities and managing risk with different client categories.
+4. **Internal Controls, Compliance, and Audit** - Establishment of internal procedures for effective compliance.
+5. **Monitoring and Reporting of Suspicious Transactions** - Identifying and reporting suspicious activities.
+6. **Employee Education and Training Program** - Training staff about compliance measures and safeguards.
+7. **Know Your Customer (KYC) and Identification Procedures** - Norms for establishing customer identities and verification.
+8. **Establishing Identity** - Procedures for identity verification across various customer types.
+9. **Intermediaries and Third-Party Verifications** - Guidelines for reliance on third parties in customer identification processes.
+10. **Miscellaneous** - General provisions, including sanctions for non-compliance.
+
+**Risk Level: High**  
+The comprehensive nature of these regulations showcases significant attention to potential money laundering and terrorism financing risks specific to the capital market sector in Nigeria. This indicates a high level of operational risk management that must be adhered to by all capital market participants.
+
+[Read More](#) - (Please replace with actual link to the PDF source for direct access).

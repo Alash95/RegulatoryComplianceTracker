@@ -1,0 +1,1643 @@
+B 485
+Extraordinary
+Federal Republic of Nigeria
+Official Gazette
+No. 99 Lagos - 31st  May, 2023 Vol. 110
+Government Notice  No. 60
+The following is published as supplement to this Gazette :
+S.I. No. Short Title Page
+25 Central Bank of Nigeria (Customer Due Diligence) Regulations, 2023    .. B487-520
+Printed and Published by The Federal Government Printer, Lagos, Nigeria
+FGP 81/52023/00
+Annual Subscription from 1st January, 2023 is Local : N50,000.00 Overseas : N65,000.00 [Surface Mail]
+N80,000.00 [Second Class Air Mail]. Present issue N3,500 per copy. Subscribers who wish to obtain Gazette
+after 1st January should apply to the Federal Government Printer, Lagos for amended Subscriptions.B 486B 487
+BANKS AND OTHER FINANCIAL INSTITUTIONS
+ACT NO. 5, 2020
+CENTRAL BANK OF NIGERIA (CUSTOMER DUE DILIGENCE)
+REGULATIONS, 2023
+ARRANGEMENT OF REGULATIONS
+Regulation
+PART I — OBJECTIVES AND APPLICATION
+1. Objectives
+2. Scope
+3. Application
+PART II — CUSTOMER DUE DILIGENCE
+4. Prohibition of opening anonymous accounts
+5. Customer due diligence measures
+6. Customer identification
+7. Verification of customer identity
+8. Identification and verification of signatories, directors, and beneficial
+owners of legal persons and legal arrangements
+9. Authority of third party
+10. Nature and purpose of business
+11. Understanding sources of funds
+12. Ongoing due diligence
+13. Application of CDD to existing customers
+14. Electronic KYC
+15. Risk-based approach to CDD
+16. Tiered know-your-customer
+17. Enhanced CDD
+18. Reliance on identification and verification already performed
+19. Inability to undertake CDD
+20. Reliance on third party
+21. Timing of verification
+22. Tipping off
+23. Record keeping
+PART III — ADDITIONAL MEASURES
+24. Additional measures for specific customers and businesses
+25. External and non-resident non-Nigerian accountsB 488
+26. Non- resident Nigerians
+27. Resident non-Nigerians
+28. Correspondent banking relationship
+29. Trusts
+30. Blind trust
+31. Nominee directors and nominee shareholders
+32. Refugees or asylum seekers
+33. Foreign students
+34. Minors
+35. Non-face-to-face customers identification
+36. Introductions from authorized financial intermediaries
+37. Foreign intermediaries
+38. Corporate group introduction
+39. Acquisition of a financial institution and business
+40. Domiciliary account
+41. Safe custody and safety deposit boxes
+42. Retirement benefit programme
+43. Non-Profit Organizations
+44. Professional intermediary
+45. Agency relationship
+PART IV — MISCELLANEOUS PROVISIONS
+46. Sanctions for non-compliance
+47. Amendments or revocation of these Regulations
+48. Interpretation
+49. CitationB 489
+S. I. No. 25 of 2023
+BANKS AND OTHER FINANCIAL INSTITUTIONS
+ACT NO. 5, 2020
+CENTRAL BANK OF NIGERIA (CUSTOMER DUE DILIGENCE)
+REGULATIONS, 2023
+[31st Day of  May, 2023] Commence-
+ment
+In exercise of the powers conferred on me by Section 66 of the Banks and
+Other Financial Institutions Act, 2020 and all other powers enabling me in that
+behalf, I, GODWIN I. EMEFIELE, the Governor of the Central Bank of Nigeria make the
+following Regulations —
+PART I — OBJECTIVES AND APPLICATION
+1. The objectives of these Regulations are to — Objectives
+(a) provide additional customer due diligence measures  for financial
+institutions under the regulatory purview of the Central Bank of Nigeria
+to further their compliance with relevant provisions of the Money
+Laundering (Prevention and Prohibition) Act (MLPPA), 2022, Terrorism
+(Prevention and Prohibition) Act (TPPA), 2022,  Central Bank of Nigeria
+(Anti-Money Laundering, Combating the Financing of Terrorism and
+Countering Proliferation Financing of Weapons of Mass Destruction in
+Financial Institutions) Regulations, 2022 (CBN AML, CFT and CPF
+Regulations)  and international best practices ; and
+(b)  enable the CBN enforce compliance with customer due diligence
+measures in line with the CBN AML, CFT and CPF Regulations.
+2. These Regulations —
+Scope
+(a) complement the relevant provisions of the CBN AML, CFT and CPF
+Regulations on customer due diligence measures and additional customer
+due diligence measures for specific customers and activities ; and
+(b) shall be read in conjunction with the CBN AML, CFT and CPF
+Regulations.
+3. These Regulations shall apply to all Financial Institutions (FIs) under Application
+the regulatory purview of the Central Bank of Nigeria.
+PART II — CUSTOMER DUE DILIGENCE
+4. FIs shall not establish or keep anonymous accounts, numbered Prohibition
+of opening
+accounts or accounts in fictitious names.
+anonymous
+accountsB 490
+5.—(1) FIs shall undertake CDD measures when—
+Customer
+Due
+(a)  establishing business relationships ;
+Diligence
+(b) carrying out occasional transactions above the applicable and
+measures
+designated threshold of  US$1,000 or its equivalent in other currencies or
+as may be determined by the CBN from time to time, including where the
+transaction is carried out in a single or several transactions or operations
+that appear to be linked ;
+(c)  carrying out occasional transactions that are wire transfers, including
+cross-border and domestic transfers between FIs and when credit or debit
+cards are used as a payment method to effect money transfer ;
+(d) there are doubts as to the veracity or adequacy of previously obtained
+customer identification data ; or
+(e)  there is a suspicion of ML, TF and PF regardless of any exemptions
+or any other thresholds referred to in these Regulations or the CBN AML,
+CFT and CPF Regulations.
+(2)  FIs shall establish internal processes and procedures for conducting
+CDD measures for all potential and existing customers, including occasional
+customers.
+(3)  CDD measures shall include —
+(a)  customer identification and verification of identity ;
+(b)   identification and verification of identity of beneficial owners (BOs) ;
+(c)  understanding nature and purpose of business ;
+(d)  understanding the sources of funds ; and
+(e)  conducting ongoing due diligence on the business relationship and
+monitoring for suspicious activities.
+6. FIs shall identify their customer (whether permanent or occasional,
+Customer
+identification
+and whether natural or legal persons or legal arrangements) and obtain the
+following information —
+(a)  for Individuals —
+(i)  legal name and any other names used (such as maiden name),
+(ii)  permanent address (full physical address),
+(iii)  residential address (where the customer can be located),
+(iv)  telephone number, e-mail address and social media handle,
+(v)  date and place of birth,
+(vi)  Bank Verification Number (BVN),
+(vii)  Tax Identification Number (TIN),
+(viii)  nationality,
+(ix)  occupation, public position held and name of employer,B 491
+(x)  an official personal identification number or other unique identifier
+contained in an unexpired document issued by a government agency,
+that bears a name, photograph and signature of the customer such as a
+passport,  national identification card, residence permit, social security
+records or drivers’ license,
+(xi)  type of account and nature of the banking relationship, and
+(xii)  signature, and
+(xiii)  politically exposed persons (PEPs) status ;
+(b)  for legal persons and legal arrangements —
+(i)  name of institution,
+(ii)  mailing address,
+(iii)  e-mail and social media address,
+(iv)  phone numbers,
+(v)  registration number,
+(vi)  registered address,
+(vii)  business address,
+(viii)  valid identification, such as tax identification number,
+(ix)  nature and purpose of business or activities,
+(x)  certified true copy of documentary evidence confirming legal
+existence such as certificate of incorporation,
+(xi)  certified true copy of memorandum and articles of association or
+other similar documents,
+(xii)  certified true copy of the list of directors and shareholders or
+similar documents,
+(xiii)  board resolution to open the account,
+(xiv)  identification of those who have authority to operate the account,
+(xv)  legal documents indicating persons exercising control or significant
+influence over the legal persons and legal arrangement’s assets,
+(xvi)  valid means of identification of persons mentioned in
+subparagraph (xv) of this paragraph,
+(xvii)  names and identification documents of the relevant persons
+having a senior management position in the legal persons and legal
+arrangements, and
+(xviii)  the original documents referred to in subparagraphs (x) to
+(xiv) of this paragraph, shall be sighted and documented.
+7.—(1)  FIs shall verify the identity of customers and  BOs using reliable,
+Verification
+of customer
+independent source documents, data or information (identification data).
+identity
+(2)  FIs shall verify the identity of individuals by confirming the —
+(a)  date of birth from a valid official document, such as birth certificate,
+passport, identity card and national or social security records ;B 492
+(b)  residential address through physical visitation and use of other
+sources, including utility bill, tax assessment, bank statement, or  letter from
+a public authority ;
+(c)  contact details provided by the customer through positive feedback
+from phone call, email or physical letter to the residential address ;
+(d) validity of the official documentation provided through certification
+by an authorized person such as embassy official, notary public (in the case
+of foreign nationals) ; and
+(e)  phone numbers, particularly for wallet providers, through independent
+process, including validation against the NCC database or geo-mapping.
+(3)  FIs shall verify the identity of a legal person or legal arrangement by —
+(a)  undertaking search on public registry or database such as CAC or
+similar database, other commercial enquiries and through any other available
+sources of information to confirm —
+(i)  the existence of the legal person or legal arrangement,
+(ii)  whether the legal person or legal arrangement has not been, or is
+not in the process of being dissolved, struck off, wound up or terminated,
+(iii)  the information on the directors and shareholders or persons or
+entities holding similar positions, including their PEP status,
+(iv)  information on person with significant control, and
+(v)  information on BO, and its PEP status ;
+(b)  reviewing a copy of the latest annual report, audited accounts or
+relevant financial statement, where applicable ;
+(c)  reviewing a copy of the board resolution or applicable resolution ;
+(d)  utilizing the documentation from a reliable independent source proving
+the name, form and current existence of the customer ;
+(e)  utilizing an independent information verification process, such as
+accessing public and private databases ;
+(f )  obtaining prior bank references, where applicable ;
+(g)  visiting the entity ; and
+(h)  confirming the contact details provided through phone call, email
+and physical letter to the business address.
+Identification 8. When conducting CDD measures in relation to customers that are
+and
+legal persons or legal arrangements, FIs shall —
+verification
+of (a)  understand the ownership and control structure ;
+signatories,
+(b) at the time of establishing new relationships or whenever there is a
+directors, and
+change in ownership, identify and verify the identity of the BOs who exercise
+beneficial
+owners of
+control through ownership or controlling interest, including voting rights ;
+legal persons
+(c)  subject all account signatories, Directors and BOs to  the
+and legal
+arrangements requirements for identification and verification of individuals provided
+in regulations 6 and 7 of these Regulations ;B 493
+(d)  conduct status enquiry from CRMS and at least two Credit Bureaux
+to determine their credit status ;
+(e)  ascertain that the customer is not banned from the use of clearing
+system due to issuance of dud cheque ; and
+(f )  maintain a BO register that indicates the names, identification details
+and nature of beneficial ownership, including shareholding, voting rights,
+controlling interests, source of wealth, and PEP status.
+9.—(1)  FIs shall verify — Authority of
+third party
+(a)   that any person purporting to act on behalf of a customer is so
+authorized ; and
+(b)  the identity of the person purporting to act on behalf of a customer.
+(2)  The verification referred to in subregulation (1)  of this regulation
+shall be done through confirmation from the customer the third party is
+purporting to represent and from other independent sources.
+10.—(1)  FIs shall understand and obtain sufficient information on the
+Nature and
+purpose of
+nature and purpose of the business that its customer intends to undertake,
+business
+including expected or predictable patterns of transactions.
+(2)  FIs shall be at alert to circumstances that may indicate any significant
+changes in the nature of a business or its ownership.
+11.—(1)  FIs shall understand and obtain sufficient information on the Understanding
+sources  of
+source of funds into the customer’s account.
+funds
+(2)  The information to be obtained before the commencement of the
+relationship shall include—
+(a)   details of occupation, employment or business activities and sources
+of wealth and income ; and
+(b) expected origin of the funds to be used in the operation of the account
+during the relationship.
+12.—(1)  FIs shall conduct ongoing due diligence on a business relationship
+Ongoing Due
+Diligence
+and scrutinize transactions undertaken throughout the course of the relationship
+to ensure that the transactions being conducted are consistent with the —
+(a)   FI’s knowledge of the customer ;
+(b)  customer’s business and risk profile ; and
+(c)  source of funds.
+(2)  FIs shall take reasonable steps to keep the information up-to-date,
+and as the need arises, including where an existing customer opens a new
+account.B 494
+Application 13.—(1)  FIs shall apply CDD requirements to existing customers on
+of CDD to
+the basis of materiality and risk and continue to conduct due diligence on
+existing
+such existing relationship at appropriate times.
+customers
+(2)  The appropriate time to conduct CDD for existing customers include,
+but not limited to when —
+(a)  transaction of significant value or an unusual transaction occurs ;
+(b)  there is significant change in the customer’s profile ;
+(c)  there is a material change in the way that the account is operated ; or
+(d)  the FIs become aware that it lacks sufficient information about an
+existing customer.
+Electronic 14.  FIs shall adhere to e-KYC requirements as stipulated in the CBN
+KYC
+Guidelines on e-KYC and the CDD measures stipulated in these Regulations
+(where applicable) as it relates to digital products, and customer onboarding.
+15.—(1)  FIs shall conduct initial risk assessment for each prospective
+Risk-based
+approach to
+customer to ascertain the customer’s risk profile.
+CDD
+(2) The application of CDD measures may be standard, simplified or
+enhanced depending on the risks posed by each customer, transaction, products
+or service resulting from a customer risk assessment.
+(3)  For low risks customers —
+(a)  FIs may adopt simplified CDD measures only where lower risks
+have been identified through an adequate assessment and analysis of the
+risks, and the simplified CDD measures shall be forwarded to the CBN for
+approval before implementation by the FI ;
+(b)  notwithstanding the application of simplified CDD on customer
+identification and verification, the customer is not exempt from ongoing monitoring
+for other CDD measures ;
+(c)  the simplified measures shall be commensurate with the lower risk
+factors but are not acceptable whenever there is suspicion of ML, TF or
+PF, or where specific higher risk scenarios apply.
+(4)  For high risks customers —
+(a)  arising from an initial assessment of a customer, particular attention
+shall be focused on those customers identified as having a higher risk profile ;
+(b)   customers with higher risk profile include, but not limited to, non-
+resident customers, MVTS providers, private banking customers, non-face-
+to-face customers, and PEPs ;
+(c)  FIs shall apply enhanced CDD measures to business relationships
+and transactions with natural and legal persons, and FIs, from countries for
+which this is called for by the FATF ; and
+(d)  FIs shall conduct enhanced CDD.B 495
+16. —(1)  FIs shall comply with Tiered KYC measures as stipulated in Tiered
+Know-Your-
+the CBN circulars on TKYC and the CBN AML, CFT and CPF Regulations.
+Customer
+(2)  Tiered KYC shall apply to individuals only and shall not apply to
+legal persons and legal arrangements.
+17.—(1)  FIs shall perform enhanced CDD for customers, business Enhanced
+CDD
+relationship or transactions with higher ML, TF, and PF risks.
+(2)  The enhanced CDD shall include, but not limited to —
+(a)  obtaining additional information on the customer including occupation,
+volume of assets, information available through public databases, internet,
+and updating more regularly the identification data of the customer and BO ;
+(b)  obtaining additional information on the intended nature of the business
+relationship ;
+(c)  obtaining information on the source of funds and source of wealth of
+the customer ;
+(d)  obtaining information on the reasons for intended or performed
+transactions;
+(e)  obtaining the approval of senior management to commence or
+continue the business relationship ;
+(f )  conducting enhanced monitoring of the business relationship, by
+increasing the number and timing of controls applied, and selecting patterns
+of transactions that need further examination ; and
+(g)  requiring the first payment to be carried out through an account in
+the customer’s name with a bank subject to similar CDD standards.
+Reliance on
+18.—(1)  FIs may rely on the identification and verification steps that it
+identification
+had previously undertaken, unless it has doubts about the veracity of that
+and
+information or where there is a material change in the circumstances or profile
+verification
+of the customer.
+already
+performed
+(2)  The situations that may lead a FI to have doubts about the veracity
+of an information include where there is a —
+(a)  suspicion of ML, TF or PF in relation to that customer ; or
+(b)  material change in the way that the customer’s account is operated,
+which is not consistent with the customer’s business profile.
+19.—(1)  A  FI that is unable to comply with the CDD measures pursuant Inability to
+undertake
+to these Regulations shall—
+CDD
+(a)  not be permitted to open the account, commence business relations
+or perform the transaction with the concerned persons ; and
+(b)  be required to render a Suspicious Transaction Report (STR) to the
+Nigerian Financial Intelligence Unit (NFIU).B 496
+(2)  An FI that has commenced the business relationship prior to the
+conduct of CDD shall terminate the business relationship and render STR to
+the NFIU.
+(3)  Where an FI suspects that transactions relate to money laundering,
+terrorism financing or proliferation financing, during the establishment or course
+of the customer relationship, or when conducting occasional transactions, it
+shall immediately, and without delay —
+(a) obtain and verify the identity of the customer and the BO, whether
+permanent or occasional, irrespective of any exemption or any designated
+threshold that might otherwise apply ; and
+(b) render an STR to the NFIU immediately.
+(4)  FIs and their employees shall maintain confidentiality in respect of
+any STR that may be filed with the NFIU and shall not do anything that may
+“tip off” any person or entity that is under suspicion of ML, TF or PF.
+20.—(1)  In addition to the provisions of regulation 27 of the CBN  AML,
+Reliance on
+third party
+CFT and CPF Regulations where a FI relies on other FIs and DNFBPs to
+conduct its CDD, it shall —
+(a) immediately obtain the necessary information concerning the
+identification and verification of the customer and BO and the purpose and
+intended nature of the business relationship ;
+(b) take adequate steps to satisfy itself that copies of identification data
+and other relevant documentation relating to the CDD requirements is going
+to be made available from the third party upon request without delay ;
+(c) satisfy itself that the third party is regulated, supervised or monitored
+for, and has measures in place for compliance with, the CDD and record
+keeping requirements set out in these Regulations and the CBN AML, CFT
+and CPF Regulations ; and
+(d)  ensure that adequate KYC provisions are applied to the third party
+in order to obtain account information for competent authorities.
+(2)  Notwithstanding the conditions specified in sub-regulation (1) (a) to
+(d) of this regulation, the ultimate responsibility for customer identification
+and verification shall be with the FI relying on the third party.
+21.—(1)  FIs shall obtain and verify the identity of the customer, beneficial-
+Timing of
+verification.
+owner and occasional customers before or during the course of establishing a
+business relationship or conducting transactions for them.
+(2)  FIs are permitted to complete the verification of the identity of the
+customer and BO following the establishment of the business based on criteria
+set out in regulation 22 of the CBN AML, CFT and CPF Regulations.             .B 497
+22.—(1)  Where a FI suspects that a transaction relates to ML, TF or Tipping off
+PF and it believes that performing the CDD process may tip-off the customer,
+it shall—
+(a)  not pursue the CDD process ; and
+(b)  file an STR to the NFIU, immediately.
+(2)  FIs shall ensure that their employees are aware of, and sensitive
+to, the issues referred to in subregulation (1) of this regulation when
+conducting CDD.
+23.  In addition to the provisions of regulation 35 of the CBN  AML, Record
+keeping
+CFT and CPF Regulations, FIs shall —
+(a)  keep all records obtained through CDD measures, account files and
+business correspondence, and results of any analysis undertaken,  either in
+electronic or written form for at least five years following the termination
+or cessation of the business relationship or after the date of the occasional
+transaction ; and
+(b)  ensure that documents, data or information collected under the CDD
+process is kept up-to-date and relevant, by undertaking reviews of existing
+records of customers as stipulated below or whenever the need arises,
+(i)  for high risk customers, every 12months,
+(ii)  for medium risk customers, every 18months, and
+(iii)  for low risk customers, every 3years.
+PART III — ADDITIONAL MEASURES
+24. In addition to identification documentations listed in regulation 6 of Additional
+measures for
+these Regulations, additional measures on some specific customers and
+specific
+businesses as provided under this Part shall apply.
+customers
+and
+businesses
+25.—(1)  In line with Memorandum 17 of the CBN Foreign Exchange External and
+non-resident
+Manual, FI shall satisfy itself that a customer is permanently resident outside
+non-Nigerian
+Nigeria when establishing a banking relationship for external and non-resident
+accounts
+non-Nigerian customers.
+(2)  the following are eligible to open external accounts —
+(a)  Embassies ;
+(b)  High Commissions ;
+(c)  Legations or consulates ;
+(d)  career and established members of Embassies, High Commissions,
+and Legation or Consulates ; and
+(e)  other international organisations recognized and accorded
+diplomatic status and their expatriate officials, such as African Union,
+United Nations or Commonwealth of Nations.B 498
+(3)  FIs shall obtain the following documentation for external
+accounts —
+(a)  applicant’s letter of request, showing official position or status and
+the probable duration of stay in Nigeria ;
+(b)  letter of introduction from the relevant Diplomatic Mission or International
+Organisation certifying the accredited status of the applicant ; and
+(c)  relevant pages of the applicant’s international passport.
+(4)  the following are eligible to open non-resident accounts —
+(a)  overseas correspondence and examination bodies;
+(b)  foreign companies executing approved contracts in Nigeria; and
+(c)  foreign professional bodies.
+(5)  FIs shall obtain the following documentation for non-resident
+accounts —
+(a)  for overseas correspondence and examination bodies, letters of
+request from applicant, memorandum and articles of the overseas company,
+letter of accreditation from the Federal Ministry of Education, and Power
+of Attorney to the Agent in Nigeria ;
+(b)  for foreign companies executing approved contracts in Nigeria,
+contract document, letter of request from applicant, and Memorandum and
+Articles of Association of the company ; and
+(c)  for foreign professional bodies, letters of request from applicant,
+memorandum and articles of the overseas company, letter of accreditation
+from the Federal Ministry of Education, Power of Attorney to the Agent in
+Nigeria and letter of certification from a relevant body in Nigeria.
+(6)  FIs shall —
+(a)  obtain and verify identification directly from the customer’s embassy
+or through a reputable FI in the applicant’s home country or country of
+residence, provided that particular care shall be taken when relying on
+identification evidence obtained from other countries ;
+(b)  obtain and verify separate evidence of an applicant’s permanent
+residential address which shall be notarized ; and
+(c)  obtain additional comfort by confirming the customer’s identity and
+address from a reputable credit institution in the customer’s home country,
+where necessary.
+(7)  All accounts of Non-resident stipulated in subregulations (2) and (4)
+of this regulation, shall, on completion of the contract or the applicant’s business
+in Nigeria, be closed and the balance on the account, if any, transferred to the
+customer’s account in country of residence, after proper documentation.
+(8)  In cases that are not classified under subregulations  (2) and (4) of
+this regulation, FIs shall refer to the CBN for clarification.B 499
+(9)  Where approvals are granted for individuals (including directors of
+legal persons) that are non-Nigerian and non-resident, the requirements of
+regulations 6 and 7 of these Regulations shall apply and the appropriate category
+of BVN as relates to non-resident individuals shall apply.
+26.—(1)  FIs shall obtain and verify applicant’s name, date of birth and Non-
+resident
+permanent residential address (in host country) directly through a reputable
+Nigerians
+Credit Institution or FI in the applicant’s country of residence or a correspondent
+bank, provided that particular care shall be taken when relying on identification
+evidence obtained from other countries.
+(2)  FIs shall validate the source of funds by obtaining identification
+issued by employer, payslips or statements of accounts from a bank in the
+country of residence.
+27.—(1)  FIs shall, as part of CDD measures, obtain and verify the valid Resident
+non-
+Resident Permit of resident non-Nigerians.
+Nigerians
+(2)  Where a foreign national has recently arrived in Nigeria, the residential
+address in the applicant’s home country shall be notarized.
+28.—(1)  Transactions conducted through correspondent relationships
+Correspondent
+banking
+shall be managed in accordance with a risk-based approach.
+relationship
+(2)  Due diligence procedures shall be established to ascertain whether
+or not the correspondent bank or the counter-party is itself regulated for
+prevention of  ML, TF or PF, and where regulated, the correspondent respondent
+shall verify the identity of its customers in accordance with FATF standards.
+(3)  Where the correspondent bank or the counter-party is itself
+unregulated, additional due diligence shall be required to ascertain and assess
+the correspondent or respondent’s internal policy for prevention of ML, TF or
+PF and KYC procedures.
+(4)  The volume and nature of transactions flowing through correspondent
+accounts with FIs, from high risk jurisdictions or those with inadequacies or
+material deficiencies shall be monitored against expected levels and destinations
+and any material variances shall be reported as STR to the NFIU.
+(5) FIs shall maintain records and ensure that sufficient due diligence
+has been undertaken by the remitting bank on the underlying client and the
+origin of the funds in respect of the funds passed through their accounts.
+(6)  FIs shall guard against establishing correspondent relationships with
+high risk foreign banks such as shell banks or with correspondent banks that
+permit their accounts to be used by such banks.
+(7)  Staff dealing with correspondent banking accounts shall be trained to
+recognize higher risk circumstances and be prepared to challenge the
+correspondents over irregular activity whether isolated transactions or trend and
+to submit a suspicious transaction report to the NFIU.B 500
+(8) FIs shall terminate an account with a correspondent bank that fails to
+provide satisfactory answers to questions including confirming the identity of
+customers involved in unusual or suspicious circumstances.
+29.  Where the arrangement for a Foreign Trust or Foundation is opaque
+Trusts
+or information on the parties to the legal arrangements cannot be provided
+because it is incorporated in a jurisdiction (such as tax havens and off-shore
+financial centres) that makes it impractical to do so, the FI shall decline to
+open an account for the legal arrangement.
+Blind trust 30.—(1)  FIs shall obtain and understand the Trust Agreement in a Blind
+Trust such that the grantor, settlor or trustor and beneficiary are identified.
+(2)  Where the grantor or beneficiary is a PEP, the FI shall apply EDD
+measures.
+(3)  FIs shall understand the structure of a Blind Trust and determine
+whether it is revocable or irrevocable.
+(4)  Where the customer is a Revocable Blind Trust, the FI shall apply
+EDD measures to the customer.
+(5)  FIs shall apply EDD where the BOs of a customer is a Blind Trust
+and identify the ultimate BO.
+Nominee
+31.—(1)  FIs shall require customers that are legal persons to disclose
+directors and
+nominee shareholders and nominee directors, if any.
+nominee
+shareholders (2)  FIs shall obtain and verify the identification of nominee directors and
+shareholders in a legal person or legal arrangement.
+(3)  FIs shall obtain information on the status of nominees and their
+nominator to company.
+32.—(1)  FIs shall use identification issued by the Nigerian Immigration
+Refugees or
+asylum
+Services or other recognizable government agency to render banking service
+seekers
+to refugees or asylum seekers.
+(2)  FIs shall undertake additional monitoring procedures in respect of
+sub-regulation (1) of this regulation to ensure that the use of the account is
+consistent with the customer’s circumstances.
+Foreign 33.—(1)  FIs shall, as part of CDD measures —
+students
+(a)  obtain and verify the valid Study Permit of prospective customers
+that are non-Nigerian students ;
+(b)  obtain and verify identification directly from the customer’s embassy or
+through a reputable FI in the applicant’s home country or country of residence,
+provided that particular care shall be taken when relying on identification evidence
+obtained from other countries ; andB 501
+(c)  obtain and verify separate evidence of an applicant’s permanent
+residential address in home country, which shall be notarized.
+(2)  All accounts of foreign students shall, on completion of the applicant’s
+studies in Nigeria, be closed.
+34.  (1)  For banking relationships for a minor, FIs shall obtain the birth Minors
+certificate and passport photo of the minor.
+(2) FIs shall obtain and verify the identification and home address of the
+parent or guardian of a minor.
+(3)  For accounts opened through a school-related scheme, the school
+shall provide the date of birth and permanent address of the minor and
+complete the standard account opening documentation on behalf of the
+minor.
+(4)  FIs shall continuously monitor account of a minor to ensure that —
+(a) it is not used for the purposes of ML or TF ;
+(b)  the transactions on the account are in line with the purpose for
+which the account was opened ; and
+(c)  transactions on the account does not exceed a limit pre-determined
+by the FI in line with its established risk assessment criteria.
+35.  FIs shall —
+Non-face-to-
+face
+(a)  in respect of a non-face-to-face customer, undertake additional
+customers
+measures or checks to supplement the documentary or electronic evidence
+identification
+to ensure that an applicant is who he/she claims to be ;
+(b)  apply the additional measures in paragraph (a) of this regulation,
+whether the applicant is resident in Nigeria or elsewhere, where the applicant
+is requesting a bank account or other product or service that offers money
+transmission or third party payments ;
+(c)  ensure that there is sufficient evidence either documentary or
+electronic in its procedures for identification and authentication of its
+customers, to confirm their address and personal identity and to undertake
+at least one additional check to guard against impersonation or fraud ;
+(d)  ensure that the extent of the identification evidence required in this
+regulation shall depend on the nature and characteristics of the product or
+service and the assessed risk, provided that care shall be taken to ensure
+that the same level of information is obtained for internet, postal or telephone
+customers ;
+(e)  undertake checks to ensure that, where reliance is placed on
+intermediaries to undertake the processing of applications on the customer’s
+behalf, the intermediaries are regulated for the prevention of ML, TF or PF
+and that the relevant identification procedures are applied ;
+(f )  conduct regular monitoring of internet-based business or customers
+and where a significant proportion of the business is operated electronically,B 502
+computerized monitoring systems or solutions that are designed to recognize
+unusual transactions and related patterns of transactions shall be put in
+place to recognize suspicious transactions ; and
+(g)  ensure that in all cases, evidence as to how identity has been verified
+shall be obtained and retained with the account opening records.
+36.—(1)  An introductory letter shall be issued by the introducing financial
+Introductions
+from
+intermediary or person in respect of each applicant for business.
+authorized
+(2)  Where an intermediary introduces a customer and then withdraws
+financial
+intermediaries
+from the ensuing relationship,  the underlying customer shall become the
+applicant for the business and shall be identified in line with the requirements
+for personal, corporate or business customers as appropriate.
+(3)  To ensure that product-providers meet their obligations, satisfactory
+identification evidence shall be obtained and retained for the necessary statutory
+period.
+(4)  Each introductory letter shall either be accompanied by certified
+copies of the identification evidence obtained in line with the usual practice
+of certification of identification documents or by sufficient details and
+reference numbers that  permits the actual evidence obtained to be re-
+obtained at a later stage.
+37.  Where business is introduced or received from a financial
+Foreign
+intermediaries
+intermediary regulated for AML and CFT, who is outside Nigeria, the reliance
+that shall be placed on that intermediary to undertake the verification of identity-
+check shall be assessed by the Compliance Officer or some other competent
+persons within the FI, on a case-by-case basis based on the knowledge of the
+intermediary.
+Corporate 38.—(1)  Where a customer is introduced by one part of a financial
+group
+sector group to another, the customer’s identity shall be re-verified, and the
+introduction
+records shall not be duplicated except—
+(a)  the identity of the customer has not been verified by the introducing
+parent company, branch, subsidiary or associate in line with the money
+laundering requirements of equivalent standards and taking account of any
+specific requirements such as separate address verification ;
+(b)  no exemptions or concessions have been applied in the original
+verification procedures that may not be available to the new relationship ;
+(c)  a group introduction letter is obtained and placed with the customer’s
+account opening records ; and
+(d)  in respect of group introducers from outside Nigeria, in which case
+arrangements shall be put in place to ensure that identity is verified in
+accordance with requirements and that the underlying records of identity in
+respect of the introduced customers are retained for the required period.B 503
+(2)  Where an FI has day-to-day access to all the group’s KYC
+information and records, there is no need to identify an introduced customer
+or obtain a group introduction letter where the identity of that customer
+has been previously verified.
+(3)  Where the identity of a customer has not been previously verified,
+then any missing identification evidence shall be obtained and a risk-based
+approach taken on the extent of KYC information that is available on whether
+or not additional information shall be obtained.
+(4)  Before relying on group introduction, FIs shall ensure that there are
+no secrecy or data protection legislation in host or home countries of any of
+the financial groups that will restrict free access to the records.
+(5)  Where the  restrictions referred to in sub-regulation (4) of this
+regulation applies, copies of the underlying records of identity shall, wherever
+possible, be sought and retained.
+(6)  Where identification records are held outside Nigeria, it shall be the
+responsibility of the FI to ensure that the records available meet the
+requirements of these Regulations and the CBN AML, CFT and CPF
+Regulations.
+39.—(1)  Where a FI acquires a business and accounts of another FI, it Acquisition
+of a financial
+may not be necessary for the identity of the existing customers to be re-
+institution
+identified, provided that all the underlying customers’ records are acquired
+and business
+with the business, but it shall carry out due diligence enquiries to confirm that
+the acquired institution had conformed with the requirements of the provisions
+of these Regulations and CBN AML, CFT and CPF Regulations.
+(2)  Verification of identity shall be undertaken for all the transferred
+customers who were not verified by the transferor in line with the requirements
+for existing customers that open new accounts, where the—
+(a)  money laundering procedures previously undertaken have not been
+in accordance with the requirements of these Regulations and CBN AML,
+CFT and CPF Regulations ; or
+(b)  customer records are not available to the acquiring financial
+institution.
+40.—(1)  Where a customer wishes to open a Domiciliary Account or
+Domiciliary
+account
+make a wholesale deposit by cash or inter-bank transfer, a FI shall obtain
+identification evidence in accordance with the requirements for individuals,
+companies or professional intermediaries operating on behalf of third parties
+as appropriate.
+(2)  Where the funds to a domiciliary account are by inter-bank transfer,
+FI shall satisfy itself that the transferring institution is regulated for ML, TF or
+PF prevention in its country of origin.B 504
+41.— (1)  FIs shall take precautions in relation to requests to hold boxes,
+Safe custody
+and safety
+parcels and envelopes in a safe custody.
+deposit
+(2)  Where such facilities are made available, the identification procedures
+boxes
+set out in these Regulations shall be followed, depending on the type of
+individual involved or risks associated with the business relationship.
+(3)  FIs shall not allow items with unidentified contents to be deposited in
+safe deposit box and the contents shall be declared and documented at the
+point of entering the contract.
+(4)  FIs shall maintain registers for on-going monitoring of the activities
+of persons who use safe custody or safe deposit box services.
+(5)  FIs shall also conduct due diligence on owners of safe deposit boxes.
+Retirement
+42.  Where an occupational pension programme, employee benefit trust
+benefit
+or share option plan is an applicant for an account, the trustee and any other
+programme
+person who has control over the relationship such as the administrator,
+programme manager, and account signatories shall be considered as principals
+and the financial institution shall take steps to verify their identities.
+Non-Profit 43.—(1)  In case of account to be opened for NPOs such as charities,
+Organizations
+clubs and societies, FIs shall take reasonable steps to identify and verify the
+(NPOs)
+identity of the institution, members of the governing body or committee, president,
+board members, treasurer, and all signatories.
+(2)  In all cases, independent verification shall be obtained that the persons
+involved are true representatives of the institution and independent confirmation
+shall also be obtained of the purpose of the institution.
+Professional 44.—(1)  Where a professional intermediary opens a client account on
+intermediary
+behalf of a single client, that client shall be identified.
+(2)  Where professional intermediaries open “pooled” accounts on behalf
+of a number of entities, BOs of the account held by the intermediary shall be
+identified
+(3)  Where funds held by the intermediary are not co-mingled but there
+are “sub-accounts” which shall be attributable to each BO, all BOs of the
+account held by the intermediary shall be identified.
+(4)  Where the funds are co-mingled, the Fl shall look through to the
+beneficial owners and take steps to identify —
+(a)  the fund itself ;
+(b)  its directors or any controlling board, where it is a company ;
+(c)  its trustee, where it is a unit trust ;
+(d)  its managing (general) partner, where it is a limited partnership ;
+(e)  account signatories ; and
+(f )  any other person who has control over the relationship such as fund
+administrator or manager.B 505
+(5)  Where other investment vehicles are involved —
+(a)  the same steps specified in regulation 28 of these Regulations shall
+be taken, where it is appropriate to do so ; and
+(b)  all reasonable steps shall be taken to verify the identity of the BOs
+of the funds and of those who have control over the funds.
+(6)  Intermediaries shall be treated as individual customers of the FI and
+the standing of the intermediary shall be separately verified by obtaining the
+appropriate information itemized in regulation 28 of these Regulations.
+45.  In addition to requirements stipulated in respective guidelines for Agency
+relationship
+different FIs’ operation in respect to agency relationships and CDD measures
+in these Regulations, FIs shall —
+(a)  establish efficient and thorough Agent Due Diligence procedures to
+mitigate risks ;
+(b)  define initial agent engagement, conduct regular monitoring and
+supervisory checks, trigger points and corrective measures ; and
+(c)  publish an updated list of all their agents on their websites and annual
+reports.
+PART IV — MISCELLANEOUS PROVISIONS
+46.  The administrative sanctions and penalties for  non-compliance
+Sanctions
+for non-
+with these Regulations shall be as specified in the  Banks and Other Financial
+compliance
+Institutions Act (BOFIA), 2020 and Schedule to these Regulations.
+47.  The Governor of the Central Bank of Nigeria may, as considered
+Amendments
+or revocation
+appropriate, amend or revoke the provisions of these Regulations which
+of these
+amendment or revocation shall be published in the Gazette.
+regulations
+48.  In these Regulations —
+“Account” means to bank accounts, wallets and similar services offered
+Interpretation
+by FIs ;
+“Agent” means an entity that is engaged by a financial institution to
+provide specific financial services on its behalf ;
+“Bank Verification Number (BVN)” means the biometric identification
+system which gives a unique identity across the banking industry to each
+customer of Nigerian banks;
+“Beneficial owner” includes a natural person who ultimately owns or
+controls a customer or a person on whose behalf a transaction is being
+conducted and the persons who exercise ultimate control over a legal person
+or arrangement ;
+“Blind Trust” means a trust   set up by the grantor to transfer complete
+control of their assets and investments to an independent third-party termed
+the trustee ;B 506
+“Business Relationship” means any arrangement between a Financial
+Institution and an applicant for business, the purpose of which is to facilitate
+the carrying out of transactions between the parties on a “frequent, habitual
+or regular” basis and where the monetary value of dealings in the course of
+the arrangement is not known or capable of being ascertained at the outset ;
+“CAC” means Corporate Affairs Commission ;
+“Domestic transfer” means any wire transfer where the originator and
+beneficiary institutions are both located in Nigeria, and this term therefore,
+refers to any chain of wire transfers that takes place entirely within Nigeria’s
+borders, even though the system used to effect the wire transfer may be
+located in another jurisdiction ;
+“FATF” means Financial Action Task Force ;
+“FATF Recommendations” means AML, CFT and CPF
+Recommendations issued by the Financial Action Task Force ;
+“Financial Institutions” means banks and other financial institutions as
+defined in BOFIA ;
+“Financing of terrorism” includes all acts so defined under the TPPA
+and TPP Regulations ;
+“Funds” include assets of every kind, tangible or intangible, movable or
+immovable however acquired, legal documents or instruments in any form,
+electronic or digital evidencing title or interest in such assets, bank credits,
+travellers cheques, bank cheques, money orders, shares, securities, bonds,
+drafts and letters of credit ;
+“Legal arrangement” means express trusts or other similar legal
+arrangements ;
+“Legal persons” means bodies corporate, foundations, partnerships, or
+associations, or any similar bodies or entities that can establish a permanent
+customer relationship with a Financial Institution or otherwise own property ;
+“Money Laundering” means the—
+(i)  conversion or transfer of property (i.e. money, goods, commodities,
+etc.) knowing that such property is derived from a criminal offence, for
+the purpose of concealing or disguising the illicit origin of the property or
+of assisting any person who is involved in the commission of such
+offences,
+(ii) concealment or disguising of the true nature, source, location,
+disposition, movement, rights with respect to, or ownership of property
+knowing that such property is derived from a criminal offence, or
+(iii)  acquisition, possession or use of property, knowing at the time of
+receipt that such property was derived from a criminal or from an act of
+participation in such offence ;
+“National Identification Number (NIN)” means a unique number issued
+by the National Identity Management Commission (NIMC) ;B 507
+“Nominee” means an individual or legal person instructed by another
+individual or legal person (“the nominator”) to act on their behalf in a certain
+capacity regarding a legal person ;
+“Nominee Director” (also known as a “resident director” or “corporate
+director” (if the director is a legal person) means an individual or legal entity
+that exercises the functions of the director in the company on behalf of and
+subject to the instructions of the nominator ;
+“Nominee Shareholder” means an individual or legal person who
+exercises the associated voting rights according to the instructions of the
+nominator and receives dividends on behalf of the nominator ;
+“Non-profit or non-governmental Organization” means a legal entity
+or organization that primarily engages in raising or disbursing funds for
+purposes such as charitable, religious, cultural, educational, social or fraternal
+purposes, or for the carrying out of other types of good works ;
+“One-off transaction” means any transaction carried out other than in
+the course of an established business relationship which is important to
+determine whether an applicant for business is undertaking a one-off
+transaction or whether the transaction is or will be a part of a business
+relationship as this can affect the identification requirements ;
+“Originator” means an account holder or where there is no account, the
+natural or legal person that places the order with the Financial Institution to
+perform a wire transfer ;
+“Proliferation Financing (PF)” means the act of providing funds or
+financial services which are used, in whole or in part, for the manufacture,
+acquisition, possession, development, export, trans-shipment, brokering,
+transport, transfer, stockpiling, or use of nuclear, chemical, or biological
+weapons and their means of delivery and related materials (including both
+technologies and dual-use goods for non-legitimate purposes), in
+contravention of national laws or, where applicable, international obligations;
+“Public Legal entity” includes arms and tiers of Government, Ministries
+Departments and Agencies (MDAs) and any statutory Office or sole
+corporate designated by law to carry out a function of or on behalf of
+Government or any of its agencies ;
+“Risk” means the risk of money laundering or terrorist financing ;
+“Settlors” includes persons or companies who transfer ownership of
+their assets to trustees by means of a trust deed and where the trustees
+have some discretion as to the investment and distribution of the trust’s
+assets, the deed may be accompanied by a non-legally binding letter setting
+out what the settlor wishes to be done with the assets ;
+“Shell bank” means a bank that has no physical presence in the country
+in which it is incorporated and licensed, and which is unaffiliated with a
+regulated financial service group that is subject to effective consolidated
+supervision ;B 508
+“Taxpayer Identification Number (TIN)” means a unique number
+allocated and issued to identify a person (individual or non-individual) as a
+duly registered taxpayer in Nigeria ;
+“Terrorist” means any natural person who—
+(a)  directly or indirectly, unlawfully and willfully —
+(i)  commits, or attempts to commit, an act of terrorism by any means,
+(ii)  participates as an accomplice in an act of terrorism,
+(iii)  organises or directs others to commit an act of terrorism ; or
+(b) contributes to the commission of an act of terrorism where the
+contribution is made intentionally and with the aim of furthering the act of
+terrorism or with the knowledge of the intention to commit an act of
+terrorism ;
+“Terrorist or Terrorism Financier” means a person or entity, who
+makes funds, assets, or other material support available to terrorists and
+terrorist organisations, for the financing of terrorist activities or terrorism;
+“Trustees” include paid professionals or companies or unpaid persons who
+hold the assets in a trust fund separate from their own assets, they invest and
+dispose of them in accordance with the settlor’s trust deed, taking account of
+any letter of wishes, and there may also be a protector who may have power
+to veto the trustees’ proposals or remove them, or a custodian trustee, who
+holds the assets to the order of the managing trustees ;
+“Unique identifier” means any unique combination of letters, numbers
+or symbols that refers to a specific originator ; and
+“Wire transfer” means any transaction carried out on behalf of an
+originator both natural and legal person, through a Financial Institution by
+electronic means, with a view to making an amount of money available to a
+beneficiary person at another financial institution ; where the originator and
+the beneficiary may be the same person.
+Citation 49.  These Regulations may be cited as Central Bank of Nigeria
+(Customer Due Diligence) Regulations, 2023.B 509
+SCHEDULE
+S/N Required Infraction Deposit Money Other Financial
+Action Banks (DMBS)/ Institutions
+ PSBs (OFIS)
+1. CDD 1. Failure to est- A minimum penalty for For OFIs:
+measures — ablish internal DMBs : A minimum penalty on
+Regulation 5 process and (a) A minimum of the OFI as follows :
+procedures for N750,000 on the ECO. (a) N1 million - BDCs
+conducting CDD (b) A minimum penalty of (b) N500,000 -  MFBs
+measures for all N500,000 on the CCO. (c) N1million - FCs
+customers. (c)  N500,000 on other (d) N1million - PMBs
+culpable employees (e) N5million - DFIs.
+A minimum penalty of
+For PSP :
+N20million on the DMB.
+A minimum penalty on
+the PSP as follows :
+A minimum penalty for
+(a) N500,000 - MMO
+PSBs :
+(b) N500,000 -  SP
+(a) A minimum penalty of
+(c) N500,000 - PSSP
+N250,000 on the CCO.
+(d) N500,000  - SA
+(b) N200,000 on other
+(e) N300,000 - PTSP
+culpable employees.
+A minimum penalty of
+N10million on the PSB
+thereafter (where the
+contravention continues).
+2. CDD 2. Failure to A minimum penalty for For OFIs:
+measures – undertake CDD DMBs : A minimum penalty on
+Regulation 5 measures on (a ) A minimum of the CCO as follows :
+customers. N750,000 on the ECO. (a ) N100,000 –BDCs
+(b) A minimum penalty of (b) N100,000 – MFBs
+N500,000 on the CCO. (c) N200,000 - FCs
+(c) N500,000 on other (d) N500,000 - PMBs
+culpable employees. (e) N500,000 - DFIs.
+A minimum penalty of
+A minimum penalty of
+N200,000 per customer
+N50,000 per customer
+without CDD.
+without CDD.
+A minimum penalty for
+For PSP :
+PSBs :
+A minimum penalty any
+(a) A minimum penalty of
+or all culpable officers
+N250,000 on the CCO.
+such as the MD and
+(b ) N200,000 on other
+CEO as follows :
+culpable employees
+(a) N500,000 –MMO
+A minimum penalty of
+(b) N100,000 – SP
+N100,000 per customer.
+(c) N500,000 –PSSP
+(d) N500,000 –SAB 510
+A minimum penalty on
+the PSP as follows :
+(a) N300,000 per wallet
+holder –MMO
+(b) N300,000 per
+customer –PSSP
+(c) N300,000 per Agent
+and Customer –
+Super Agent (SA)
+For IMTOs:
+A minimum penalty of
+N200,000 per
+transaction
+conducted without
+CDD.
+For OFIs :
+3. Identification Failure to identify For DMBs :
+A minimum penalty on
+and and verify the (a) A minimum penalty
+the CCO as follows :
+verification of identity of the of  N1,250,000 on the
+(a) N100,000 – BDCs
+signatories beneficial owners, ECO
+(b) N100,000 – MFBs
+and Directors Directors, (b) A minimum penalty of
+(c) N200,000 - FCs
+in legal signatories and N1million on the CCO.
+(d) N500,000 - PMBs
+persons and those with (c) N500,000 on other
+(e) N 500,000 - DFIs).
+legal controlling interest culpable employees.
+arrangements- in legal persons or
+A minimum penalty (per
+A minimum penalty of
+Regulation 8 legal arrangements,
+customer of the OFI not
+N500,000 per customer of
+identified or verified) as
+DMB not identified or
+follows :
+verified.
+(a) N50,000 – BDC
+For PSBs :
+(b) N50,000 – Tier 1 Unit
+(a) A minimum penalty of
+MFB
+N500,000 on the CCO.
+(c) N100,000 – Tier 2
+(b) N250,000 on other
+Unit MFB
+culpable employees.
+(d) N200,000 – State
+A minimum penalty of
+MFB
+N200,000 per customer.
+(e) N300,000 - National
+MFB
+(f  ) N200,000 – State
+PMB
+(g) N300,000 - National
+PMB
+(h) N200,000 - FC)
+(i) N300,000- RDFIs)
+(j) N500,000 - WDFIsB 511
+For PSPs:
+A minimum penalty on
+the CCO as follows:
+(a) N300,000– MMO
+(b) N100,000 – SP
+(c) N300,000 – PSSP
+(d) N300,000 – SA
+(d) N100,000 on other
+culpable employees
+A minimum penalty on
+the PSP as follows :
+(a) N100,000 per wallet
+holder – MMO
+(b) N50,000 per customer
+– SP
+(c) N100,000 per
+customer – PSSP
+(d) N50,000 per wallet
+and agent – SA
+4. Ongoing due
+Failure to conduct A minimum penalty as
+For OFIs:
+diligence –
+ongoing due follows :
+A minimum penalty on
+Regulation
+diligence on the
+the CCO as follows :
+For DMBs :
+12.
+business
+(a) N200,000 – BDCs
+(a) N1,500,000 on the
+relationship and
+(b) N200,000 – MFBs
+ECO.
+scrutinize
+(c) N100,000 - FCs
+(b) N1,000,000 on the
+transactions
+(d) N500,000 - PMBs
+CCO
+undertaken
+(e) N 750,000 - DFIs.
+(c) N500,000 on other
+throughout the
+(f  ) N200,000 on other
+culpable employees
+course of the
+culpable employees.
+A minimum penalty of
+relationship.
+N100,000 per customer of
+A minimum penalty of
+the DMB.
+N50,000 per customer.
+For PSBs :
+For PSPs
+(a) N500,000 on the CCO
+A minimum penalty on
+(b) N250,000 on other
+the CCO as follows :
+culpable employees
+(a) N500,000 –MMO
+A minimum penalty of
+(b) N300,000 – SP
+N50,000 per customer of
+(c) N500,000 – PSSP
+the PSB.
+(d) N500,000- SA
+(e) N300,000 on other
+culpable employees.
+A minimum penalty on
+the PSP as follows :
+(a) N1,000,000 – MMOB 512
+(b) N500,000 – SP
+(c) N1,000,000 – PSSP
+(d) N1,000,000 – SA
+And a minimum penalty
+of  N100,000 per wallet,
+merchant or customer.
+For IMTOs :
+N1,000,000 on the
+IMTO.
+5. Risks based 1. Failure to A minimum penalty as For OFIs :
+approach to implement risk follows : A minimum penalty on
+CDD – and based approach (a) N1,250,000 on the the CCO as follows:
+tiered KYC to CDD ECO. (a) N100,000 – BDCs
+Regulations 2. Failure to obtain (b) N1,000,000 on the (b) N100,000 – MFBs
+15 and 16 CBN approval CCO. (c) N200,000 - FCs
+before (c) N15million on the (d) N500,000 - PMBs
+implementing DMB. (e) N1 million DFIs)
+simplified CDD A minimum penalty of
+A minimum penalty on
+(other than N500,000 per customer
+the OFI as follows :
+TKYC) (where applicable).
+(a) N1 million – BDCs
+measures.
+For PSBs : (b) N500,000 – Tier 1
+3. Failure to
+(a) N500,000 on the Unit MFBs
+comply with
+CCOs. (c) N300,000 – Tier 2
+Tiered KYC
+(b) N10million on the Unit MFBs
+measures as
+PSB. (d) N1 million – State
+stipulated in the
+A minimum penalty of MFBs
+CBN AML, CFT
+N200,000 per customer (e) N2 million - National
+and CPF
+(where applicable). MFBs
+Regulations
+(f  ) N2million – State
+2022.
+PMBs
+(g) N5 million - National
+PMBs
+(h) N1 million - FCs
+(i) N5 million - RDFIs.
+(j) N10 million – WDFIs
+A minimum penalty of
+N100,000 per customer
+(where applicable).
+For PSP :
+A minimum penalty on
+the CCO as follows:
+(a) N500,000 – MMOs
+(b) N100,000 – SPB 513
+(c) N500,000 – PSSPs
+(d) N500,000 – SA
+A minimum penalty on
+the PSP as follows :
+(a) N2,000,000 –
+MMOs
+(a) N500,000 – SP
+(b) N2,000,000 – PSSPs
+(c) N500,000 – SA
+A minimum penalty of
+N200,000 per
+customer.
+For  IMTOs :
+N500,000 on the IMTO
+A minimum penalty as
+4. Failure to
+For  OFIs :
+follows :
+conduct initial
+A minimum penalty on
+customer risk
+For DMBs :
+the CCO as follows :
+assessment for
+(a) N1,500,000 on the
+(a) N200,000 – BDCs
+each customer.
+ECO.
+(b) N200,000 – MFBs
+(b) N1,000,000 on the
+(c) N100,000 - FCs
+CCO
+(d) N500,000 - PMBs
+(c) N500,000 on other
+(e) N 750,000 - DFIs.
+culpable employees.
+(f  ) N200,000 on other
+culpable employees
+A minimum penalty of
+N100,000 per customer of
+A minimum penalty of
+the DMB.
+N50,000 per customer.
+For PSBs : For PSPs
+(a) N500,000 on the CCO A minimum penalty on
+(b) N250,000 on other the CCO as follows:
+culpable employees. (a) N500,000 –MMO
+(b) N300,000 – SP
+A minimum penalty of
+(c) N500,000 – PSSP
+N50,000 per customer of
+(d) N500,000- SA
+the PSB.
+(e) N300,000 on other
+culpable employees.
+A minimum penalty on
+the PSP as follows :
+(a) N1,000,000 – MMO
+(b) N500,000 – SP
+(c) N1,000,000 – PSSP
+(d) N1,000,000 – SAB 514
+And a minimum
+penalty of N100,000
+per wallet, merchant
+or customer.
+For IMTOs :
+N1,000,000 on the
+IMTO
+For  OFIs :
+6. Enhanced
+A minimum penalty as
+Failure to perform
+A minimum penalty on
+CDD –
+follows:
+enhanced CDD for
+the CCO as follows :
+Regulation
+For DMBs :
+customers,
+(a) N200,000 –BDCs
+ 17
+(a) N1,500,000 on the
+business
+(b) N200,000 –MFBs
+ECO.
+relationship or
+(c) N100,000 - FCs
+(b) N1,000,000 on the
+transactions with
+(d) N500,000 - PMBs
+CCO.
+higher ML, TF and
+(e) N 750,000 - DFIs.
+(c) A minimum penalty
+PF risks.
+of N500,000 per
+A minimum penalty of
+customer concerned.
+N100,000 on OFIs per
+customer.
+For PSBs :
+(a) N500,000 on the CCO
+For PSPs :
+(b) A minimum penalty
+A minimum penalty on
+of  N200,000 per
+the CCO as follows:
+customer concerned.
+(a) N500,000 –MMO
+(b) N300,000 – SP
+(c) N500,000 –PSSP
+(d) N500,000 - SA
+A minimum penalty on
+the PSP as follows:
+(a) N300,000 per
+wallet –MMO
+(b) N100,000 per
+customer – SP
+(c) N300,000 per
+customer –PSSP
+(d) N300,000 per
+agent and
+customer –SA
+For IMTOs :
+A minimum penalty of
+N100,000 per
+customer.B 515
+Failure to conduct A minimum penalty as For  OFIs :
+7. CDD with
+Agent due follows : N200,000 per agent.
+respect to
+diligence and
+agents
+For DMBs: For PSPs :
+monitoring.
+Regulation
+(a) N1,000,000 each on A minimum penalty per
+  45
+the MD and ECO. agent as follows :
+(b) N750,000 on the CCO. (a) N500,000 – MMO
+(c) N500,000 per agent. (b) N100,000 – SP
+(c) N500,000 – PSSP
+(d) N500,000 – SA
+For  IMTOs :
+     Minimum penalty of
+N500,000 per agent
+of the IMTO.
+8. Keep records
+Failure to keep
+For  DMBs : For  OFIs :
+and ensure
+records and ensure
+A minimum penalty of A minimum penalty on
+that records
+that records are up
+N10million on the DMB. the OFI as follows :
+are up to date
+to date
+For  PSBs : (a) N1 million – BDC
+Regulation 23
+A minimum penalty of (b) N300,000 – Tier 1
+N5million on the PSB. Unit MFB
+(c) N200,000 – Tier 2
+Unit MFB
+(d) N1 million – State
+MFB
+(e) N2 million - National
+MFB
+(f ) N1million – State
+PMB
+(g) N2 million - National
+PMB
+(h) N500,000 million - FC
+(i) N2 million - RDFIs.
+(j ) N3 million - WDFIs
+For PSPs :
+A minimum penalty on
+the CCOs as follows :
+(a) N300,000 – MMO
+(b) N100,000 – SP
+(c) N300,000 – PSSP
+(d) N300,000 – SA
+A minimum penalty on
+the PSP as follows :
+(a) N1,000,000 – MMOB 516
+(b) N500,000 – SP
+(c) N1,000,000– PSSP
+(d) N500,000 – SA
+For IMTOs) :
+N500,000 on the
+IMTO.
+Failure to
+9. Timing of A minimum penalty as For OFIs:
+complete the
+verification – follows : A minimum penalty on
+verification of the
+Regulation the CCO as follows:
+For DMBs:
+identity of the
+21 (a) N100,000 –BDCs
+(a) N500,000 on the ECO.
+customer and
+(b) N100,000 –MFBs
+(b) N300,000 on the CCO.
+beneficial owner
+(c) N100,000 - FCs
+(c) N300,000 on other
+within 48 hours
+(d) N100,000 - PMBs
+culpable employees.
+based on criteria
+(e ) N100,000 - DFIs.
+A minimum penalty of
+set out in
+A minimum penalty of
+N500,000 per customer on
+Regulation 22 of
+N100,000 per customer
+the DMB.
+the CBN AML,
+of  OFIs
+CFT and CPF
+For PSBs :
+For PSPs :
+Regulations.
+(a) N300,000 on the CCO
+A minimum penalty on
+(b) N200,000 each on
+the CCO as follows :
+other culpable
+(a) N300,000 –MMO
+employees.
+(b) N100,000 – SP
+A minimum penalty of
+(c) N300,000 –PSSP
+N200,000 per customer of
+(d) N300,000- SA
+the PSB.
+A minimum penalty on
+the PSP as follows :
+(a) N300,000 per wallet
+holder –MMO
+(b) N100,000 per wallet
+– SP
+(c) N300,000 per
+customer –PSSP
+(d) N300,000 per agent
+and customer –SA
+For IMTOs :
+A minimum penalty of
+N100,000 per customer.B 517
+A minimum penalty as For OFIs :
+10. Identification
+Failure to conduct
+follows : A minimum penalty on
+for specific
+additional CDD
+the MD and CCO as
+customers
+for specific
+For DMBs :
+follows :
+and
+customers and
+(a) N1,500,000 on the
+(a) N300,000 – MFBs
+businesses –
+businesses as
+MD and ECO.
+(b) N200,000 - FCs
+Regulation
+contain in Part III
+(b) N1,000,000 on the
+(c) N500,000 - PMBs
+25 – 44
+CCO.
+(d) N500,000 DFIs.
+(c) N500,000 on other
+(e) N250,000 on other
+culpable employees
+culpable employees
+(d) N100,000 per
+customer. For PSPs :
+A minimum penalty on
+For PSBs :
+the MD and CCO as
+(a) N500,000 on the Chief
+follows :
+Compliance Officer.
+(a)  N500,000 – MMO
+(b) N250,000 on other
+(b) N100,000 – SP
+culpable employees
+(c) N500,000 – PSSP
+A minimum penalty of
+(d) N500,000 – SA
+N50,000 per customer.
+(e) N250,000 on other
+culpable employees.
+For OFIs :
+11. Sanction for
+Any FI who A minimum penalty as
+A minimum penalty on
+contraventions
+contravenes any follows :
+the MD and CCO as
+not expressly
+provision of these
+For DMBs :
+follows :
+provided.
+Regulations for
+(a) N1,500,000 each on the
+(a) N300,000 – MFBs
+which a sanction
+MD and ECO.
+(b) N200,000 - FCs
+is not expressly
+(b) N1,000,000 each on the
+(c) N500,000 - PMBs
+provided for,
+CCO.
+(d) N 1 million DFIs.
+commits an
+(c) N2 million on the
+A minimum penalty per
+infraction
+DMB.
+transaction on the OFI
+For PSBs:
+as follows :
+(a)  N500,000 on the MD
+(a) N300,000 – Tier 1
+and CCO.
+Unit MFB
+(b) N250,000 on other
+(b) N300,000 – Tier 2
+culpable employees
+Unit MFB
+(c) N500,000 on the PSB.
+(c) N500,000 – MFB
+A minimum penalty of
+(d) N500,000 - MFB
+N50,000 on PSB per
+(e) N500,000 – State
+customer.
+PMB
+(f ) N500,000 - National
+PMB
+(g) N500,000 - FC
+(h) N500,000 - RDFIs.
+(i) N1 million - WDFIsB 518
+For PSPs :
+A minimum penalty on
+the MD and CCO as
+follows :
+(a)   N500,000 – MMO
+(b) N200,000 – SP
+(c) N500,000 – PSSP
+(d) N500,000 – SA
+A minimum penalty per
+transaction on the PSP
+as follows:
+(a) N500,000– MMO
+(b. N200,000 – SP
+(c) N500,000– PSSP
+(d) N500,000– SA
+For IMTOs :
+N500,000 on the
+IMTOB 519
+TABLE OF ABBREVIATIONS
+AML — Anti-Money Laundering
+BDC — Bureau De Change
+BO — Beneficial Owner
+CAC — Corporate Affairs Commission
+CBN — Central Bank of Nigeria
+CCO — Chief Compliance Officer
+CDD — Customer Due Diligence
+CFT — Combating the Financing of Terrorism
+CPF — Countering Proliferation Financing
+CRO — Chief Risk Officer
+DFIs — Development Finance Institutions
+DNFBPs — Designated Non-Financial Business and Professions
+DMBs — Deposit Money Banks
+ECO — Executive Compliance Officer
+EDD — Enhanced Due Diligence
+FC — Finance Companies
+FIs — Financial Institutions
+IMTOs — International Money Transfer Operators
+KYC — Know-Your-Customer
+MD — Managing Director
+MFBs — Micro Finance Banks
+ML — Money Laundering
+MMOs — Mobile Money Operators
+MVTS — Money and Value Transfer Services
+NFIU — Nigerian Financial Intelligence Unit
+NIMC — National Identity Management Commission
+NIN — National Identification Number
+PEP — Politically Exposed Person
+PF — Proliferation Financing
+PMBs — Primary Mortgage Banks
+PSBs — Payment Service Banks
+PSSbs — Payment Solution Service Providers
+RDFIs — Retail Development Finance Institutions
+RMs — Relationship Manager
+ROs — Religious Organisations
+SAs — Super Agent s
+SPs — Switching and Processing
+SPVs — Special Purpose Vehicles
+STR — Suspicious Transaction Report
+TF — Terrorism Financing
+UNSCRs — United Nations Security Council Resolutions
+WDFIs — Wholesale Development Finance InstitutionsB 520
+MADE at Abuja this 31st day of May, 2023.
+GODWIN I. EMEFIELE, CON
+Governor, Central Bank of Nigeria
+EXPLANATORY NOTE
+(This note does not form part of these Regulations
+but is intended to explain its purpose)
+These Regulations seek to ensure that Financial Institutions comply withcustomer due
+diligence measures as required by the Anti-Money Laundering, Combating the Financing
+of Terrorism, and Countering Proliferation Financing of Weapons of Mass Destruction
+legislations and regulations.
